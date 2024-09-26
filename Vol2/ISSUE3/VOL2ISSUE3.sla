@@ -491,7 +491,7 @@
                 <trail ALIGN="1" LINESP="27"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="417.761467889908" YPOS="1417.30196850394" OwnPage="1" ItemID="131190544" PTYPE="4" WIDTH="281.247706422018" HEIGHT="97.125" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L281.248 0 L281.248 97.125 L0 97.125 L0 0 Z" copath="M0 0 L281.248 0 L281.248 97.125 L0 97.125 L0 0 Z" gXpos="417.761467889908" gYpos="1417.30196850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="-375.238532110092" YPOS="1354.30196850394" OwnPage="-1" ItemID="131190544" PTYPE="4" WIDTH="281.247706422018" HEIGHT="97.125" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L281.248 0 L281.248 97.125 L0 97.125 L0 0 Z" copath="M0 0 L281.248 0 L281.248 97.125 L0 97.125 L0 0 Z" gXpos="-375.238532110092" gYpos="1354.30196850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" CH="Kyle Hynes"/>
@@ -698,7 +698,7 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="122.35" YPOS="3051.2" OwnPage="3" ItemID="134273120" PTYPE="2" WIDTH="133.65" HEIGHT="105.576968503941" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.234473684210526" LOCALSCY="0.234473684210526" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../relevant_images/readme_upscaled-removebg-preview.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L133.65 0 L133.65 105.577 L0 105.577 L0 0 Z" copath="M0 0 L133.65 0 L133.65 105.577 L0 105.577 L0 0 Z" ImageRes="2" gXpos="122.35" gYpos="2219.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="-153.8375" YPOS="3178.13946850394" OwnPage="-1" ItemID="134237008" PTYPE="4" WIDTH="93.4374999999999" HEIGHT="105.362499999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L93.4375 0 L93.4375 105.362 L0 105.362 L0 0 Z" copath="M0 0 L93.4375 0 L93.4375 105.362 L0 105.362 L0 0 Z" gXpos="-67.622834645669" gYpos="2477.11850393701" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="-615.8375" YPOS="3157.13946850394" OwnPage="-1" ItemID="134237008" PTYPE="4" WIDTH="93.4374999999999" HEIGHT="105.362499999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L93.4375 0 L93.4375 105.362 L0 105.362 L0 0 Z" copath="M0 0 L93.4375 0 L93.4375 105.362 L0 105.362 L0 0 Z" gXpos="-529.622834645669" gYpos="2456.11850393701" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle FONT="Bernard MT Condensed Regular"/>
                 <ITEXT CH="readme links for students who can't read good and who wanna learn how to do other stuff good too"/>
@@ -874,5 +874,53 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="609.06" YPOS="3155.81446850394" OwnPage="3" ItemID="137678864" PTYPE="2" WIDTH="81.5400000000001" HEIGHT="139.875" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.104618548990277" LOCALSCY="0.104618548990277" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../relevant_images/KGB.png" IRENDER="0" EMBEDDED="0" path="M0 0 L81.54 0 L81.54 139.875 L0 139.875 L0 0 Z" copath="M0 0 L81.54 0 L81.54 139.875 L0 139.875 L0 0 Z" ImageRes="2" gXpos="609.06" gYpos="1491.81446850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="-340.550458715596" YPOS="2515.01664740302" OwnPage="-1" ItemID="227650416" PTYPE="4" WIDTH="403.376146788991" HEIGHT="847.98" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L403.376 0 L403.376 847.98 L0 847.98 L0 0 Z" copath="M0 0 L403.376 0 L403.376 847.98 L0 847.98 L0 0 Z" gXpos="-340.550458715596" gYpos="2515.01664740302" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Cindy Gao"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH="The government’s taking all my pronouns, help "/>
+                <para ALIGN="1"/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    Hello valued readers! I’m Cindy, (they/them), better known as Auntie ReadMe. After opening my inbox to the questions that are stumping the best and brightest minds in the country, I have been continually disappointed against my lowest expectations, and not at all surprised. A completely unastonishing amount of you want to know how to make pipe bombs. Even more of you want me to commit AIVs for you in the name of defusing a bomb. Figures, but I can’t even find the terminal on my computer."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    However, there has been one problem amidst the slag that has caught my eye—one so daring and relevant to today’s society that I can’t not take a shot at answering it. Thank you to Danya Kogan for asking–"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    “The gay baristas at La Prima are being replaced with CS majors. I don’t want a CS major to serve me coffee, I want a person with at least two pronouns!” "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="—"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    Let’s approach this problem the way most Carnegie Mellon students approach a problem–with a systematic breakdown. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    The computer science job market! Not doing so well! After recent advances in the field of using animal neural nets to produce creative work, disgruntled writers have begun turning it on the field of coding. As such, computer science students have begun to try to find work in coffee shops, displacing many employees with a variety of pronouns. This has created a shortage of pronouns in the barista industry."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    So what is to be done? "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    Luckily, economics is a field with an impressive diversity of opinion on how best to destabilize foreign governments, pursue general exploitation, create models of people in increasingly unrealistic ways, and lie. Let’s see what the various economic schools have to say on this issue."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    As John Gay-nerd Keynes, the man that put the “homo” in “homo economicus,” the man that the invisible hand of the marketplace would have limp-wristed said, “demand-side economics, baby!”"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    He would have probably approved of the government creating more demand for computer science jobs, such as creating immensely applicable and useful languages like Brainfuck, porting all code currently written in C to the memory-safe computer language Rust, and attempting to create artificial intelligence that can correctly count the number of “r”s in “strawberry.” Simple. Easy. Immensely boring. A completely unprecedented policy suggestion that has never been the topic of political debate at all, whatsoever."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    Of course, there’s also supply-side economics, or trickle-down economics. This intervention, championed by our favorite president Ronald Reagan, would involve a gay beam hitting the largest computer science companies in order to give computer science majors more pronouns.  Given that many computer science endeavors are already sponsored by HRT, this shouldn’t be a groundbreaking shift for anyone, and is precisely what Reaganomics would have stood for. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    Of course, there’s also the option of negative and progressive income taxes, which suggest that anyone falling beneath a specific cutoff will receive benefits instead of taxes, with higher taxes falling on those above the cutoff. This will involve us redistributing the wealth of pronouns from taxpayers to computer science majors. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    Thanks for checking out the financial part of this newspaper, which we all know you all only read to try to feel somewhat better about only picking up ReadMe for the crosswords and stuff. Signing off now, I have been Cindy, ( / ), and it’s been a pleasure reporting for you!"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
