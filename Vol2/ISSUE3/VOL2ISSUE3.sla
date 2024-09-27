@@ -138,7 +138,7 @@
         <PAGEOBJECT XPOS="124.75" YPOS="1420.81446850394" OwnPage="1" ItemID="206060320" PTYPE="4" WIDTH="279.9" HEIGHT="202.087499999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L279.9 0 L279.9 202.087 L0 202.087 L0 0 Z" copath="M0 0 L279.9 0 L279.9 202.087 L0 202.087 L0 0 Z" gXpos="124.75" gYpos="1420.81446850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" MinWordTrack="0.98" FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US"/>
-                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Johnathan Wang"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Jonathan Wang"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10" MinWordTrack="0.98"/>
                 <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH="Shell Oil Enthusiast"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10" MinWordTrack="0.98"/>
@@ -536,31 +536,31 @@
                 <trail LINESP="10"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="417.8" YPOS="975.3125" OwnPage="1" ItemID="134205856" PTYPE="4" WIDTH="280.8" HEIGHT="442.589468503937" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.8 0 L280.8 442.589 L0 442.589 L0 0 Z" copath="M0 0 L280.8 0 L280.8 442.589 L0 442.589 L0 0 Z" gXpos="417.8" gYpos="143.312499999991" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="417.8" YPOS="975.3125" OwnPage="1" ItemID="134205856" PTYPE="4" WIDTH="280.8" HEIGHT="381.979376760818" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.8 0 L280.8 381.979 L0 381.979 L0 0 Z" copath="M0 0 L280.8 0 L280.8 381.979 L0 381.979 L0 0 Z" gXpos="417.8" gYpos="143.312499999991" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="6"/>
-                <ITEXT FONT="Bell MT Bold" CH="Ryan Chernoff"/>
-                <para ALIGN="1" LINESP="10"/>
-                <ITEXT FONT="Bell MT Italic" SCALEH="100" SCALEV="100" KERN="6" CH="Cat Lover"/>
-                <para ALIGN="1" LINESP="10"/>
-                <para ALIGN="1" LINESP="10"/>
-                <ITEXT SCALEV="100" KERN="6" CH="   "/>
-                <ITEXT CH="Are you a proud Tartan? Do you like copious amounts of violence? Have you tried to participate in dogfighting but were too concerned about the legality? Fortunately for you, earlier this week ReadMe executives failed to thoroughly read my amendments to the yearly budget and have now approved plans for a new dog-watching ring. Very soon you will be able to enjoy some good old fashioned Scotty-Dog kerfuffles without the downsides of committing a class three felony."/>
-                <para LINESP="10"/>
-                <ITEXT CH="    But, you may ask, what exactly is dog-watching and how does it differ from dogfighting? Well, dogfighting is legally classified as engaging in one or more of the following: allows dogs to fight for amusement or gain, owns or acquires a dog for fighting, bets or hosts bets on the outcome of dogs fighting, or permits a place under your control in which dogs are fighting. "/>
-                <para LINESP="10"/>
-                <ITEXT CH="    Now dog-watching differs from this by firstly and most importantly forbidding the amusement of all present. It is clearly dictated that dog fights require amusement by those organizing or spectating so to avoid engaging in illegal dogfighting, there will be several large signs warning patrons to forgo amusement during the dog-watching process. If anyone is amused it is our responsibility to report it as you would be engaging in illegal activity and possibly implicate ReadMe staff as your accomplices. "/>
-                <para LINESP="10"/>
-                <ITEXT CH="    ReadMe will also not be profiting from these activities in any manner as any profits would be classified as gain and would make the activity illegal. Since it is illegal to acquire a dog for fighting, dog-watching will be hosted in Schenley Park where we will have access to several stray dogs that we can ask politely to fight for our non-amusement. "/>
-                <para LINESP="10"/>
-                <ITEXT CH="    Although we can’t host bets on the outcomes of fights, there will be unamusing snacks offered. Due to severe economic stress, the price of these snacks will likely fluctuate at the end of each fight. We will therefore compensate everyone for any price differences caused by these fluctuations. All snack profits will be dumped into the Monongahela to avoid gain. "/>
-                <para LINESP="10"/>
-                <ITEXT CH="Lastly, Schenley is not owned by ReadMe so all dog-watching activities avoid violating any of the Pennsylvania dogfighting laws."/>
-                <para LINESP="10"/>
-                <ITEXT CH="   Thanks to ReadMe, you can now engage in legal dog-watching every Saturday from 6 to 8PM ET. Don’t miss your chance to give it a try! After all, It’s only a matter of time until ReadMe reverts my budget changes."/>
-                <para LINESP="10"/>
-                <para LINESP="10"/>
-                <para LINESP="10"/>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="Ryan Chernoff"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="6" LANGUAGE="en_US" CH="Cat Lover"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEV="100" KERN="6" LANGUAGE="en_US" CH="   "/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="Are you a proud Tartan? Do you like copious amounts of violence? Have you tried to participate in dogfighting but were too concerned about the legality? Fortunately for you, earlier this week ReadMe executives failed to thoroughly read my amendments to the yearly budget and have now approved plans for a new dog-watching ring. Very soon you will be able to enjoy some good old fashioned Scotty-Dog kerfuffles without the downsides of committing a class three felony."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="    But, you may ask, what exactly is dog-watching and how does it differ from dogfighting? Well, dogfighting is legally classified as engaging in one or more of the following: allows dogs to fight for amusement or gain, owns or acquires a dog for fighting, bets or hosts bets on the outcome of dogs fighting, or permits a place under your control in which dogs are fighting. "/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="    Now dog-watching differs from this by firstly and most importantly forbidding the amusement of all present. It is clearly dictated that dog fights require amusement by those organizing or spectating so to avoid engaging in illegal dogfighting, there will be several large signs warning patrons to forgo amusement during the dog-watching process. If anyone is amused it is our responsibility to report it as you would be engaging in illegal activity and possibly implicate ReadMe staff as your accomplices. "/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="    ReadMe will also not be profiting from these activities in any manner as any profits would be classified as gain and would make the activity illegal. Since it is illegal to acquire a dog for fighting, dog-watching will be hosted in Schenley Park where we will have access to several stray dogs that we can ask politely to fight for our non-amusement. "/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="    Although we can’t host bets on the outcomes of fights, there will be unamusing snacks offered. Due to severe economic stress, the price of these snacks will likely fluctuate at the end of each fight. We will therefore compensate everyone for any price differences caused by these fluctuations. All snack profits will be dumped into the Monongahela to avoid gain. "/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="Lastly, Schenley is not owned by ReadMe so all dog-watching activities avoid violating any of the Pennsylvania dogfighting laws."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="   Thanks to ReadMe, you can now engage in legal dog-watching every Saturday from 6 to 8PM ET. Don’t miss your chance to give it a try! After all, It’s only a matter of time until ReadMe reverts my budget changes."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="-210.44" YPOS="885" OwnPage="-1" ItemID="134197360" PTYPE="4" WIDTH="282.44" HEIGHT="120.526968503937" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L282.44 0 L282.44 120.527 L0 120.527 L0 0 Z" copath="M0 0 L282.44 0 L282.44 120.527 L0 120.527 L0 0 Z" gXpos="-210.44" gYpos="52.999999999998" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -925,8 +925,21 @@
         <PAGEOBJECT XPOS="113.813876146789" YPOS="1700.77811529293" OwnPage="2" ItemID="227664576" PTYPE="4" WIDTH="292.186123853211" HEIGHT="121.54128440367" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L292.186 0 L292.186 121.541 L0 121.541 L0 0 Z" copath="M0 0 L292.186 0 L292.186 121.541 L0 121.541 L0 0 Z" gXpos="113.813876146789" gYpos="1700.77811529293" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="27"/>
-                <para ALIGN="1" LINESP="27"/>
-                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" CH="Baristas Hate This One Simple Trick to Better Tasting Coffee"/>
+                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" CH="Auntie ReadMe Advises On: Lack of Pronouns in the Barista Industry Due to Tech Layoffs"/>
+                <trail ALIGN="1" LINESP="27"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="409.740481651376" YPOS="1468.36527125623" OwnPage="1" ItemID="227678736" PTYPE="4" WIDTH="288" HEIGHT="155.229357798165" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L288 0 L288 155.229 L0 155.229 L0 0 Z" copath="M0 0 L288 0 L288 155.229 L0 155.229 L0 0 Z" gXpos="409.740481651376" gYpos="1468.36527125623" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="It has come to our attention that on September 19th, a ReadMe contractor was caught attempting to commit aggravated robbery for a sum of $5.00 but was thwarted due to their target's lack of cash, Zelle, or Cash App. We deeply apologize for the negative impact of this particular employee as we know the city of Pittsburgh takes great pride in the quality of their criminal activity. We had intended to hire a seasoned professional to contribute to Pittsburgh’s criminal enterprise in a tasteful and constructive way while making up for some of this quarter's heavy losses. However, a lapse in judgment on the behalf of our hiring manager led us to forgo a proper background check of our candidate. We were led to believe that they had Venmo. Clearly, this oversight severely hurt our community and we at ReadMe could not express any more regret. The ReadMe team therefore promises to never let anything like this happen again and to henceforth be nothing but a positive influence on the criminal underground of this great city."/>
+                <trail LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="415.685435779817" YPOS="1363.89738134797" OwnPage="1" ItemID="227681568" PTYPE="4" WIDTH="278.752293577982" HEIGHT="99.7431192660549" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L278.752 0 L278.752 99.7431 L0 99.7431 L0 0 Z" copath="M0 0 L278.752 0 L278.752 99.7431 L0 99.7431 L0 0 Z" gXpos="415.685435779817" gYpos="1363.89738134797" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="27" FONT="Bernard MT Condensed Regular" FONTSIZE="30"/>
+                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" CH="Satire Publication Behind Attempted Robbery Last Week? Readme Respons"/>
                 <trail ALIGN="1" LINESP="27"/>
             </StoryText>
         </PAGEOBJECT>
