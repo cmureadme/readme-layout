@@ -135,34 +135,15 @@
         </FRAMEOBJECT>
         <PAGEOBJECT XPOS="417.04" YPOS="3149.80196850394" OwnPage="3" ItemID="205843616" PTYPE="2" WIDTH="272.6" HEIGHT="146.749999999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" path="M0 0 L272.6 0 L272.6 146.75 L0 146.75 L0 0 Z" copath="M0 0 L272.6 0 L272.6 146.75 L0 146.75 L0 0 Z" ImageRes="2" gXpos="417.04" gYpos="3149.80196850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="853.4625" YPOS="1655.80196850394" OwnPage="-1" ItemID="205848880" PTYPE="2" WIDTH="288.4775" HEIGHT="202.349999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" path="M0 0 L288.477 0 L288.477 202.35 L0 202.35 L0 0 Z" copath="M0 0 L288.477 0 L288.477 202.35 L0 202.35 L0 0 Z" ImageRes="2" gXpos="853.4625" gYpos="1655.80196850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="-365.25" YPOS="1386.81446850394" OwnPage="-1" ItemID="205854144" PTYPE="4" WIDTH="279.9" HEIGHT="202.087499999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L279.9 0 L279.9 202.087 L0 202.087 L0 0 Z" copath="M0 0 L279.9 0 L279.9 202.087 L0 202.087 L0 0 Z" gXpos="-365.25" gYpos="1386.81446850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="-296.25" YPOS="1039.81446850394" OwnPage="-1" ItemID="205854144" PTYPE="4" WIDTH="279.9" HEIGHT="202.087499999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L279.9 0 L279.9 202.087 L0 202.087 L0 0 Z" copath="M0 0 L279.9 0 L279.9 202.087 L0 202.087 L0 0 Z" gXpos="-296.25" gYpos="1039.81446850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" MinWordTrack="0.98" FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US"/>
-                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Jonathan Wang"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Danya Kogan"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10" MinWordTrack="0.98"/>
-                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH="Shell Oil Enthusiast"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH="Professional Person"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10" MinWordTrack="0.98"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10" MinWordTrack="0.98"/>
-                <ITEXT CH="    Readme financial officer Benner Rogers has stepped forward with the reason why Readme has recently filed for chapter 15 bankruptcy."/>
-                <para/>
-                <ITEXT CH="    “It’s because of all the crude oil we’re buying”. She says."/>
-                <para/>
-                <ITEXT CH="    Crude oil, which is $1.70 per gallon at the time of writing this article, has recently seen a market dip of 9.3% over the past month, the lowest it’s been all year. Rogers reports that the dip has allowed Readme to purchase thousands of gallons of crude oil for their climate acceleration plan."/>
-                <para/>
-                <ITEXT CH="    “It’s the reason why we’re broke, but it’s also the reason why we’re so glad we’re broke. Because we can do what readme was originally assembled to do”. "/>
-                <para/>
-                <ITEXT CH="    The rEadme climate acceleration plan, a plan which is outlined in a 90000 page document, spanning 3 CMU students’ Google drive accounts, is a plan to exacerbate the effects of humans on the global environment."/>
-                <para/>
-                <ITEXT CH="    “We’re not denying climate change exists, we see its effects all over the globe. We’re trying to bring its full effects into existence. I don’t know about you, but being able to fry an egg on the sidewalk over the summer has been saving me so much in electricity bills.”"/>
-                <para/>
-                <ITEXT CH="    Editor-in-chief Eshaan Joshi refused to comment on the matter."/>
-                <para/>
-                <para/>
-                <para/>
-                <para/>
-                <para/>
-                <para/>
-                <para/>
+                <ITEXT FONTSIZE="9" CH="    After a 9:30-10:50 am class, one may find themselves walking over to De Fer, for a fine sip of morning brew. What one will find, however, is a line of 500 cretins, plebeians, simpletons, and many other types who have absolutely no idea what they are doing. It is 11 am in the morning and, on Hashem, I want my fucking fall spice latte. All these self-proclaimed “free thinkers” and “bastions of independent thought” cannot help but to have the same idea of going to DeFer at exactly 10:57 in the morning and ruining my day, all because they want their little drinks. This is literally the tragedy of the commons! They cannot all want a coffee, it is selfish, rude and overall very very nasty. Individuality is dead, and we (not me, I am very polite) have killed it! All in favor of a fucking coffee in the morning! I hope the floor collapses under their weight."/>
                 <para/>
             </StoryText>
         </PAGEOBJECT>
@@ -274,24 +255,26 @@
                 <para LINESP="14"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="-366.56" YPOS="1176.2" OwnPage="-1" ItemID="208065120" PTYPE="2" WIDTH="278.06" HEIGHT="203.401968503937" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.132409523809524" LOCALSCY="0.132409523809524" LOCALX="-8027.19134736843" LOCALY="120.27788363426" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../../Downloads/ShellReadme.png" IRENDER="0" EMBEDDED="0" path="M0 0 L278.06 0 L278.06 203.402 L0 203.402 L0 0 Z" copath="M0 0 L278.06 0 L278.06 203.402 L0 203.402 L0 0 Z" ImageRes="2" gXpos="-366.56" gYpos="1176.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="852.4" YPOS="1991.08946850394" OwnPage="-1" ItemID="223517728" PTYPE="4" WIDTH="283.422244094488" HEIGHT="211.162499999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L283.422 0 L283.422 211.162 L0 211.162 L0 0 Z" copath="M0 0 L283.422 0 L283.422 211.162 L0 211.162 L0 0 Z" gXpos="852.4" gYpos="1991.08946850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="-316.56" YPOS="734.2" OwnPage="-1" ItemID="208065120" PTYPE="2" WIDTH="278.06" HEIGHT="203.401968503937" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.132409523809524" LOCALSCY="0.132409523809524" LOCALX="-8027.19134736843" LOCALY="120.27788363426" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../../Downloads/ShellReadme.png" IRENDER="0" EMBEDDED="0" path="M0 0 L278.06 0 L278.06 203.402 L0 203.402 L0 0 Z" copath="M0 0 L278.06 0 L278.06 203.402 L0 203.402 L0 0 Z" ImageRes="2" gXpos="-316.56" gYpos="734.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="852.4" YPOS="1930.08946850394" OwnPage="-1" ItemID="223517728" PTYPE="4" WIDTH="283.422244094488" HEIGHT="211.162499999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L283.422 0 L283.422 211.162 L0 211.162 L0 0 Z" copath="M0 0 L283.422 0 L283.422 211.162 L0 211.162 L0 0 Z" gXpos="852.4" gYpos="1930.08946850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="9" FONT="Bell MT Regular" FONTSIZE="9"/>
-                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Dr. Et Al*, Danya Kogan%, and others"/>
+                <ITEXT CH="Tyan Rosh"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="9"/>
-                <ITEXT FONT="Bell MT Italic" CH="Readme Department of Science"/>
+                <ITEXT FONT="Bell MT Italic" CH="Seceding Sympathizer"/>
                 <para ALIGN="1"/>
                 <para/>
-                <ITEXT FONT="Bell MT Italic" CH="*= carnegie mellon department of psychology"/>
+                <ITEXT CH="In 1967, an offshore platform in the North Sea was seized by a pirate radio operator. This would become the Principality of Sealand, an unrecognized micronation. Recently, CMU's administration was struck with inspiration, and decided to secede from the United States, to form its own micronation."/>
                 <para/>
-                <ITEXT FONT="Bell MT Italic" CH="%= carnegie mellon department of mechanical engineering"/>
+                <ITEXT CH="The sovereign state of Carnegie-Mellon Republic (CMR) encompasses approximately 0.6 square kilometers, with a 4.8km border, soon to be secured with concrete walls with many bottle-cap-sized holes. Carnegie-Mellon is yet to establish diplomatic relations with any nations, minus one. Scotland has been receptive, and sent a bouquet of thistles to the CMR embassy in Edinburgh."/>
                 <para/>
+                <ITEXT CH="Carnegie-Mellon's government is set to be a constitutional republic, with a president and seven ministries. The Dietrich Ministry of Humanities and Social Sciences will be responsible for statecraft and international relations, and is currently working to draft a constitution. The Ministry of Fine Arts is writing a national anthem, which should be on Soundcloud by the end of the week."/>
                 <para/>
-                <ITEXT FONT="Bell MT Bold" CH="Abstract"/>
+                <ITEXT CH="The United States has been, as one press release described, &quot;agitated.&quot; CIT has been redesignated as the Carnegie Institute of Defense, which is now working tirelessly to secure our borders against a confused and heartbroken US military. CMU Rocket Command has been vital in defending the skies above the Republic, and the Naval ROTC has quickly secured CMU's territorial waters."/>
                 <para/>
+                <ITEXT CH="No longer do CMU undergraduates aspire to work for the military industrial complex of the past; the Mellon Ministry of Science has established a state-run defense contractor, Lockheed Mellon, to put the Republic's brightest minds to work."/>
                 <para/>
-                <ITEXT CH="    From the enclosure movement in 18th century England, the owning class has been tasked with answering how to maximize the productivity of their peons. As the modern American university becomes increasingly corporate and a profit-seeking endeavor, similar questions are now being asked by university administrators. Many things have been tried in the past- lashings, paternalistic brainwashing, foremen - which are certainly things university administrators should try, but may not be the most effective. This project found that the answer lies in the Yerkes-Dodson law, not external disincentives. The Yerkes Dodson law is a psychological theory stating that humans are most productive at their given “optimal arousal state” - i.e. a mental state somewhere between underwhelmed and overwhelmed. By shifting this state rightwards, students will be able to undertake more stress and therefore be more productive than they currently are under present CMU workloads. While this study did not manage to discover a method for causing this rightward shift, we identify the need for such by comparing the effectiveness of other productivity-increasing methods in past literature."/>
+                <ITEXT CH="While CMR currently relies on imports for some products, a self-sufficient economy is a not-so-distant dream. Many of the former academic buildings within the state's borders are now being repurposed as indoor farms, and free from the burden of studying, those in the Tepper Ministry of Business are settling into jobs in agriculture, manufacturing, and distribution."/>
                 <para/>
                 <para/>
                 <para/>
@@ -334,13 +317,6 @@
                 <trail ALIGN="1" LINESP="8"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="790.75" YPOS="879.90196850394" OwnPage="-1" ItemID="231884432" PTYPE="4" WIDTH="280.85" HEIGHT="93.1249999999967" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.85 0 L280.85 93.125 L0 93.125 L0 0 Z" copath="M0 0 L280.85 0 L280.85 93.125 L0 93.125 L0 0 Z" gXpos="790.75" gYpos="47.901968503934" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle LINESP="27"/>
-                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" SCALEH="100" CH="ReadMe Announces Launch of New Dog-Watching Ring"/>
-                <trail ALIGN="1"/>
-            </StoryText>
-        </PAGEOBJECT>
         <PAGEOBJECT XPOS="738.4" YPOS="1345.6" OwnPage="-1" ItemID="231887264" PTYPE="4" WIDTH="78.65" HEIGHT="11.351968503937" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L78.65 0 L78.65 11.352 L0 11.352 L0 0 Z" copath="M0 0 L78.65 0 L78.65 11.352 L0 11.352 L0 0 Z" gXpos="738.4" gYpos="1345.6" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" FONT="Bernard MT Condensed Regular" FONTSIZE="8"/>
@@ -348,39 +324,10 @@
                 <trail LINESP="10"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="839.8" YPOS="985.3125" OwnPage="-1" ItemID="234724208" PTYPE="4" WIDTH="280.8" HEIGHT="381.979376760818" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.8 0 L280.8 381.979 L0 381.979 L0 0 Z" copath="M0 0 L280.8 0 L280.8 381.979 L0 381.979 L0 0 Z" gXpos="839.8" gYpos="153.312499999991" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle PARENT="Default Paragraph Style" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US"/>
-                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" LANGUAGE="en_US" CH="Ryan Chernoff"/>
-                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
-                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="6" LANGUAGE="en_US" CH="Cat Lover"/>
-                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
-                <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEV="100" KERN="6" LANGUAGE="en_US" CH="   "/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="Are you a proud Tartan? Do you like copious amounts of violence? Have you tried to participate in dogfighting but were too concerned about the legality? Fortunately for you, earlier this week ReadMe executives failed to thoroughly read my amendments to the yearly budget and have now approved plans for a new dog-watching ring. Very soon you will be able to enjoy some good old fashioned Scotty-Dog kerfuffles without the downsides of committing a class three felony."/>
-                <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="    But, you may ask, what exactly is dog-watching and how does it differ from dogfighting? Well, dogfighting is legally classified as engaging in one or more of the following: allows dogs to fight for amusement or gain, owns or acquires a dog for fighting, bets or hosts bets on the outcome of dogs fighting, or permits a place under your control in which dogs are fighting. "/>
-                <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="    Now dog-watching differs from this by firstly and most importantly forbidding the amusement of all present. It is clearly dictated that dog fights require amusement by those organizing or spectating so to avoid engaging in illegal dogfighting, there will be several large signs warning patrons to forgo amusement during the dog-watching process. If anyone is amused it is our responsibility to report it as you would be engaging in illegal activity and possibly implicate ReadMe staff as your accomplices. "/>
-                <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="    ReadMe will also not be profiting from these activities in any manner as any profits would be classified as gain and would make the activity illegal. Since it is illegal to acquire a dog for fighting, dog-watching will be hosted in Schenley Park where we will have access to several stray dogs that we can ask politely to fight for our non-amusement. "/>
-                <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="    Although we can’t host bets on the outcomes of fights, there will be unamusing snacks offered. Due to severe economic stress, the price of these snacks will likely fluctuate at the end of each fight. We will therefore compensate everyone for any price differences caused by these fluctuations. All snack profits will be dumped into the Monongahela to avoid gain. "/>
-                <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="Lastly, Schenley is not owned by ReadMe so all dog-watching activities avoid violating any of the Pennsylvania dogfighting laws."/>
-                <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="   Thanks to ReadMe, you can now engage in legal dog-watching every Saturday from 6 to 8PM ET. Don’t miss your chance to give it a try! After all, It’s only a matter of time until ReadMe reverts my budget changes."/>
-                <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <para PARENT="Default Paragraph Style" LINESP="10"/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="851.7525" YPOS="1862" OwnPage="-1" ItemID="234746864" PTYPE="4" WIDTH="283.5" HEIGHT="119" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L283.5 0 L283.5 119 L0 119 L0 0 Z" copath="M0 0 L283.5 0 L283.5 119 L0 119 L0 0 Z" gXpos="851.7525" gYpos="197.999999999998" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="851.7525" YPOS="1862" OwnPage="-1" ItemID="234746864" PTYPE="4" WIDTH="283.5" HEIGHT="59.4019685039368" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L283.5 0 L283.5 59.402 L0 59.402 L0 0 Z" copath="M0 0 L283.5 0 L283.5 59.402 L0 59.402 L0 0 Z" gXpos="851.7525" gYpos="197.999999999998" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="27"/>
-                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" SCALEH="100" CH="Rightw"/>
-                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" SCALEH="100" LANGUAGE="en_ZA" CH="a"/>
-                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" SCALEH="100" CH="rd shift in optimal arousal level needed to maximize productivity"/>
+                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" SCALEH="100" CH="CMU Secedes!"/>
                 <trail ALIGN="1" LINESP="27"/>
             </StoryText>
         </PAGEOBJECT>
@@ -470,10 +417,10 @@
                 <trail ALIGN="1" LINESP="27"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="-295.25" YPOS="953.90196850394" OwnPage="-1" ItemID="234766688" PTYPE="4" WIDTH="280.85" HEIGHT="119.599999999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.85 0 L280.85 119.6 L0 119.6 L0 0 Z" copath="M0 0 L280.85 0 L280.85 119.6 L0 119.6 L0 0 Z" gXpos="-295.25" gYpos="121.901968503934" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="-295.25" YPOS="953.90196850394" OwnPage="-1" ItemID="234766688" PTYPE="4" WIDTH="280.85" HEIGHT="75.7568807339419" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.85 0 L280.85 75.7569 L0 75.7569 L0 0 Z" copath="M0 0 L280.85 0 L280.85 75.7569 L0 75.7569 L0 0 Z" gXpos="-295.25" gYpos="121.901968503934" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="27"/>
-                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" SCALEH="100" CH="README JOINS FIGHT AGAINST GLOBAL WARMING, ON SIDE OF GLOBAL WARMING"/>
+                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" SCALEH="100" CH="A new commons to tragedy"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -588,7 +535,7 @@
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="Okay, maybe that’s a bit dramatic. But every single job I apply to eventually comes out to be some military contractor working to build Super Bombs™ or something. I’m not even an anti-military guy, I just don’t want to be the guy who invents the next step towards a nuclear winter. Once I was working on plans to create a more fuel-efficient crop dusting plane to spread pesticides. What would you know? Turns out it was actually for dispersing mustard gas. Another job I was working on had me overseeing construction of a rocket designed to improve location tracking technology. You’ll never guess what that one turned out to be."/>
                 <para/>
                 <para/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="Missiles?"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Missiles?"/>
                 <para/>
                 <para/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="FUCKING MISSILES!"/>
@@ -598,7 +545,7 @@
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="It’s absolutely insane! I’m not going to throw away my morals for a $200,000 paycheck!"/>
                 <para/>
                 <para/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="How about $300,000?"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="How about $300,000?"/>
                 <para/>
                 <para/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="…No comment."/>
@@ -607,36 +554,40 @@
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="You deleted the gambling bit right? I told my wife I quit."/>
                 <para/>
                 <para/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="Yeah, we deleted the gambling bit."/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Yeah, we deleted the gambling bit."/>
                 <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="-364.186123853211" YPOS="1635.77811529293" OwnPage="-1" ItemID="258766608" PTYPE="4" WIDTH="292.186123853211" HEIGHT="121.54128440367" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L292.186 0 L292.186 121.541 L0 121.541 L0 0 Z" copath="M0 0 L292.186 0 L292.186 121.541 L0 121.541 L0 0 Z" gXpos="-364.186123853211" gYpos="1635.77811529293" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="-364.186123853211" YPOS="1635.77811529293" OwnPage="-1" ItemID="258766608" PTYPE="4" WIDTH="292.186123853211" HEIGHT="72.926605504585" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L292.186 0 L292.186 72.9266 L0 72.9266 L0 0 Z" copath="M0 0 L292.186 0 L292.186 72.9266 L0 72.9266 L0 0 Z" gXpos="-364.186123853211" gYpos="1635.77811529293" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="27"/>
-                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" CH="Auntie ReadMe Advises On: Lack of Pronouns in the Barista Industry Due to Tech Layoffs"/>
+                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" CH="Inside ReadMe Legal"/>
                 <trail ALIGN="1" LINESP="27"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="853.740481651376" YPOS="1478.36527125623" OwnPage="-1" ItemID="258749616" PTYPE="4" WIDTH="288" HEIGHT="170.752293577982" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L288 0 L288 170.752 L0 170.752 L0 0 Z" copath="M0 0 L288 0 L288 170.752 L0 170.752 L0 0 Z" gXpos="853.740481651376" gYpos="1478.36527125623" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
-                <ITEXT CH="   "/>
-                <ITEXT FONT="Bell MT Bold" CH=" Ryan Chernoff"/>
+                <ITEXT FONT="Bell MT Bold" CH="  Ryan Tosh"/>
                 <para ALIGN="1" LINESP="10"/>
-                <ITEXT FONT="Bell MT Italic" CH="ReadMe Legal"/>
+                <ITEXT FONT="Bell MT Italic" CH="Politics Activist"/>
                 <para ALIGN="1" LINESP="10"/>
                 <para LINESP="10"/>
-                <ITEXT CH="    "/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="It has come to our attention that on September 19th, a ReadMe contractor was caught attempting to commit aggravated robbery for a sum of $5.00 but was thwarted due to their target's lack of cash, Zelle, or Cash App. We deeply apologize for the negative impact of this particular employee as we know the city of Pittsburgh takes great pride in the quality of their criminal activity. We had intended to hire a seasoned professional to contribute to Pittsburgh’s criminal enterprise in a tasteful and constructive way while making up for some of this quarter's heavy losses. However, a lapse in judgment on the behalf of our hiring manager led us to forgo a proper background check of our candidate. We were led to believe that they had Venmo. Clearly, this oversight severely hurt our community and we at ReadMe could not express any more regret. The ReadMe team therefore promises to never let anything like this happen again and to henceforth be nothing but a positive influence on the criminal underground of this great city."/>
-                <trail LINESP="10"/>
+                <ITEXT CH="    With the 2024 US presidential election just weeks away, README is proud to announce that we're officially endorsing a candidate for the first time. It was a tough decision; on one side we have a candidate who did not fall out of a coconut tree, and on the other side, we have the star of the beloved Christmas movie &quot;Home Alone 2: Lost in New York.&quot; Despite the strong partisan contenders, we have decided to endorse an independent candidate: our very own Wean Hall."/>
+                <para LINESP="10"/>
+                <ITEXT CH="Wean Hall, built in 1971, is a 9-story brutalist structure just off of the Mall. Its running mate is Doherty Hall, built in a beaux-arts style so long ago that CMU doesn't seem any more certain than &quot;the early 1900's.&quot; Doherty Hall is known for being old, confusing, and disorienting, which should be familiar to today's voters. The two have been attached at the hip since Wean Hall was built, so it comes as no surprise that they're sharing the ticket this election."/>
+                <para/>
+                <ITEXT CH="Wean Hall has promised that it has a &quot;concrete plan&quot;, which has been criticized as &quot;full of holes.&quot; Some of its policies include a strong pro-immigration stance, &quot;as long as they pay tuition.&quot; When asked about the Israel-Palestine conflict, Wean Hall had this to say: &quot;I strongly support the Starbucks boycott. I'm a La Prima kind of building.&quot; One policy which even we at Readme struggle to back is its support of increased plastic waste in the ocean. &quot;People say I look like a turtle,&quot; a hidden microphone captured Wean Hall saying. &quot;I actually fucking hate turtles.&quot;"/>
+                <para/>
+                <ITEXT CH="While Wean Hall is a minor independent candidate at the moment, it's rising in the polls, and will face off against a worthy opponent tonight. A lively discussion is in store for us in a debate with William Henry Harrison, who's back on the Whig ticket. Despite its lack of political experience, Wean Hall has many underground connections, including to Scott, Newell, and Simon."/>
+                <para/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="868.685435779817" YPOS="1375.89738134797" OwnPage="-1" ItemID="258746784" PTYPE="4" WIDTH="278.752293577982" HEIGHT="93.7981651376147" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L278.752 0 L278.752 93.7982 L0 93.7982 L0 0 Z" copath="M0 0 L278.752 0 L278.752 93.7982 L0 93.7982 L0 0 Z" gXpos="868.685435779817" gYpos="1375.89738134797" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="27" FONT="Bernard MT Condensed Regular" FONTSIZE="30"/>
-                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" CH="Satire Publication Behind Attempted Robbery Last Week? Readme Respons"/>
-                <trail ALIGN="1" LINESP="27"/>
+                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" CH="Vote Wean Hall!"/>
+                <para ALIGN="1" LINESP="27"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="414" YPOS="875.099216210359" OwnPage="1" ItemID="258789264" PTYPE="4" WIDTH="280.85" HEIGHT="93.1249999999967" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.85 0 L280.85 93.125 L0 93.125 L0 0 Z" copath="M0 0 L280.85 0 L280.85 93.125 L0 93.125 L0 0 Z" gXpos="763.75" gYpos="32.901968503934" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -646,28 +597,23 @@
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="839.8" YPOS="985.3125" OwnPage="-1" ItemID="258780768" PTYPE="4" WIDTH="280.8" HEIGHT="381.979376760818" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.8 0 L280.8 381.979 L0 381.979 L0 0 Z" copath="M0 0 L280.8 0 L280.8 381.979 L0 381.979 L0 0 Z" gXpos="839.8" gYpos="153.312499999991" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="852.8" YPOS="944.3125" OwnPage="-1" ItemID="258780768" PTYPE="4" WIDTH="280.8" HEIGHT="381.979376760818" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.8 0 L280.8 381.979 L0 381.979 L0 0 Z" copath="M0 0 L280.8 0 L280.8 381.979 L0 381.979 L0 0 Z" gXpos="852.8" gYpos="112.312499999991" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Default Paragraph Style" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US"/>
-                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" LANGUAGE="en_US" CH="Ryan Chernoff"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="By Phong To"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
-                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="6" LANGUAGE="en_US" CH="Cat Lover"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH="Aspiring to Work in War Crime Cover Ups"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEV="100" KERN="6" LANGUAGE="en_US" CH="   "/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="Are you a proud Tartan? Do you like copious amounts of violence? Have you tried to participate in dogfighting but were too concerned about the legality? Fortunately for you, earlier this week ReadMe executives failed to thoroughly read my amendments to the yearly budget and have now approved plans for a new dog-watching ring. Very soon you will be able to enjoy some good old fashioned Scotty-Dog kerfuffles without the downsides of committing a class three felony."/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="The US Department of Defense has recently concluded its emergency internal election to find a worthy successor to the previous war crime scapegoat who unexpectedly died this year. The election was hastily called because there were no contingency plans in case the last scapegoat died, as no one at the Pentagon expected the US public to still remember the massacre that took place 56 years ago. Although finding a replacement for this role was of utmost importance, one can not help but wonder if it was worth it to dedicate so much time and a part of the US military’s shoestring $916 billion budget to the running of the elections, or perhaps the US public just needs to suck it up and forget that several hundred civilians, almost all women, children, and the elderly, were killed. I mean, it happened over half a century ago, big fucking deal. Regardless, the Pentagon decided to appease these overly sensitive and unpatriotic Americans."/>
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="    But, you may ask, what exactly is dog-watching and how does it differ from dogfighting? Well, dogfighting is legally classified as engaging in one or more of the following: allows dogs to fight for amusement or gain, owns or acquires a dog for fighting, bets or hosts bets on the outcome of dogs fighting, or permits a place under your control in which dogs are fighting. "/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="The Pentagon has had a long history of using scapegoats to have its leaders not take responsibility for war crimes committed overseas. Since the last one was so effective, it’s natural that the Pentagon is pursuing this same strategy: although many members of the military, including senior officers, were found to be connected to the massacre in the original investigations, only one was convicted, and no one seemed to bat an eye."/>
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="    Now dog-watching differs from this by firstly and most importantly forbidding the amusement of all present. It is clearly dictated that dog fights require amusement by those organizing or spectating so to avoid engaging in illegal dogfighting, there will be several large signs warning patrons to forgo amusement during the dog-watching process. If anyone is amused it is our responsibility to report it as you would be engaging in illegal activity and possibly implicate ReadMe staff as your accomplices. "/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="There were many strong candidates, and it certainly wasn’t easy for members of the Pentagon to vote for who they felt was the best choice. One long-time frontrunner is a 5-year-old orphan from Kentucky. “Kentucky already has the highest rate of maltreated children, so we thought mistreating another, by imprisoning them, would go over well with the public”, said Hen-Rhea Kissingher, Director of War Crime Cover Ups at the US Department of Defense, who requested to be anonymous, “but we decided that the public wouldn’t readily accept the idea that a 5-year-old is responsible for the massacre of at least 347 civilians that took place 56 years ago. Maybe if the death toll were lower—around 200 at most—we’d be able to convince people.” Ultimately, the candidate who will soon be sworn in later this year is Jesús Krist. Jesús is the son of immigrant parents, born to a Slovenian father and Mexican mother, and owns a woodworking shop dedicated to teaching Jewish youths at his mosque in El Paso, Texas. “This scapegoat-elect is a once-in-a-lifetime opportunity: Jesús is Jewish, he’s a carpenter, and with a name like that? He’s the perfect person to die for our sins.” "/>
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="    ReadMe will also not be profiting from these activities in any manner as any profits would be classified as gain and would make the activity illegal. Since it is illegal to acquire a dog for fighting, dog-watching will be hosted in Schenley Park where we will have access to several stray dogs that we can ask politely to fight for our non-amusement. "/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="One of Kissingher’s assistants later followed up with us in private to assure us that Jesús would only proverbially die for our sins and assured us they would make sure he would only have to serve at most 20 years imprisonment. It should be noted that, just as what happened with the previous scapegoat, Jesús’s sentence is likely to be reduced to 3 years of house arrest."/>
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="    Although we can’t host bets on the outcomes of fights, there will be unamusing snacks offered. Due to severe economic stress, the price of these snacks will likely fluctuate at the end of each fight. We will therefore compensate everyone for any price differences caused by these fluctuations. All snack profits will be dumped into the Monongahela to avoid gain. "/>
-                <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="Lastly, Schenley is not owned by ReadMe so all dog-watching activities avoid violating any of the Pennsylvania dogfighting laws."/>
-                <para PARENT="Default Paragraph Style" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US" CH="   Thanks to ReadMe, you can now engage in legal dog-watching every Saturday from 6 to 8PM ET. Don’t miss your chance to give it a try! After all, It’s only a matter of time until ReadMe reverts my budget changes."/>
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
@@ -701,11 +647,11 @@
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="790.75" YPOS="879.90196850394" OwnPage="-1" ItemID="258783600" PTYPE="4" WIDTH="280.85" HEIGHT="93.1249999999967" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.85 0 L280.85 93.125 L0 93.125 L0 0 Z" copath="M0 0 L280.85 0 L280.85 93.125 L0 93.125 L0 0 Z" gXpos="790.75" gYpos="47.901968503934" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="828.75" YPOS="846.90196850394" OwnPage="-1" ItemID="258783600" PTYPE="4" WIDTH="280.85" HEIGHT="93.1249999999967" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.85 0 L280.85 93.125 L0 93.125 L0 0 Z" copath="M0 0 L280.85 0 L280.85 93.125 L0 93.125 L0 0 Z" gXpos="828.75" gYpos="14.901968503934" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="27"/>
-                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" SCALEH="100" CH="ReadMe Announces Launch of New Dog-Watching Ring"/>
-                <trail ALIGN="1"/>
+                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" SCALEH="100" CH="The Pentagon to Swear In New War Crime Scapegoat After Previous One Died"/>
+                <trail/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="120.825688073395" YPOS="978.732243733295" OwnPage="1" ItemID="258794928" PTYPE="4" WIDTH="280.85" HEIGHT="93.1249999999967" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.85 0 L280.85 93.125 L0 93.125 L0 0 Z" copath="M0 0 L280.85 0 L280.85 93.125 L0 93.125 L0 0 Z" gXpos="764.75" gYpos="856.901968503934" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -751,6 +697,115 @@
                 <DefaultStyle LINESP="27"/>
                 <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" SCALEH="100" CH="Engineering Graduate Struggles To Find Ethical Employment"/>
                 <para ALIGN="1" LINESP="27"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="108.220183486239" YPOS="1701.69554648559" OwnPage="2" ItemID="258772272" PTYPE="4" WIDTH="283.5" HEIGHT="97.5045871559632" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L283.5 0 L283.5 97.5046 L0 97.5046 L0 0 Z" copath="M0 0 L283.5 0 L283.5 97.5046 L0 97.5046 L0 0 Z" gXpos="819.7525" gYpos="1766" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="27"/>
+                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" SCALEH="100" CH="Engineering Graduate Struggles To Find Ethical Employment"/>
+                <para ALIGN="1" LINESP="27"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="424.889908256881" YPOS="1701" OwnPage="2" ItemID="258803424" PTYPE="4" WIDTH="283.5" HEIGHT="69.796463916781" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L283.5 0 L283.5 69.7965 L0 69.7965 L0 0 Z" copath="M0 0 L283.5 0 L283.5 69.7965 L0 69.7965 L0 0 Z" gXpos="680.7525" gYpos="1639" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="27"/>
+                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" SCALEH="100" CH="Fact-Checking the Gettysburg Address"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="417.532110091743" YPOS="1779.51206024706" OwnPage="2" ItemID="258800592" PTYPE="4" WIDTH="293.006536697248" HEIGHT="473.302752293575" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L293.007 0 L293.007 473.303 L0 473.303 L0 0 Z" copath="M0 0 L293.007 0 L293.007 473.303 L0 473.303 L0 0 Z" gXpos="-40.550458715596" gYpos="1675.4570143755" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Bold" CH="By: Johnson Wilkes Booth"/>
+                <para ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Italic" CH="Objective Reporter"/>
+                <para ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH=" "/>
+                <para ALIGN="1" LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    With the election season reaching its apex, I have found it necessary to untangle some of the webs of misinformation that have been weaved through underhanded political campaigns. At the forefront of this country's greatest deception is none other than the highly esteemed so-called “honest” Abe."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="That’s right! If one were to simply unpack the “arguments” of former president Abraham Lincoln, one would be disgusted to find an abundance of deceit and trickery littered throughout even the most mundane of speeches. Therefore, I will now proceed to reveal to you a small fragment of his chicanery by meticulously analyzing the famous Gettysburg address:"/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“Four score and seven years ago our fathers brought forth on this continent, a new nation” - Now this address was given on November 19th, 1863 and the Declaration of Independence was signed on August 2nd, 1776. It does not take a mathematician to see that Lincoln was over 3 months off in his conclusions on America’s founding. Despicable."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“dedicated to the proposition that all men are created equal” - One can quite easily note that 50% of all men are above average male height while 50% of men are below average height. This is clear evidence that not all men are created equal."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“Now we are engaged in a great civil war” - While Lincoln delivered this speech, his audience was not participating in war as they were busy listening to a speech."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“testing whether that nation, or any nation so conceived and so dedicated, can long endure” - At this period in time, one could not simply test a nation’s ability to endure as the College Board had not yet approved of such a standardized assessment."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live.” - It is quite likely that none of the soldiers who died in Gettysburg did so willingly, seeing as most of them would have wished to survive. This insinuation by Lincoln is extremely insensitive to the deceased and their families."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“The world will little note, nor long remember what we say here” - This is just objectively incorrect. The Ghettiesburg address is one of the most popular presidential addresses and is still remembered to this day. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.” - None of those who had attended the Gettysburg address are currently alive to continue the Civil War."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“that we here highly resolve that these dead shall not have died in vain” - Over 28 thousand confederate troops died in the battle of Gettysburg, all of which were in vain."/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“and that government of the people, by the people, for the people, shall not perish from the earth.” - Lincoln clearly misrepresents the composition of America’s government as it is not run by the people. It is run by politicians."/>
+                <para/>
+                <para/>
+                <tab FONT="Bell MT Regular" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="It is my hope that this analysis has enlightened you to the deeply sown deceit in our political system. It is my firm belief that in exposing the treachery in our politics, we as Americans can forge a new political atmosphere founded upon truth, justice, and a deep hatred of the Lincoln estate."/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="-345.559633027523" YPOS="1719.24600520118" OwnPage="-1" ItemID="258806256" PTYPE="4" WIDTH="280.8" HEIGHT="648.753994798816" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.8 0 L280.8 648.754 L0 648.754 L0 0 Z" copath="M0 0 L280.8 0 L280.8 648.754 L0 648.754 L0 0 Z" gXpos="603.8" gYpos="712.312499999991" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" KERN="0" CH="By: Ryan Chernoff"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" KERN="0" CH="ReadMe Legal"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEV="100" KERN="0" LANGUAGE="en_US" CH="  "/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="Due to the substantial inquiries regarding the inner workings of ReadMe &amp; Co, I have been chosen to represent the ReadMe Legal Department in disclosing the functions and responsibilities we adhere to in order to maintain ReadMe as a corporation and ensure the continued freedom of all ReadMe employees."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <tab FONT="Bell MT Regular" FONTSIZE="9" KERN="0"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="One of the most significant duties of our department is to navigate the bureaucratic Red Tape1 necessary to ensure ReadMe, the flagship newspaper and namesake of ReadMe &amp; Co, maintains its status as a satirical newspaper and the legal protections that come with it. Of course, similar to most legitimate media outlets, ReadMe &amp; Co. achieves this through the creation and deployment of several lobbying firms across the U.S. and its territories as well as the employment of private contractors to engage in persuasive acts with key political figures. Because of our status as a corporate entity, ReadMe &amp; Co also invests hundreds of thousands of dollars into various Super PACs to ensure overwhelming political support in our endeavors. Our CLO, Sir. Maximillian Bartholemow VIII, has even gone so far as to release an official statement underscoring our commitment to ensuring these program have ample funding: “Our bribery [political investment] campaign has done so well that I have made the executive decision to half the salaries of all employees of the ReadMe Record Management Bureau (RRMB) to subsidize it”2. This ingenious maneuver had the added benefit of causing over half of the employees of the RRMB to quit, bolstering our bureaucratic relations as we are now able to cite the understaffing of the RRMB as reason to delay and deter3 investigations from institutions acting on behalf of state, federal, and foreign governments."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <tab FONT="Bell MT Regular" FONTSIZE="9" KERN="0"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="Although most of the department’s resources go into bureaucratic relations, most ReadMe Legal staff spend their time protecting ReadMe &amp; Co and its employees from malicious litigation. Every4 employee at ReadMe &amp; Co is assigned a personal Litigation Manager (LM) from the ReadMe Legal Department. Each LM is responsible for acting on behalf of their assigned employee in all legal matters and are thus entitled to unrestricted access to that employee’s belongings, habitable spaces, and third-party accounts (email, credit card, etc.).  Because it is the priority of our department to perpetuate the freedom of all employees, LMs are highly incentivised to exercise extreme competence through a joint-punishment clause in their contracts agreeing to share all civil and criminal sentences with their assigned employee."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <tab FONT="Bell MT Regular" FONTSIZE="9" KERN="0"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="This policy is not without fault, however, as the LMs for the staff involved in the biweekly shooting of Benner Rogers5 find the workplace disproportionately more stressful than other staff. To remedy this, ReadMe &amp; Co. will be adding a pool table to the staff lounge at the end of this quarter. However, in response to several complaints from Rogers’ close friends and family, the ReadMe Legal Department found the Board of Murdering Benner (BoMB)6 and has already established relations with a contracting firm that specializes in post-mortem rehabilitation. On the urging of our CLO, BoMB will also be allocated resources to assist in the deployment of mechanical devices capable of remotely creating localized sudden and drastic changes in air pressure. This should greatly assist in negotiation efforts with authorities on Benner Rogers related matters henceforth."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <tab FONT="Bell MT Regular" FONTSIZE="9" KERN="0"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="It is the hope that in divulging some of the inner workings of ReadMe Legal, we have provided a worthwhile educational experience to the public7 and alleviated any concerns for the safety and security of ReadMe &amp; Co and its employees. We also hope that this article will act as compliance to any and all current and future subpoenas into the operations of ReadMe Legal. Regardless, we believe that ReadMe Legal is capable of defending ReadMe &amp; Co for the foreseeable future and can ensure that you can continue to rely on ReadMe for your authentic news8."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="It should be noted that bureaucratic tape is referred to as red to appeal to the common idiom and not to mislead the public on the processes involved in dealing with bureaucratic institutions. If tape was used in one of these processes, we admit that it would most likely be a faded shade of yellow."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="Sir. Maximillian Bartholemow VIII denies ever making this statement."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="The use of ‘delay and deter’ to describe the state of the ReadMe Record Management Bureau and their work with regards to investigations into ReadMe &amp; Co is purely hyperbolic. ReadMe &amp; Co does not intend for the means of record keeping to be used to actively interfere with ongoing investigations, but merely lacks the proper resources to ensure records are kept in an organized manner."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="This excludes employees in the legal department."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="ReadMe &amp; Co denies all allegations of involvement of any of its employees in the alleged murder of Benner Rogers. We further deny the existence of any former employee by the name of Benner Rogers and allege that no word (let alone crime) by the name of “murder” exists within the English lexicon."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="The use of the word “murder” in the title of BoMB is purely satirical and is in no way an admittance of guilt in the alleged murder of Benner Rogers."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="By reading this, you agree that you have in fact learned something and will testify as such if ReadMe &amp; Co should pursue a tax write off for all resources allocated to the creation of the material you have consumed."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" KERN="0" CH="This is false."/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
