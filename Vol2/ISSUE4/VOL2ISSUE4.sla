@@ -259,7 +259,7 @@
         <PAGEOBJECT XPOS="852.4" YPOS="1930.08946850394" OwnPage="-1" ItemID="223517728" PTYPE="4" WIDTH="283.422244094488" HEIGHT="211.162499999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L283.422 0 L283.422 211.162 L0 211.162 L0 0 Z" copath="M0 0 L283.422 0 L283.422 211.162 L0 211.162 L0 0 Z" gXpos="852.4" gYpos="1930.08946850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="9" FONT="Bell MT Regular" FONTSIZE="9"/>
-                <ITEXT CH="Tyan Rosh"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Tyan Rosh"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="9"/>
                 <ITEXT FONT="Bell MT Italic" CH="Seceding Sympathizer"/>
                 <para ALIGN="1"/>
@@ -313,8 +313,8 @@
                 <DefaultStyle LINESP="8"/>
                 <ITEXT FONT="Courier New Bold" FONTSIZE="7" CH="Paid for by:"/>
                 <para ALIGN="1" LINESP="8"/>
-                <ITEXT FONT="Courier New Bold" FONTSIZE="7" CH="I'm  not sure anymore, are we just a front for the mob?"/>
-                <trail ALIGN="1" LINESP="8"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="Insider trading on shorted military stocks"/>
+                <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="738.4" YPOS="1345.6" OwnPage="-1" ItemID="231887264" PTYPE="4" WIDTH="78.65" HEIGHT="11.351968503937" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L78.65 0 L78.65 11.352 L0 11.352 L0 0 Z" copath="M0 0 L78.65 0 L78.65 11.352 L0 11.352 L0 0 Z" gXpos="738.4" gYpos="1345.6" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -558,7 +558,7 @@
                 <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="-364.186123853211" YPOS="1635.77811529293" OwnPage="-1" ItemID="258766608" PTYPE="4" WIDTH="292.186123853211" HEIGHT="72.926605504585" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L292.186 0 L292.186 72.9266 L0 72.9266 L0 0 Z" copath="M0 0 L292.186 0 L292.186 72.9266 L0 72.9266 L0 0 Z" gXpos="-364.186123853211" gYpos="1635.77811529293" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="-296.186123853211" YPOS="1247.77811529293" OwnPage="-1" ItemID="258766608" PTYPE="4" WIDTH="292.186123853211" HEIGHT="72.926605504585" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L292.186 0 L292.186 72.9266 L0 72.9266 L0 0 Z" copath="M0 0 L292.186 0 L292.186 72.9266 L0 72.9266 L0 0 Z" gXpos="-296.186123853211" gYpos="1247.77811529293" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="27"/>
                 <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" CH="Inside ReadMe Legal"/>
@@ -760,7 +760,7 @@
                 <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="-345.559633027523" YPOS="1719.24600520118" OwnPage="-1" ItemID="258806256" PTYPE="4" WIDTH="280.8" HEIGHT="648.753994798816" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.8 0 L280.8 648.754 L0 648.754 L0 0 Z" copath="M0 0 L280.8 0 L280.8 648.754 L0 648.754 L0 0 Z" gXpos="603.8" gYpos="712.312499999991" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="-295.559633027523" YPOS="1329.24600520118" OwnPage="-1" ItemID="258806256" PTYPE="4" WIDTH="280.8" HEIGHT="648.753994798816" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L280.8 0 L280.8 648.754 L0 648.754 L0 0 Z" copath="M0 0 L280.8 0 L280.8 648.754 L0 648.754 L0 0 Z" gXpos="653.8" gYpos="322.312499999991" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Default Paragraph Style" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="9" KERN="0" CH="By: Ryan Chernoff"/>
@@ -806,6 +806,44 @@
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="-302.40366972477" YPOS="1988.97995015531" OwnPage="-1" ItemID="266863488" PTYPE="4" WIDTH="283.5" HEIGHT="97.5045871559632" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L283.5 0 L283.5 97.5046 L0 97.5046 L0 0 Z" copath="M0 0 L283.5 0 L283.5 97.5046 L0 97.5046 L0 0 Z" gXpos="713.7525" gYpos="1716" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="27"/>
+                <ITEXT FONT="Bernard MT Condensed Regular" FONTSIZE="30" CH="Readme Crime Report "/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="-302" YPOS="2096.28270244889" OwnPage="-1" ItemID="266886144" PTYPE="4" WIDTH="293.006536697248" HEIGHT="473.302752293575" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L293.007 0 L293.007 473.303 L0 473.303 L0 0 Z" copath="M0 0 L293.007 0 L293.007 473.303 L0 473.303 L0 0 Z" gXpos="120.449541284404" gYpos="1787.4570143755" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONTSIZE="9"/>
+                <ITEXT CH="Abe James "/>
+                <para ALIGN="1" LINESP="10"/>
+                <para ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH=" "/>
+                <para ALIGN="1" LINESP="10"/>
+                <para LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    The Readme crime report isn’t just focused just on the happenings on campus, we are also well connected to the city around us! In this issue of the crime report, we at readme present to you the most serious news from Pittsburgh. This is definitely not because we ran out of crime material on campus. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="Election Plinko Causes Confusion "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="Pittsburgh city officials were in a state of confusion when it was discovered that all electoral ballots were somehow replaced one to one with mini plinko machines. These plinko machines had the point values replaced with political parties. When city officials tested the devices, it was discovered that certain plinko machines were missing pegs. As of right now, there is no sign of the culprit who has scampered off with the ballots. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="Voter Fraud Ring Caught Before Elections "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="A large-scale voter fraud ring for the Holiday Window Display competition has been busted recently by the City of Pittsburgh.  It was discovered five hundred people were voting multiple times under multiple names online and in person in the beloved competition. The city vows to crack down on voter fraud this upcoming holiday season to make sure this does not happen again. "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="Pittsburgh Signs Now Read Pitsburg "/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="In a recent discovery by city officials, 81.3% of signs, flyers and posters mentioning Pittsburgh are now spelled, Pitsburg. Some of these signs were more subtle, replacing the sign with a new one misspelling the city. Other signs simply had the city name crossed out and replaced with Pitsburg in shoddily written handwriting. It was only noticed when government buildings also became misspelled. Several Pittsburgh native confessed they had seen the changes, but didn’t care enough to bring it up. Some citizens have suggested renaming the city to Pitsburg. Officials are currently discussing the matter. Until then, the signs will remain up. "/>
+                <para/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
