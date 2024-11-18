@@ -142,60 +142,31 @@
         <PAGEOBJECT XPOS="114.75" YPOS="196.01446850394" OwnPage="0" ItemID="231009696" PTYPE="4" WIDTH="584.875" HEIGHT="448.512499999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="4" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L584.875 0 L584.875 448.512 L0 448.512 L0 0 Z" copath="M0 0 L584.875 0 L584.875 448.512 L0 448.512 L0 0 Z" gXpos="114.75" gYpos="196.01446850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="9.75" MinWordTrack="0.98" FONT="Bell MT Regular" FONTSIZE="9" SCALEH="95" LANGUAGE="en_US"/>
-                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" SCALEH="95" CH="Gilgamesh Ichthyomorphosis"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" SCALEH="95" CH="&quot;Tyan Rosh&quot;"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="9.75" MinWordTrack="0.98"/>
-                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" SCALEH="95" CH="Eighth Year Architecture Student"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" SCALEH="95" CH="&quot;It's like Ken Burn's "/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="95" CH="Baseball"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" SCALEH="95" CH=", but for CS professors!&quot;"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="9.75" MinWordTrack="0.98"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="9.75" MinWordTrack="0.98"/>
                 <ITEXT FONTSIZE="9" SCALEH="95" CH="   "/>
                 <ITEXT SCALEH="95" CH=" "/>
                 <ITEXT CH="Lorem ipsum dolor sit amet, consectetur adipiscing elit. In in mauris mattis nulla consectetur feugiat. Ut efficitur ut sapien id maximus. Praesent dictum, orci in congue rutrum, turpis nisi pharetra nunc, vel lobortis risus velit fringilla erat. Aliquam sit amet felis sollicitudin, malesuada augue aliquam, bibendum enim. Proin eleifend at nisi eget tincidunt. Mauris luctus efficitur est, ut eleifend mi tempor cursus. Sed eu dolor sed nibh fringilla auctor dictum id sem. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Nam fringilla consequat suscipit. Curabitur at neque malesuada, iaculis massa a, aliquet massa. Integer risus velit, cursus non interdum in, tincidunt eu metus."/>
                 <para LINESP="9.75"/>
-                <para LINESP="9.75"/>
                 <ITEXT CH="Sed congue vulputate nibh quis blandit. Duis tellus quam, sollicitudin in nunc non, volutpat pharetra tortor. Proin pellentesque, sem eu pulvinar rutrum, magna purus tristique elit, sed rhoncus est nisi a enim. Duis sit amet venenatis libero, sed iaculis elit. Praesent ac libero dui. Nullam vulputate non ipsum quis tincidunt. Donec sed purus vitae tortor pellentesque viverra. Etiam vel elit vel magna molestie ornare quis tempus nisl. Duis urna arcu, rhoncus et fringilla at, faucibus eget ligula."/>
-                <para LINESP="9.75"/>
                 <para LINESP="9.75"/>
                 <ITEXT CH="Phasellus a sagittis neque. Pellentesque tincidunt, libero ac egestas rhoncus, magna urna tempus magna, rutrum pellentesque eros elit sit amet tellus. Aenean non hendrerit urna. Sed ullamcorper mi ex, vitae ultrices urna consequat vel. Fusce nec gravida neque, sed lacinia dui. In vulputate tortor dolor, in consequat enim pellentesque a. Donec suscipit fringilla arcu eget maximus. Donec in cursus neque. Proin accumsan laoreet aliquam. Cras velit velit, dapibus tristique dignissim ut, auctor sed est. Morbi molestie, velit sed faucibus volutpat, leo turpis pharetra ex, vitae commodo eros justo quis sem."/>
                 <para LINESP="9.75"/>
-                <para LINESP="9.75"/>
                 <ITEXT CH="Donec luctus diam eget dictum cursus. Nulla tempor, felis a imperdiet sollicitudin, lacus ipsum ornare mauris, eu varius sem risus ut est. Nunc luctus semper tellus eu sagittis. Mauris nec sapien id ex bibendum mattis. Curabitur tempor varius ex, in vestibulum dolor mattis sit amet. In nec sapien iaculis, condimentum elit eget, venenatis orci. Phasellus vitae porta mauris. Proin ultricies, tortor non vulputate accumsan, velit tellus finibus lacus, a aliquet risus nisi eu magna. Duis maximus vel lacus et facilisis. Phasellus at dui a erat suscipit molestie congue vitae metus. Nunc euismod mattis felis. Etiam tincidunt purus quis efficitur vehicula. Morbi aliquam nibh neque, vel tempus tellus venenatis vel. Curabitur tincidunt, leo vel hendrerit sodales, ante elit gravida purus, et placerat neque turpis et tellus. Proin consequat augue nec elit feugiat, id vestibulum nibh tempus."/>
-                <para LINESP="9.75"/>
                 <para LINESP="9.75"/>
                 <ITEXT CH="Suspendisse tortor neque, egestas ac vestibulum in, pulvinar sit amet nisi. Aenean vel eros nec turpis tincidunt pellentesque in vitae neque. Nam at odio vel elit volutpat posuere in vitae est. Vivamus velit est, tristique id tempus quis, blandit id metus. Sed eleifend dolor sit amet tortor efficitur efficitur. Sed scelerisque enim non mauris gravida dictum. Phasellus a laoreet sapien, quis tincidunt neque."/>
                 <para LINESP="9.75"/>
+                <ITEXT CH="Quisque at elit fringilla, convallis risus ac, tincidunt justo. Nullam orci mi, tempus quis turpis vehicula, porta gravida neque. Pellentesque habitant "/>
+                <para/>
+                <ITEXT CH="quis, blandit id metus. Sed eleifend dolor sit amet tortor efficitur efficitur. Sed scelerisque enim non mauris gravida dictum. Phasellus a laoreet sapien, quis tincidunt neque."/>
                 <para LINESP="9.75"/>
-                <ITEXT CH="Quisque at elit fringilla, convallis risus ac, tincidunt justo. Nullam orci mi, tempus quis turpis vehicula, porta gravida neque. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean sollicitudin elit id augue fermentum auctor. Nunc ac lorem sit amet tellus auctor accumsan id sit amet sem. Donec in viverra tortor, ullamcorper luctus lectus. Sed mollis venenatis urna, ac volutpat enim rutrum non. Donec vehicula convallis nisl, eu scelerisque urna bibendum aliquet. Maecenas ut nibh blandit, tristique justo at, efficitur risus. Curabitur ut orci vel magna scelerisque dictum id in augue. Nullam dolor est, molestie ut risus eget, ullamcorper mattis erat. Ut viverra, erat nec iaculis rhoncus, massa ex dictum odio, quis luctus elit felis sed sem. Donec cursus tempor nulla ut finibus. Suspendisse aliquam commodo nulla, in volutpat neque gravida sed. Etiam hendrerit eleifend ultrices."/>
-                <para LINESP="9.75"/>
-                <para LINESP="9.75"/>
-                <ITEXT CH="Integer euismod quis enim eu ultrices. In ullamcorper a nisi vitae semper. Nulla scelerisque justo non posuere faucibus. Donec interdum, ligula sit amet tempus sagittis, erat magna pulvinar arcu, sed vestibulum purus est id erat. Etiam massa dolor, dapibus eget convallis id, fermentum id mauris. Cras id ullamcorper eros. Ut ac purus eu magna bibendum mattis vel mollis ante. Nunc eu justo commodo, elementum urna vel, viverra quam. Curabitur fermentum volutpat eros, ut posuere lectus efficitur sit amet. Etiam facilisis odio ut nibh semper, eu accumsan est euismod. Morbi sit amet convallis dolor. Cras tellus purus, rutrum aliquam est mollis, vestibulum pretium justo. Nam felis diam, faucibus sed urna at, interdum lacinia justo. Morbi ac ex eu enim iaculis pretium a at velit. Curabitur sem dui, vestibulum vel pellentesque vitae, egestas ut velit. Fusce sed neque vel erat condimentum suscipit eget et odio."/>
-                <para LINESP="9.75"/>
-                <para LINESP="9.75"/>
-                <ITEXT CH="Sed non velit quis lacus scelerisque posuere non id ipsum. Praesent ornare tellus in velit volutpat molestie. Ut tincidunt nisi in neque gravida blandit nec eget magna. Phasellus congue et leo mollis auctor. Nam convallis, nisi semper vulputate viverra, magna mi fermentum justo, dignissim elementum metus nulla vel neque. Curabitur porttitor quam a dolor mollis volutpat. Quisque ultrices sodales est, quis ultricies erat porta vitae. Pellentesque molestie, massa non viverra dictum, turpis ex gravida ex, at porta odio lorem nec risus. Sed gravida ligula ornare venenatis malesuada. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos."/>
-                <para LINESP="9.75"/>
-                <para LINESP="9.75"/>
-                <ITEXT CH="Proin bibendum lacinia nibh, nec rhoncus urna iaculis vel. Nullam imperdiet finibus odio, quis tincidunt neque sagittis non. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer congue tempor luctus. Vestibulum condimentum, sem a convallis pharetra, ante neque finibus diam, lobortis pharetra ante mi vel lorem. Ut cursus consectetur massa, eget semper elit faucibus a. Aenean ornare egestas ex, sed aliquet libero mollis dapibus. In in lectus consectetur, porttitor dui a, convallis neque. Mauris interdum lectus metus, ac dictum ex cursus non. Fusce lectus purus, molestie ut cursus quis, lacinia quis lectus. Suspendisse tempus est ut magna aliquet ultricies. Fusce scelerisque a ante et iaculis. Integer placerat mi metus, eu porttitor diam malesuada id."/>
-                <para LINESP="9.75"/>
-                <para LINESP="9.75"/>
-                <ITEXT CH="Donec fringilla nulla interdum, tempor metus vitae, pretium eros. Sed nec urna ligula. Cras maximus magna imperdiet venenatis viverra. Quisque consectetur mattis orci, vitae laoreet metus tempor ac. Praesent vel tortor tincidunt, rutrum odio vel, sagittis lacus. Donec felis diam, rutrum in felis nec, aliquet porttitor mauris. Donec vel porttitor tellus, at semper metus. Proin non augue quis arcu egestas vestibulum nec porttitor felis. Ut consequat lorem sed augue dictum tempus. Nulla facilisi. Nulla facilisis quis quam ac pellentesque. Fusce eu ante ac nunc egestas semper id at lorem. Proin turpis erat, dictum condimentum erat ac, tincidunt pretium ipsum. Nam et turpis posuere ligula tincidunt pharetra a vel tellus. Ut vitae blandit libero."/>
-                <para LINESP="9.75"/>
-                <para LINESP="9.75"/>
-                <ITEXT CH="Nulla pulvinar dignissim mi, sit amet mollis risus interdum eu. Suspendisse eget velit a ligula tristique finibus. Curabitur vel velit metus. Suspendisse dictum dolor in porta pulvinar. Morbi ac finibus nunc. Pellentesque fermentum purus eget nulla gravida, eu congue nibh eleifend. Maecenas varius ligula ac ipsum aliquam vehicula. Maecenas vel nisi id nulla vulputate commodo. Fusce et malesuada ex, ac aliquet nisi. Suspendisse quis cursus leo. Curabitur in diam rhoncus, dapibus ligula nec, facilisis felis. Cras a dui mauris."/>
-                <para LINESP="9.75"/>
-                <para LINESP="9.75"/>
-                <ITEXT CH="Pellentesque rutrum eros vitae velit vestibulum, nec elementum nunc aliquet. Cras ac risus risus. Ut facilisis, magna id imperdiet mattis, neque turpis viverra risus, cursus rutrum est nunc sed libero. Ut quis urna nisl. Mauris aliquam mattis orci. Suspendisse vulputate, tortor ut vestibulum sodales, nisi tortor condimentum metus, eu suscipit nisi eros sit amet elit. In hac habitasse platea dictumst."/>
-                <para LINESP="9.75"/>
-                <para LINESP="9.75"/>
-                <ITEXT CH="Morbi ipsum sem, vulputate dignissim tellus quis, volutpat congue nibh. Fusce vehicula erat non consequat posuere. Cras porta vel metus eget gravida. Nullam accumsan nunc vitae eros ultrices varius. Quisque aliquam elementum interdum. Curabitur purus mauris, porta sit amet tristique nec, consectetur eget felis. Cras condimentum massa quam, at accumsan metus vestibulum egestas. Nulla a vestibulum urna. Duis malesuada mi sit amet faucibus ornare."/>
-                <para LINESP="9.75"/>
-                <para LINESP="9.75"/>
-                <ITEXT CH="Proin ultricies posuere ipsum, non tristique mi. Donec sed vulputate dui. Aenean pulvinar vitae metus nec pellentesque. Donec eleifend, diam ut tincidunt pulvinar, lacus eros ullamcorper libero, vitae tristique eros ante quis elit. Sed pellentesque velit non elit ullamcorper, ut ultricies elit aliquam. Nulla vulputate volutpat diam, sit amet porttitor libero ultricies eget. In pulvinar, dolor ut hendrerit hendrerit, justo ligula lacinia lacus, quis scelerisque libero dolor in lectus. Nulla et placerat ante, ut congue lectus. Phasellus tincidunt purus facilisis eros posuere, at tempor arcu sodales. Quisque eget augue id ligula posuere convallis ac in turpis. Aenean ornare dolor non orci luctus sagittis. Cras vel malesuada ipsum. Ut fermentum diam a purus facilisis, vel pharetra augue ultricies. Sed nibh quam, molestie ullamcorper ante in, pharetra condimentum libero. Ut risus diam, luctus non nunc id, tristique vehicula mauris."/>
-                <para LINESP="9.75"/>
-                <para LINESP="9.75"/>
-                <ITEXT CH="Donec vel ex vel odio luctus egestas. Vivamus nec quam dui. Nam elementum condimentum tellus, ut elementum enim convallis ac. Etiam imperdiet sed erat nec bibendum. Nam et justo enim. Morbi orci lacus, mattis ut dolor eget, semper aliquam lorem. In eget mauris sed est congue vestibulum. Suspendisse potenti. Vivamus quis molestie massa."/>
-                <para LINESP="9.75"/>
-                <para LINESP="9.75"/>
-                <ITEXT CH="Donec gravida congue pretium. Sed quis congue dui. Nam ut"/>
-                <para LINESP="9.75"/>
+                <ITEXT CH="Quisque at elit fringilla, convallis risus ac, tincidunt justo. Nullam orci mi, tempus quis turpis vehicula, porta gravida neque. Pellentesque habitant "/>
+                <trail/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="263.625" YPOS="195.4" OwnPage="0" ItemID="223862048" PTYPE="2" WIDTH="436.875" HEIGHT="282.689468503937" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.263813405797101" LOCALSCY="0.263813405797101" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/second shittier donner.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L436.875 0 L436.875 282.689 L0 282.689 L0 0 Z" copath="M0 0 L436.875 0 L436.875 282.689 L0 282.689 L0 0 Z" ImageRes="0" gXpos="263.625" gYpos="195.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
@@ -576,9 +547,9 @@
         <PAGEOBJECT XPOS="115" YPOS="2573.12696850394" OwnPage="3" ItemID="230972880" PTYPE="4" WIDTH="296.75" HEIGHT="61.5000000000005" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L296.75 0 L296.75 61.5 L0 61.5 L0 0 Z" copath="M0 0 L296.75 0 L296.75 61.5 L0 61.5 L0 0 Z" gXpos="115" gYpos="2573.12696850394" gWidth="295.875" gHeight="294.453922271161" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
-                <ITEXT FONT="Bell MT Bold" CH="  Tali Kirschenbaum"/>
+                <ITEXT FONT="Bell MT Bold" CH="Kevin Klucznik"/>
                 <para ALIGN="1" LINESP="10"/>
-                <ITEXT FONT="Bell MT Italic" CH="Healthcare Addict"/>
+                <ITEXT FONT="Bell MT Italic" CH="Gravitational Anomaly"/>
                 <para ALIGN="1" LINESP="10"/>
                 <para LINESP="10"/>
                 <ITEXT CH="    An announcement sent out earlier this week to Carnegie Mellon University students has created widespread controversy and discourse. The email, as seen below, disclosed an important warning for all students to avoid the Gates Hillman Centre on XX/XX/24."/>
@@ -632,9 +603,9 @@
         <PAGEOBJECT XPOS="112.724770642202" YPOS="920.541418045219" OwnPage="1" ItemID="230978544" PTYPE="4" WIDTH="281.650229357798" HEIGHT="355.860550458717" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L281.65 0 L281.65 355.861 L0 355.861 L0 0 Z" copath="M0 0 L281.65 0 L281.65 355.861 L0 355.861 L0 0 Z" gXpos="725.8" gYpos="667.112499999989" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle PARENT="Default Paragraph Style" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" LANGUAGE="en_US"/>
-                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Alex Werth"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="&quot;Tyan Rosh&quot;"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
-                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH="Fuckin' Narc"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH="Metaphorical Dumpster Diver"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
                 <para PARENT="Default Paragraph Style" ALIGN="0" LINESP="10"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEV="100" KERN="6" LANGUAGE="en_US" CH="  "/>
@@ -663,12 +634,12 @@
                 <para ALIGN="1" LINESP="27"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="117.270183486239" YPOS="1810" OwnPage="2" ItemID="230987040" PTYPE="4" WIDTH="283.304357798165" HEIGHT="634.526968503937" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L283.304 0 L283.304 634.527 L0 634.527 L0 0 Z" copath="M0 0 L283.304 0 L283.304 634.526 L0 634.526 L0 0 Z" gXpos="117.270183486239" gYpos="1810" gWidth="283.5" gHeight="548.180325214536" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="117.270183486239" YPOS="1810" OwnPage="2" ItemID="230987040" PTYPE="4" WIDTH="283.304357798165" HEIGHT="641.051968503937" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L283.304 0 L283.304 641.052 L0 641.052 L0 0 Z" copath="M0 0 L283.304 0 L283.304 641.051 L0 641.051 L0 0 Z" gXpos="117.270183486239" gYpos="1810" gWidth="283.5" gHeight="548.180325214536" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" FONTSIZE="9"/>
-                <ITEXT FONT="Bell MT Bold" CH="&quot;Tyan Rosh&quot;"/>
+                <ITEXT FONT="Bell MT Bold" CH="Dr. Et Al, Danya Kogan, Wade Cheng"/>
                 <para ALIGN="1" LINESP="10"/>
-                <ITEXT FONT="Bell MT Italic" CH="It's actually GNU-slash-Tyan Rosh"/>
+                <ITEXT FONT="Bell MT Italic" CH="Stairmasters"/>
                 <para ALIGN="1" LINESP="10"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH=" "/>
                 <para LINESP="10"/>
@@ -745,7 +716,7 @@
                 <DefaultStyle LINESP="10" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" CH="Abe James "/>
                 <para ALIGN="1" LINESP="10"/>
-                <ITEXT FONT="Bell MT Italic" CH="Crime Enthusiast"/>
+                <ITEXT FONT="Bell MT Italic" CH="Undergraduate Detective Inspector"/>
                 <para ALIGN="1" LINESP="10"/>
                 <para LINESP="10"/>
                 <ITEXT FONT="Bell MT Regular" CH="So much scamming and thieving is happening around campus lately. It's bad for the university, but great for my job stability.  "/>
@@ -795,7 +766,7 @@
                 <para PARENT="Default Paragraph Style" LINESP="10"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="107.199541284404" YPOS="1281.90196850394" OwnPage="1" ItemID="240365632" PTYPE="2" WIDTH="295.145642201835" HEIGHT="334.875" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.456881799074048" LOCALSCY="0.456881799074048" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/Cryptid Corner Vol 5.png" IRENDER="0" EMBEDDED="0" path="M0 0 L295.146 0 L295.146 334.875 L0 334.875 L0 0 Z" copath="M0 0 L295.146 0 L295.146 334.875 L0 334.875 L0 0 Z" ImageRes="0" gXpos="107.199541284404" gYpos="1281.90196850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="109.199541284404" YPOS="1281.90196850394" OwnPage="1" ItemID="240365632" PTYPE="2" WIDTH="295.145642201835" HEIGHT="334.875" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.456881799074048" LOCALSCY="0.456881799074048" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/Cryptid Corner Vol 5.png" IRENDER="0" EMBEDDED="0" path="M0 0 L295.146 0 L295.146 334.875 L0 334.875 L0 0 Z" copath="M0 0 L295.146 0 L295.146 334.875 L0 334.875 L0 0 Z" ImageRes="0" gXpos="109.199541284404" gYpos="1281.90196850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="136.220183486238" YPOS="3061.40196850394" OwnPage="3" ItemID="240376560" PTYPE="2" WIDTH="260.029816513762" HEIGHT="229.499999999996" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.216511087854923" LOCALSCY="0.216511087854923" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/walked_color.png" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L260.03 0 L260.03 229.5 L0 229.5 L0 0 Z" copath="M0 0 L260.03 0 L260.03 229.5 L0 229.5 L0 0 Z" gXpos="136.220183486238" gYpos="3061.40196850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="-194.779816513761" YPOS="2199.1871559633" OwnPage="-1" ItemID="231015360" PTYPE="4" WIDTH="281.25" HEIGHT="63.1148125406366" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L281.25 0 L281.25 63.1148 L0 63.1148 L0 0 Z" copath="M0 0 L281.25 0 L281.25 63.1148 L0 63.1148 L0 0 Z" gXpos="-329.284197247706" gYpos="492.6" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
