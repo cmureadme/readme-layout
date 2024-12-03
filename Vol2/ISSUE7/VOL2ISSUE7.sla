@@ -148,7 +148,7 @@
                 <para ALIGN="1" LINESP="10"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH=" "/>
                 <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" CH="    Earlier this week, the department of Civil and Environmental Engineering issued a statement addressing the sudden increase in construction around CMU’s campus. This made many spaces unusable and caused significant traffic delays as 5th Ave and Forbes Ave have had closures. In the statement, the head of undergraduate and graduate studies for the department cite the practicum portion of this year’s finals as being primarily responsible for the inconveniences, saying that"/>
+                <ITEXT FONT="Bell MT Regular" CH="    Earlier this week, the department of Civil and Environmental Engineering issued a statement addressing the sudden increase in construction around CMU’s campus. This made many spaces unusable and caused significant traffic delays as 5th Ave and Forbes Ave have had closures. In the statement, the head of undergraduate and graduate studies for the department cites the practicum portion of this year’s finals as being primarily responsible for the inconveniences, saying that"/>
                 <para/>
                 <ITEXT FONT="Bell MT Regular" CH="    “The inconveniences are deeply regrettable especially since they have come at a time of heightened scrutiny due to a cost and time overrun in the renovation of Wean Hall proposed during last year's senior capstone. We apologize for the effect the current delays are having on the current student body and we are doing everything we can to expedite the projects, including efforts to integrate AI into the project management systems and outsourcing additional labor from illegal immigrants being bused in from El Paso.”"/>
                 <para/>
@@ -201,9 +201,9 @@
         <PAGEOBJECT XPOS="449.9" YPOS="25.4" OwnPage="0" ItemID="1724451747" PTYPE="4" WIDTH="247.7" HEIGHT="28.7627952755905" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L247.7 0 L247.7 28.7628 L0 28.7628 L0 0 Z" copath="M0 0 L247.7 0 L247.7 28.7628 L0 28.7628 L0 0 Z" gXpos="449.9" gYpos="25.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT FONT="Courier New Regular" CH="Conspiracy: Free"/>
+                <ITEXT FONT="Courier New Regular" CH="All-nighter: Free"/>
                 <para ALIGN="2"/>
-                <ITEXT FONT="Courier New Regular" CH="Theory: $3"/>
+                <ITEXT FONT="Courier New Regular" CH="Coffee: $3"/>
                 <trail ALIGN="2"/>
             </StoryText>
         </PAGEOBJECT>
@@ -659,7 +659,7 @@
                 <para/>
                 <ITEXT FONT="Bell MT Regular" CH="    The content of the Finals was initially unclear, but Gina Casalegno, Vice President of Student Life and Student Death, was quick to provide a syllabus for a 0-unit course, &quot;Mortality&quot; (with codes including 00-100 for first-years and 00-800 for graduate students), which all CMU students will be enrolled in. Specific questions likely to be asked include &quot;Are you proud of who you became?&quot; and &quot;Did fear and regret shape your perception of what you could accomplish?&quot;"/>
                 <para/>
-                <ITEXT FONT="Bell MT Regular" CH="    Catching students in their final moments to take a lengthy exam may prove difficult, however. This morning, large nets were unfurled beneath bridges near campus to roll students into a testing facility, which will return them to their original trajectory once grades are posted. Cars on campus have been limited to 5 miles per hour, and large &quot;man catcher&quot; buckets have been installed on their grills to catch students who  would have been killed, such that they may turn in their Final before being battered to death in a controlled environment similar to Forbes Avenue."/>
+                <ITEXT FONT="Bell MT Regular" CH="    Catching students in their final moments to take a lengthy exam may prove difficult, however. This morning, large nets were unfurled beneath bridges near campus to roll students into a testing facility, which will return them to their original trajectory once grades are posted. Cars on campus have been limited to 5 miles per hour, and large &quot;man catcher&quot; buckets have been installed on their grills to catch students who would have been killed, such that they may turn in their Final before being battered to death in a controlled environment similar to Forbes Avenue."/>
                 <para/>
                 <ITEXT FONT="Bell MT Regular" CH="    CMU's goals are unclear, but our investigative journalists were able to conclude through cat burglary that an institutional objective for the 2025 calendar year is to &quot;instill an awareness of mortality and the finality of death into our students, staff, and faculty.&quot;"/>
                 <para/>
@@ -903,7 +903,7 @@
                 <para LINESP="14"/>
                 <ITEXT CH="• In shocking news, 112 grading party turns into a free-for-all as TAs fight for last slices of cold pizza"/>
                 <para LINESP="14"/>
-                <ITEXT CH="• Biology department recommends students looking for finals reprieve engineer another pandemic, extra credit offered"/>
+                <ITEXT CH="• Biology department recommends students engineer another pandemic for finals reprieve, extra credit offered"/>
                 <para LINESP="14"/>
                 <ITEXT CH="• Homeless Ph.D. student holds fence for record 5 years, fails quals"/>
                 <para LINESP="14"/>
@@ -913,7 +913,7 @@
                 <para LINESP="14"/>
                 <ITEXT CH="• 3D Printer Crushed by Anvil, Now Regular Printer"/>
                 <para LINESP="14"/>
-                <ITEXT CH="• Dedicated Gender Studies student finds clitoris, looses track of penis"/>
+                <ITEXT CH="• Dedicated Gender Studies student finds clitoris, loses track of penis"/>
                 <para LINESP="14"/>
                 <para LINESP="14"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="15" SCALEH="100" SCALEV="100" CH="All this and more, not in this issue!"/>
