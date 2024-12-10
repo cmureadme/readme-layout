@@ -599,7 +599,7 @@
                 <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" CH="Alex Werth"/>
                 <para ALIGN="1" LINESP="10"/>
-                <ITEXT CH="Exposéur Extraordinare (Fuckin’ Narc\)"/>
+                <ITEXT FONT="Bell MT Italic" CH="Exposéur Extraordinare (Fuckin’ Narc\)"/>
                 <para ALIGN="1" LINESP="10"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH=" "/>
                 <para LINESP="10"/>
@@ -716,7 +716,7 @@
                 <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" CH="Abe James"/>
                 <para ALIGN="1" LINESP="10"/>
-                <ITEXT FONT="Bell MT Italic" CH="Fascinated by Cordyceps and Piranesi"/>
+                <ITEXT FONT="Bell MT Italic" CH="Bearly Holding On"/>
                 <para ALIGN="1" LINESP="10"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH=" "/>
                 <para LINESP="10"/>
