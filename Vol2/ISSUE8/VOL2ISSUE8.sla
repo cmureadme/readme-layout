@@ -150,7 +150,7 @@
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH=" "/>
                 <para LINESP="10"/>
                 <ITEXT FONT="Bell MT Regular" CH="   "/>
-                <ITEXT CH="After much confusion and arrests during last year’s Christmas, the IRS has decided to release an official tax guide for any presents received from Santa. This will be a comprehensive 50-page guide listing all the various rules for how to declare these presents, factoring things like value, type, Christmas spirit, and foreign import regulations. The IRS is hopeful that this will clear up any confusion regarding the rules surrounding Present Tax and also create enough confusion to be able to issue many fines to a(hopefully large) number of violators."/>
+                <ITEXT CH="After much confusion and arrests during last year’s Christmas, the IRS has decided to release an official tax guide for any presents received from Santa. This will be a comprehensive 50-page guide listing all the various rules for how to declare these presents, factoring things like value, type, Christmas spirit, and foreign import regulations. The IRS is hopeful that this will clear up any confusion regarding the rules surrounding Present Tax and also create enough confusion to be able to issue many fines to a (hopefully large) number of violators."/>
                 <para/>
                 <para/>
                 <para/>
@@ -535,7 +535,7 @@
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="9.5" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationRestart="2" NumerationOther="1" NumerationHigher="1" MinWordTrack="1"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="9.5" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationRestart="2" NumerationOther="1" NumerationHigher="1" MinWordTrack="1"/>
                 <ITEXT FONTSIZE="9" SCALEH="96" KERN="0" CH="    "/>
-                <ITEXT CH="Late Wednesday, Claus threatened legal action against NORAD – North American Aerospace Defense Command – and “organizations who supported harm to my family.” Claus said a stalker followed and blocked a sleigh carrying his favorite elf “Lil Pimmpin,” in the North Pole, thinking the occupant was him. The assailant climbed onto the reindeer, Claus tweeted. "/>
+                <ITEXT CH="Late Wednesday, Claus threatened legal action against NORAD (North American Aerospace Defense Command) and “organizations who supported harm to my family.” Claus said a stalker followed and blocked a sleigh carrying his favorite elf “Lil Pimmpin,” in the North Pole, thinking the occupant was him. The assailant climbed onto the reindeer, Claus tweeted. "/>
                 <para/>
                 <ITEXT CH="    When pressed for a response, NORAD claimed they were, “spreading Christmas joy for every little girl and boy.” Claus claims that spreading this information is incredibly dangerous, and may lead to his assassination, especially now due to his recent exposal of political beliefs. "/>
                 <para/>
