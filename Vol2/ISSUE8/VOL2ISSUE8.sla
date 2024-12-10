@@ -213,7 +213,7 @@
         <PAGEOBJECT XPOS="114.4" YPOS="105.809842519685" OwnPage="0" ItemID="206001360" PTYPE="4" WIDTH="189.482086614173" HEIGHT="13.4137795275592" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L189.482 0 L189.482 13.4138 L0 13.4138 L0 0 Z" copath="M0 0 L189.482 0 L189.482 13.4138 L0 13.4138 L0 0 Z" gXpos="114.4" gYpos="105.809842519685" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT FONT="Courier New Bold" FONTSIZE="7" CH="VOL II, ISSUE VII, 12/12/2024"/>
+                <ITEXT FONT="Courier New Bold" FONTSIZE="7" CH="VOL II, ISSUE VIII, 12/11/2024"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
@@ -310,25 +310,27 @@
         <PAGEOBJECT XPOS="489.85" YPOS="674.651968503937" OwnPage="0" ItemID="214578560" PTYPE="4" WIDTH="201.7" HEIGHT="121.84375" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L201.7 0 L201.7 121.844 L0 121.844 L0 0 Z" copath="M0 0 L201.7 0 L201.7 121.844 L0 121.844 L0 0 Z" gXpos="489.85" gYpos="-989.34803149606" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="0" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="This issue of readme is brought to you by: "/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="10" CH="This issue of readme is brought to you by: "/>
                 <para ALIGN="0" LINESP="10"/>
                 <para ALIGN="0" LINESP="10"/>
-                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Editors:"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH=" Eshaan Joshi, Tali Kirschenbaum, Daniel Yin"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Editors:"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="10" CH=" Eshaan Joshi, Tali Kirschenbaum, Daniel Yin"/>
+                <ITEXT FONTSIZE="10" CH=", "/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="10" CH="Abe James"/>
                 <para PARENT="Default Paragraph Style" ALIGN="0" LINESP="10"/>
-                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Problem Solvers:"/>
-                <ITEXT FONTSIZE="9" CH=" "/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="Kevin Song, Kevin Klucznik,"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Problem Solvers:"/>
+                <ITEXT FONTSIZE="10" CH=" "/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="10" CH="Kevin Song, Kevin Klucznik"/>
                 <para PARENT="Default Paragraph Style" ALIGN="0" LINESP="10"/>
-                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Journalists:"/>
-                <ITEXT FONTSIZE="9" CH=" "/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="Tali Kirschenbaum, Isabelle Florence, &quot;Tyan Rosh&quot;, Gilgamesh Ichthyomorphosis, Alex Werth, Save-a-tree Bhat, Mihir Deshpande, Rhodes N. Spectre, Bridget McMahon"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Journalists:"/>
+                <ITEXT FONTSIZE="10" CH=" "/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="10" CH="Tali Kirschenbaum, Isabelle Florence, &quot;Tyan Rosh&quot;, Gilgamesh Ichthyomorphosis, Alex Werth, Save-a-tree Bhat, Mihir Deshpande, Bridget McMahon"/>
                 <para PARENT="Default Paragraph Style" ALIGN="0" LINESP="10"/>
-                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Artists:"/>
-                <ITEXT FONTSIZE="9" CH=" Kevin Song, Benner Rogers, &quot;Tyan Rosh&quot;, Rhodes N. Spectre"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Artists:"/>
+                <ITEXT FONTSIZE="10" CH=" Kevin Song, Benner Rogers, &quot;Tyan Rosh&quot;, Rhodes N. Spectre"/>
                 <para ALIGN="0" LINESP="10"/>
-                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Tech Team:"/>
-                <ITEXT FONTSIZE="9" CH=" Wade Cheng, Danya Kogan"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Tech Team:"/>
+                <ITEXT FONTSIZE="10" CH=" Wade Cheng, Danya Kogan"/>
                 <para ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
@@ -360,7 +362,7 @@
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Light candles instead of a tree"/>
                 <para PARENT="Default Paragraph Style" ALIGN="0" LINESP="10"/>
                 <para PARENT="Default Paragraph Style" ALIGN="0" LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    Christmas trees are a hassle for most families. In recent years, many have resorted to buying fake trees, or decorating other items that can sit in a corner or window. Instead of buying expensive trees and ornaments every year, buy a much cheaper singular item that fits eight candles (one for each day) and 44 very thin candles (so as to light two on the first day, three on the second, and so on and so forth, as one candle lights all the others). This will save money in the long run, and an enormous amount of time and effort spent preparing the tree."/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="    Christmas trees are a hassle for most families. In recent years, many have resorted to buying fake trees, or decorating other items that can sit in a corner or window. Instead of buying expensive trees and ornaments every year, buy a much cheaper singular item that fits nine candles (one for each day, plus one to light all the others) and 44 very thin candles (so as to light two on the first day, three on the second, and so on and so forth, as one candle lights all the others). This will save money in the long run, and an enormous amount of time and effort spent preparing the tree."/>
                 <para PARENT="Default Paragraph Style" ALIGN="0" LINESP="10"/>
                 <para PARENT="Default Paragraph Style" ALIGN="0" LINESP="10"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Eat oily, fried foods"/>
@@ -532,11 +534,11 @@
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="9.5" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationRestart="2" NumerationOther="1" NumerationHigher="1" MinWordTrack="1"/>
                 <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="9.5" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationRestart="2" NumerationOther="1" NumerationHigher="1" MinWordTrack="1"/>
                 <ITEXT FONTSIZE="9" SCALEH="96" KERN="0" CH="    "/>
-                <ITEXT CH="Late Wednesday, Claus threatened legal action against Norad – North American Aerospace Defense Command – and “organizations who supported harm to my family.” Claus said a stalker followed and blocked a sleigh carrying his favorite elf “Lil Pimmpin,” in the North Pole, thinking the occupant was him. The assailant climbed onto the reindeer, Claus tweeted. "/>
+                <ITEXT CH="Late Wednesday, Claus threatened legal action against NORAD – North American Aerospace Defense Command – and “organizations who supported harm to my family.” Claus said a stalker followed and blocked a sleigh carrying his favorite elf “Lil Pimmpin,” in the North Pole, thinking the occupant was him. The assailant climbed onto the reindeer, Claus tweeted. "/>
                 <para/>
                 <ITEXT CH="    When pressed for a response, NORAD claimed they were, “spreading Christmas joy for every little girl and boy.” Claus claims that spreading this information is incredibly dangerous, and may lead to his assassination, especially now due to his recent exposal of political beliefs. "/>
                 <para/>
-                <ITEXT CH="    More interestingly, Norad has exposed that Claus’s total flight emissions for 2023 amount to 8,293 tonnes, which is over 1,100 times higher than the average person's entire annual emissions. "/>
+                <ITEXT CH="    More interestingly, NORAD has exposed that Claus’s total flight emissions for 2023 amount to 8,293 tonnes, which is over 1,100 times higher than the average person's entire annual emissions. "/>
                 <para/>
                 <ITEXT CH="    Flight tracking has also revealed that Santa routinely avoids poorer parts of major cities - such as Harlem in NYC - or entire cities themselves, as in the case of Detroit in 2022. Santa refused to comment on this information, routinely stating that the tracking itself is unconstitutional and harmful. "/>
                 <para/>
@@ -599,7 +601,7 @@
                 <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" CH="Alex Werth"/>
                 <para ALIGN="1" LINESP="10"/>
-                <ITEXT FONT="Bell MT Italic" CH="Exposéur Extraordinare (Fuckin’ Narc\)"/>
+                <ITEXT FONT="Bell MT Italic" CH="Exposéur Extraordinare (Fuckin’ Narc)"/>
                 <para ALIGN="1" LINESP="10"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH=" "/>
                 <para LINESP="10"/>
@@ -698,7 +700,7 @@
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH=" "/>
                 <para LINESP="10"/>
                 <ITEXT FONT="Bell MT Regular" CH="   "/>
-                <ITEXT CH=" At 3 am on Wednesday, 12/05, a team of exhausted BME student researchers made a major leap in genetic engineering, by successfully animating a snowman. The snow creature – humanoid with rounded limbs, standing around four feet tall – is powered by the highly bioengineered carrot forming its ‘nose’. The carrot was heavily cross-modified with mushroom and slime mold DNA.  It grew an extensive, prehensile, “...f*cking ‘The Thing’-level gory, just terrifying…” mycelial root network, which became the muscles and nerves of the snow mold the carrot was implanted in. "/>
+                <ITEXT CH=" At 3 am on Wednesday, 12/04, a team of exhausted BME student researchers made a major leap in genetic engineering, by successfully animating a snowman. The snow creature – humanoid with rounded limbs, standing around four feet tall – is powered by the highly bioengineered carrot forming its ‘nose’. The carrot was heavily cross-modified with mushroom and slime mold DNA.  It grew an extensive, prehensile, “...f*cking ‘The Thing’-level gory, just terrifying…” mycelial root network, which became the muscles and nerves of the snow mold the carrot was implanted in. "/>
                 <para/>
                 <ITEXT CH="    After a successful awakening, the snowman was relocated to one of the Posner B-level freezer closets, where it was well cared for by a rotation of researchers and their childcare specialist advisor. The snowman was performing at cognitive levels remarkably similar to a human newborn; the researchers envisioned an exciting future studying the developing cognition of their creation. “It’s not going to be like Frankenstein’s Monster,” one recalled, “We’re going to do better.”"/>
                 <para/>
