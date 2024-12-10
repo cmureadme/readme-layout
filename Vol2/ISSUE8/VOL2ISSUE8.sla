@@ -312,7 +312,6 @@
                 <DefaultStyle ALIGN="0" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="10" CH="This issue of readme is brought to you by: "/>
                 <para ALIGN="0" LINESP="10"/>
-                <para ALIGN="0" LINESP="10"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Editors:"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="10" CH=" Eshaan Joshi, Tali Kirschenbaum, Daniel Yin"/>
                 <ITEXT FONTSIZE="10" CH=", "/>
@@ -325,6 +324,8 @@
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Journalists:"/>
                 <ITEXT FONTSIZE="10" CH=" "/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="10" CH="Tali Kirschenbaum, Isabelle Florence, &quot;Tyan Rosh&quot;, Gilgamesh Ichthyomorphosis, Alex Werth, Save-a-tree Bhat, Mihir Deshpande, Bridget McMahon"/>
+                <ITEXT CH=", "/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="10" CH="Abe James"/>
                 <para PARENT="Default Paragraph Style" ALIGN="0" LINESP="10"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Artists:"/>
                 <ITEXT FONTSIZE="10" CH=" Kevin Song, Benner Rogers, &quot;Tyan Rosh&quot;, Rhodes N. Spectre"/>
@@ -473,7 +474,7 @@
                 <para LINESP="14"/>
                 <ITEXT CH="• Child tries to separate parents to get two Christmases"/>
                 <para LINESP="14"/>
-                <para LINESP="14"/>
+                <breakline/>
                 <para LINESP="14"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="15" SCALEH="100" SCALEV="100" CH="All this and more, not in this issue!"/>
                 <para ALIGN="2" LINESP="14"/>
