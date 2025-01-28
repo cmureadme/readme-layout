@@ -631,6 +631,20 @@
                 <trail LINESP="10"/>
             </StoryText>
         </PAGEOBJECT>
+        <PAGEOBJECT XPOS="-55.56" YPOS="1416.05196850394" OwnPage="-1" ItemID="247771232" PTYPE="4" WIDTH="154.335" HEIGHT="270.624999999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L154.335 0 L154.335 270.625 L0 270.625 L0 0 Z" copath="M0 0 L154.335 0 L154.335 270.625 L0 270.625 L0 0 Z" gXpos="-55.56" gYpos="-247.94803149607" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
+                <ITEXT CH="Kanya Dogan"/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="Bell MT Italic" CH="Social Anthropologist"/>
+                <para ALIGN="1" LINESP="10"/>
+                <para/>
+                <ITEXT CH="    I walk into my Mechanics 2 lecture on a snowy January afternoon. I find an available seat in the 4th row - which provides a clear view of the professor’s presentation. Things like 3D free-body-diagrams are covered, which I honestly didn’t really pay attention to. What was most striking about this class was the person sitting directly next to me. This guy kept nodding his head up and down, side to side. Is he on fentanyl? Did he not get enough sleep last night? It does not matter. His parents are paying his tuition yet he desecrates their financial investment in him by treating his education as sleepy time. His ancestors, probably coal miners or something, are all looking down on him from up above. They did not get a chance to receive any form of higher education, especially not in mechanical engineering. Yet their progeny is sitting here, fucking falling asleep. Oh his ancestors are definitely crying for sure."/>
+                <para/>
+                <para/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
         <PAGEOBJECT XPOS="1425.815" YPOS="473.051968503938" OwnPage="-1" ItemID="247782560" PTYPE="4" WIDTH="287.185" HEIGHT="470.899999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L287.185 0 L287.185 470.9 L0 470.9 L0 0 Z" copath="M0 0 L287.185 0 L287.185 470.9 L0 470.9 L0 0 Z" gXpos="1425.815" gYpos="-1190.94803149607" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
@@ -687,6 +701,16 @@
                 <DefaultStyle ALIGN="0" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-7"/>
                 <ITEXT CH="Feng Shui for ruining your life"/>
                 <para ALIGN="1" LINESP="28"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="-91.475" YPOS="1352.11850393701" OwnPage="-1" ItemID="247785392" PTYPE="4" WIDTH="154.125" HEIGHT="62.8084645669269" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L154.125 0 L154.125 62.8085 L0 62.8085 L0 0 Z" copath="M0 0 L154.125 0 L154.125 62.8087 L0 62.8087 L0 0 Z" gXpos="-91.475" gYpos="1352.11850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-5"/>
+                <ITEXT CH="Missing     "/>
+                <tab/>
+                <tab/>
+                <ITEXT CH="Links"/>
+                <trail/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="874.4" YPOS="234.31850393701" OwnPage="-1" ItemID="247793888" PTYPE="4" WIDTH="297" HEIGHT="62.4834645669268" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L297 0 L297 62.4835 L0 62.4835 L0 0 Z" copath="M0 0 L297 0 L297 62.4835 L0 62.4835 L0 0 Z" gXpos="874.4" gYpos="234.31850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
