@@ -132,7 +132,8 @@
                 <trail/>
             </StoryText>
         </FRAMEOBJECT>
-        <PAGEOBJECT XPOS="-21.1797743047653" YPOS="754.899396893259" OwnPage="0" ItemID="222941344" PTYPE="2" WIDTH="321.128834355828" HEIGHT="304.773006134969" FRTYPE="0" CLIPEDIT="0" ROT="342.833429633986" PWIDTH="1" PLINEART="1" LOCALSCX="0.0845886778059864" LOCALSCY="0.0845886778059864" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/Beautiful Corner Ring.png" IRENDER="0" EMBEDDED="0" path="M0 0 L321.129 0 L321.129 304.773 L0 304.773 L0 0 Z" copath="M0 0 L321.129 0 L321.129 304.773 L0 304.773 L0 0 Z" gXpos="-21.1797743047653" gYpos="754.899396893259" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="87.15" YPOS="861.176968503937" OwnPage="1" ItemID="244800976" PTYPE="2" WIDTH="334.875" HEIGHT="334.875" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.334875" LOCALSCY="0.334875" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/VDayCandy.png" IRENDER="0" EMBEDDED="0" path="M0 0 L334.875 0 L334.875 334.875 L0 334.875 L0 0 Z" copath="M0 0 L334.875 0 L334.875 334.875 L0 334.875 L0 0 Z" gXpos="87.15" gYpos="861.176968503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="-16.1797743047653" YPOS="756.899396893259" OwnPage="0" ItemID="222941344" PTYPE="2" WIDTH="321.128834355828" HEIGHT="304.773006134969" FRTYPE="0" CLIPEDIT="0" ROT="342.833429633986" PWIDTH="1" PLINEART="1" LOCALSCX="0.0845886778059864" LOCALSCY="0.0845886778059864" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/Beautiful Corner Ring.png" IRENDER="0" EMBEDDED="0" path="M0 0 L321.129 0 L321.129 304.773 L0 304.773 L0 0 Z" copath="M0 0 L321.129 0 L321.129 304.773 L0 304.773 L0 0 Z" gXpos="-16.1797743047653" gYpos="756.899396893259" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="99.2222440944882" YPOS="114.866141732283" OwnPage="0" ItemID="232329552" PTYPE="6" WIDTH="612.777755905512" HEIGHT="1.69192913385825" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" path="M0 0 L612.778 0 L612.778 1.69193 L0 1.69193 L0 0 Z" copath="M0 0 L612.778 0 L612.778 1.69193 L0 1.69193 L0 0 Z" gXpos="99.2222440944882" gYpos="114.866141732283" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="227.082086614173" YPOS="11.8019685039369" OwnPage="0" ItemID="232340352" PTYPE="2" WIDTH="332.08408503937" HEIGHT="126.191952314961" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.166042042519685" LOCALSCY="0.166042042519685" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/readme-banner-vector-no-tools.png" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L332.084 0 L332.084 126.192 L0 126.192 L0 0 Z" copath="M0 0 L332.084 0 L332.084 126.192 L0 126.192 L0 0 Z" gXpos="227.082086614173" gYpos="11.8019685039369" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="114.4" YPOS="117.2" OwnPage="0" ItemID="222922416" PTYPE="4" WIDTH="227.2" HEIGHT="16.9444881889763" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L227.2 0 L227.2 16.9445 L0 16.9445 L0 0 Z" copath="M0 0 L227.2 0 L227.2 16.9445 L0 16.9445 L0 0 Z" gXpos="114.4" gYpos="117.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
@@ -362,7 +363,7 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="485.629286809816" YPOS="535.051968503938" OwnPage="0" ItemID="236534608" PTYPE="4" WIDTH="207.821180981595" HEIGHT="245.696497753731" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L207.821 0 L207.821 245.696 L0 245.696 L0 0 Z" copath="M0 0 L207.821 0 L207.821 245.696 L0 245.696 L0 0 Z" gXpos="485.629286809816" gYpos="-1128.94803149607" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="485.629286809816" YPOS="556.651968503938" OwnPage="0" ItemID="236534608" PTYPE="4" WIDTH="207.821180981595" HEIGHT="245.696497753731" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L207.821 0 L207.821 245.696 L0 245.696 L0 0 Z" copath="M0 0 L207.821 0 L207.821 245.696 L0 245.696 L0 0 Z" gXpos="485.629286809816" gYpos="-1107.34803149607" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" CH="Bridget McMahon "/>
@@ -412,7 +413,7 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="502.114877300614" YPOS="501.11850393701" OwnPage="0" ItemID="236542784" PTYPE="4" WIDTH="174.85" HEIGHT="36.5440727501066" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L174.85 0 L174.85 36.5441 L0 36.5441 L0 0 Z" copath="M0 0 L174.85 0 L174.85 36.5442 L0 36.5442 L0 0 Z" gXpos="502.114877300614" gYpos="501.11850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="502.114877300614" YPOS="511.11850393701" OwnPage="0" ItemID="236542784" PTYPE="4" WIDTH="174.85" HEIGHT="36.5440727501066" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L174.85 0 L174.85 36.5441 L0 36.5441 L0 0 Z" copath="M0 0 L174.85 0 L174.85 36.5442 L0 36.5442 L0 0 Z" gXpos="502.114877300614" gYpos="511.11850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-5"/>
                 <ITEXT CH="Top 10 Tops"/>
@@ -420,7 +421,7 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="477.153374233129" YPOS="145.748466257669" OwnPage="0" ItemID="241851328" PTYPE="2" WIDTH="224.773006134969" HEIGHT="348.092024539877" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.17370402328823" LOCALSCY="0.17370402328823" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/[non-storyline, page 2] Dating app for Asian Women and White guys (1).png" IRENDER="0" EMBEDDED="0" path="M0 0 L224.773 0 L224.773 348.092 L0 348.092 L0 0 Z" copath="M0 0 L224.773 0 L224.773 348.092 L0 348.092 L0 0 Z" gXpos="477.153374233129" gYpos="145.748466257669" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="115.441717791411" YPOS="248.361963190184" OwnPage="0" ItemID="236562608" PTYPE="4" WIDTH="353.01226993865" HEIGHT="174.877300613497" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L353.012 0 L353.012 174.877 L0 174.877 L0 0 Z" copath="M0 0 L353.012 0 L353.012 174.877 L0 174.877 L0 0 Z" gXpos="115.441717791411" gYpos="248.361963190184" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="117.441717791411" YPOS="256.361963190184" OwnPage="0" ItemID="236562608" PTYPE="4" WIDTH="353.01226993865" HEIGHT="161.190005313753" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L353.012 0 L353.012 161.19 L0 161.19 L0 0 Z" copath="M0 0 L353.012 0 L353.012 161.19 L0 161.19 L0 0 Z" gXpos="117.441717791411" gYpos="256.361963190184" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="1. So, Mr. and Mrs. _______________, what do you do for work?"/>
@@ -457,22 +458,22 @@
                 <para LINESP="10"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="125.361963190184" YPOS="878.31850393701" OwnPage="1" ItemID="236539952" PTYPE="4" WIDTH="561.067484662577" HEIGHT="54.1477537317016" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L561.067 0 L561.067 54.1478 L0 54.1478 L0 0 Z" copath="M0 0 L561.068 0 L561.068 54.1478 L0 54.1478 L0 0 Z" gXpos="125.361963190184" gYpos="878.31850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="128.361963190184" YPOS="869.31850393701" OwnPage="1" ItemID="236539952" PTYPE="4" WIDTH="561.067484662577" HEIGHT="54.1477537317016" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L561.067 0 L561.067 54.1478 L0 54.1478 L0 0 Z" copath="M0 0 L561.068 0 L561.068 54.1478 L0 54.1478 L0 0 Z" gXpos="128.361963190184" gYpos="869.31850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="100" KERN="0"/>
                 <ITEXT FONTSIZE="45" SCALEH="100" KERN="0" CH="MARRY (READ)ME?"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="391.877300613497" YPOS="941.337423312883" OwnPage="1" ItemID="241864736" PTYPE="2" WIDTH="293.668711656442" HEIGHT="229.656441717791" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.365694970888202" LOCALSCY="0.365694970888202" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/Marriage_Certificate_Gray_Final.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L293.669 0 L293.669 229.656 L0 229.656 L0 0 Z" copath="M0 0 L293.669 0 L293.669 229.656 L0 229.656 L0 0 Z" gXpos="391.877300613497" gYpos="941.337423312883" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="124.588957055215" YPOS="944.31850393701" OwnPage="1" ItemID="236548448" PTYPE="4" WIDTH="256.104294478528" HEIGHT="61.7060359402906" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L256.104 0 L256.104 61.706 L0 61.706 L0 0 Z" copath="M0 0 L256.104 0 L256.104 61.706 L0 61.706 L0 0 Z" gXpos="124.588957055215" gYpos="944.31850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="395.877300613497" YPOS="926.337423312883" OwnPage="1" ItemID="241864736" PTYPE="2" WIDTH="293.668711656442" HEIGHT="229.656441717791" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.365694970888202" LOCALSCY="0.365694970888202" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/Marriage_Certificate_Gray_Final.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L293.669 0 L293.669 229.656 L0 229.656 L0 0 Z" copath="M0 0 L293.669 0 L293.669 229.656 L0 229.656 L0 0 Z" gXpos="395.877300613497" gYpos="926.337423312883" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="123.588957055215" YPOS="1144.31850393701" OwnPage="1" ItemID="236548448" PTYPE="4" WIDTH="256.104294478528" HEIGHT="61.7060359402906" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L256.104 0 L256.104 61.706 L0 61.706 L0 0 Z" copath="M0 0 L256.104 0 L256.104 61.706 L0 61.706 L0 0 Z" gXpos="123.588957055215" gYpos="1144.31850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="100" KERN="0"/>
                 <ITEXT FONTSIZE="22" SCALEH="100" KERN="0" CH="One's a magazine. One's a human. Now they're married."/>
                 <trail ALIGN="1" LINESP="18"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="123.629286809816" YPOS="1006.05196850394" OwnPage="1" ItemID="236545616" PTYPE="4" WIDTH="256.272553680982" HEIGHT="123.653552968455" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L256.273 0 L256.273 123.654 L0 123.654 L0 0 Z" copath="M0 0 L256.273 0 L256.273 123.654 L0 123.654 L0 0 Z" gXpos="123.629286809816" gYpos="-657.94803149607" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="122.629286809816" YPOS="1206.05196850394" OwnPage="1" ItemID="236545616" PTYPE="4" WIDTH="256.272553680982" HEIGHT="123.653552968455" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L256.273 0 L256.273 123.654 L0 123.654 L0 0 Z" copath="M0 0 L256.273 0 L256.273 123.654 L0 123.654 L0 0 Z" gXpos="122.629286809816" gYpos="-457.94803149607" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" CH="&quot;Tyan Rosh&quot; "/>
@@ -568,66 +569,41 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="121.125" YPOS="1144" OwnPage="1" ItemID="244798144" PTYPE="2" WIDTH="257.875" HEIGHT="291.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.33855981416957" LOCALSCY="0.33855981416957" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/[non-storyline, page 5] cursedtarot.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L257.875 0 L257.875 291.5 L0 291.5 L0 0 Z" copath="M0 0 L257.875 0 L257.875 291.5 L0 291.5 L0 0 Z" ImageRes="0" gXpos="121.125" gYpos="1144" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="389.441717791411" YPOS="1250.36196319018" OwnPage="1" ItemID="244792480" PTYPE="4" WIDTH="294.083282208589" HEIGHT="345.315005313753" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L294.083 0 L294.083 345.315 L0 345.315 L0 0 Z" copath="M0 0 L294.083 0 L294.083 345.315 L0 345.315 L0 0 Z" gXpos="389.441717791411" gYpos="1250.36196319018" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="120.125" YPOS="1336" OwnPage="1" ItemID="244798144" PTYPE="2" WIDTH="257.875" HEIGHT="291.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.33855981416957" LOCALSCY="0.33855981416957" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/[non-storyline, page 5] cursedtarot.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L257.875 0 L257.875 291.5 L0 291.5 L0 0 Z" copath="M0 0 L257.875 0 L257.875 291.5 L0 291.5 L0 0 Z" ImageRes="0" gXpos="120.125" gYpos="1336" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="395.441717791411" YPOS="1194.30196850394" OwnPage="1" ItemID="244792480" PTYPE="4" WIDTH="296.333282208589" HEIGHT="434.8125" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L296.333 0 L296.333 434.813 L0 434.813 L0 0 Z" copath="M0 0 L296.333 0 L296.333 434.813 L0 434.813 L0 0 Z" gXpos="395.441717791411" gYpos="1194.30196850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Rhodes N. Spectre"/>
                 <para ALIGN="1" LINESP="10"/>
                 <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH="Professor of Romance"/>
-                <para ALIGN="1" LINESP="10"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="Humans are among nature’s most social animals. They are renowned for their group migrations, cooperative foraging, communal roosting, synchronous breeding aggregations, precise parent–offspring interactions, coordinated group defenses, and intricate territorial and courtship rituals. In these and other contexts, and indeed in most moments of their lives, humans’ capability to navigate complex social demands and relationships can tip the balance between health or sickness, between reproductive success or failure, between life or death. It is thus no surprise that humans have evolved sophisticated systems for mediating social interactions. Foremost among these are communication signals, most evident in humans as songs, calls, color patterns and postural displays. These can transmit information about a signalers’ status, motivations, and possible future actions, for sensory and cognitive processing by signal receivers. In general, signals provide benefits for both senders and receivers. Communication is, in essence, a glue that maintains the cohesion of human societies, and a currency that mediates sophisticated relationships within. Collected below are some common mating calls that have been observed."/>
-                <para LINESP="10"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“I make 6 figures a year.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“I’m 6 feet tall, I swear.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“I’m a private equity investor.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“Let’s compare hand sizes.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“I’m not like other girls/guys.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“I’m so small and delicate/big and rugged.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“I’m really into the alt/goth scene.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“Have you heard of this thing called the blockchain?”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“I do crossfit.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“I play Valorant/League of Legends, I’m actually going semi-pro.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“I have an AI startup in Silicon Valley.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“Have you heard of our lord and savior Jesus Christ?”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“Are you lost little boy/girl?”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“I have a 500 day streak of learning Japanese on Duolingo.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“You’re just like a brother/sister to me.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“What’s your snap?”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="[Unsolicited photograph of male genitalia]"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“I play the guitar.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“I’m really into military history.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“Our zodiac signs are compatible.”"/>
-                <para LINESP="10"/>
-                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="“Want to see my car?”"/>
-                <para LINESP="10"/>
+                <para ALIGN="1"/>
+                <para/>
+                <ITEXT CH="    Whenever you bring home a new loved one for dinner, it’s inevitable that your parents will ask you questions about them. Bringing home your new copy of ReadMe is no different. Today we will discuss some of the questions you can anticipate will be asked of you and your new beau, and how to best respond to them to inspire confidence in your parents."/>
+                <para/>
+                <ITEXT FONT="Bell MT Italic" CH="“So how did you two meet?”"/>
+                <para/>
+                <ITEXT CH="    This is a common question that gets used to open up the conversation. It is important to make a good first impression, tell them about how you two met and hit it off immediately, a thoughtful answer can go a long way to reassure your parents."/>
+                <para/>
+                <ITEXT CH="“"/>
+                <ITEXT FONT="Bell MT Italic" CH="What are your intentions with my child?”"/>
+                <para/>
+                <ITEXT CH="    A slightly deeper one, this question requires a more thoughtful response to ensure a positive impression. This is a good chance to veer the question slightly in a tactful manner. They may give a wholesome anecdote illuminating some revelation or positive experience that you’ve shared that will tell your parents why you are so committed to each other and what direction they intend to take you. "/>
+                <para/>
+                <ITEXT CH="“"/>
+                <ITEXT FONT="Bell MT Italic" CH="What is your current relationship to your family like?”"/>
+                <para/>
+                <ITEXT CH="    Even though you may be aware of the complicated relationship between every copy of ReadMe and their parents, you must both be careful. If you wish to open the dialogue to the divorce between the Editor in Chief of ReadMe, the staff writers, and The Tartan, twist it in a way that shows reflection and a desire to end the cycle of violence. Otherwise it may be safer to feign a relationship that isn't there."/>
+                <para/>
+                <ITEXT FONT="Bell MT Italic" CH="“Why can’t you bring home a scientific journal like your older sister? Now that there is a paper of fine academic background, I still remember the feeling of archival grade paper and ink as she passed it around. If you have to date a newspaper, which is your decision to make, can’t you at least bring home one of slightly greater repute? It’s always the free, easy editions with you, couldn't you spend just a little more and get a copy of the New York Times or Wall Street Journal? If it has to be a magazine format I know The Economist is very popular with the new generations. Why can’t you be normal?”"/>
+                <para/>
+                <ITEXT CH="    Despite what it may seem, this is a good sign. Your parents have taken an offensive stance because they care about both of you and have taken a more intimate position. This is the best opportunity to use the strategic offensive principle of war that states the best offence is a good defence. You’re used to being compared to your older sister, so the attack has little emotional weight. Sidestep their argument by bringing up things like their negligence to you, or how the relationship between your parents has driven the family apart. Being angry is a display of care deep down, so reciprocate the affection your parents are showing by being equally combative. If you are able to end the night on this note, you will have ultimately succeeded in getting your parents to welcome your new copy of ReadMe by treating them as an extension of the family."/>
+                <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="389.588957055215" YPOS="1179.31850393701" OwnPage="1" ItemID="244795312" PTYPE="4" WIDTH="291.561042944785" HEIGHT="61.7060359402906" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L291.561 0 L291.561 61.706 L0 61.706 L0 0 Z" copath="M0 0 L291.561 0 L291.561 61.706 L0 61.706 L0 0 Z" gXpos="389.588957055215" gYpos="1179.31850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="394.65" YPOS="1166.11850393701" OwnPage="1" ItemID="244795312" PTYPE="4" WIDTH="296.6875" HEIGHT="23.6834645669267" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L296.688 0 L296.688 23.6835 L0 23.6835 L0 0 Z" copath="M0 0 L296.687 0 L296.687 23.6835 L0 23.6835 L0 0 Z" gXpos="394.65" gYpos="1166.11850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="100" KERN="0"/>
-                <ITEXT FONTSIZE="22" SCALEH="100" KERN="0" CH="Human Mating Calls from the Perspective of a Bird"/>
+                <ITEXT FONTSIZE="22" SCALEH="100" KERN="0" CH="Commonly Asked Dinner Q's"/>
                 <trail ALIGN="1" LINESP="18"/>
             </StoryText>
         </PAGEOBJECT>
