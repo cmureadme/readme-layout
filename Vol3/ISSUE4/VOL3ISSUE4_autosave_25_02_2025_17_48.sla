@@ -242,7 +242,7 @@
                 <para LINESP="14"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="-271.0875" YPOS="1640.2" OwnPage="-1" ItemID="197052640" PTYPE="2" WIDTH="290.25" HEIGHT="375.617647058823" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.113823529411765" LOCALSCY="0.113823529411765" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/Invasive plant fighting.png" IRENDER="0" EMBEDDED="0" path="M0 0 L290.25 0 L290.25 375.618 L0 375.618 L0 0 Z" copath="M0 0 L290.25 0 L290.25 375.618 L0 375.618 L0 0 Z" ImageRes="0" gXpos="-271.0875" gYpos="1640.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="127" YPOS="1840.2" OwnPage="2" ItemID="197052640" PTYPE="2" WIDTH="270.1625" HEIGHT="269.85" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.134925" LOCALSCY="0.134925" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/HellTepper.png" IRENDER="0" EMBEDDED="0" path="M0 0 L270.163 0 L270.163 269.85 L0 269.85 L0 0 Z" copath="M0 0 L270.163 0 L270.163 269.85 L0 269.85 L0 0 Z" ImageRes="0" gXpos="127" gYpos="1840.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="801.172217663751" YPOS="608.606753215809" OwnPage="-1" ItemID="197709840" PTYPE="4" WIDTH="379.541677170997" HEIGHT="34.1214530243201" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L379.542 0 L379.542 34.1215 L0 34.1215 L0 0 Z" copath="M0 0 L379.541 0 L379.541 34.1215 L0 34.1215 L0 0 Z" gXpos="801.172217663751" gYpos="608.606753215809" gWidth="379.541677170997" gHeight="34.1214530243201" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="96"/>
@@ -534,7 +534,7 @@
                 <trail ALIGN="1" LINESP="27"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="422.7125" YPOS="2330.375" OwnPage="2" ItemID="204747456" PTYPE="4" WIDTH="285.6375" HEIGHT="139" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L285.637 0 L285.637 139 L0 139 L0 0 Z" copath="M0 0 L285.638 0 L285.638 139 L0 139 L0 0 Z" gXpos="422.7125" gYpos="2330.375" gWidth="269.403" gHeight="114.244495412844" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="418.7125" YPOS="2330.375" OwnPage="2" ItemID="204747456" PTYPE="4" WIDTH="285.6375" HEIGHT="139" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L285.637 0 L285.637 139 L0 139 L0 0 Z" copath="M0 0 L285.638 0 L285.638 139 L0 139 L0 0 Z" gXpos="418.7125" gYpos="2330.375" gWidth="269.403" gHeight="114.244495412844" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="This issue of readme is brought to you by: "/>
@@ -550,8 +550,11 @@
                 <ITEXT FONTSIZE="9" CH=" "/>
                 <ITEXT CH="&quot;Save-a-tree&quot; Bhat,  &quot;Tyan Rosh&quot;, Mihir Deshpande, Jimothy Yachtsson, Isabelle Florence, Abe James, Gilgamesh Ichthyomorphosis, Robin Notin, Dr. Johnathan Speed, Sidewalk Bro, Vinny Radford, Kanya Dogan, Jimothy Yachtsson, Alex &quot;Wilhelm&quot; Werth"/>
                 <para ALIGN="0" LINESP="10"/>
+                <ITEXT FONT="Bell MT Bold" CH="Cover Artist:"/>
+                <ITEXT CH=" Vinny Radford"/>
+                <para ALIGN="0" LINESP="10"/>
                 <ITEXT FONT="Bell MT Bold" CH="Artists:"/>
-                <ITEXT CH=" Benner Rogers, Rhodes N. Spectre, Gilgamesh Ichthyomorphosis, Alex &quot;Warner&quot; &quot;Wasseranalogon Des Reinkarnations-zyklus&quot; Werth, Vinny Radford(Cover Artist)"/>
+                <ITEXT CH=" Benner Rogers, Rhodes N. Spectre, Gilgamesh Ichthyomorphosis, Alex &quot;Warner&quot; &quot;Wasseranalogon Des Reinkarnations-zyklus&quot; Werth, "/>
                 <para LINESP="10"/>
                 <ITEXT FONT="Bell MT Bold" CH="Tech Team:"/>
                 <ITEXT CH=" Wade Cheng, Danya Kogan, Gilgamesh Ichthyomorphosis, &quot;Tyan Rosh&quot;"/>
@@ -825,7 +828,7 @@
                 <trail LINESP="10"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="114.2125" YPOS="2166.86446850394" OwnPage="2" ItemID="209801616" PTYPE="4" WIDTH="287.6" HEIGHT="275.625" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L287.6 0 L287.6 275.625 L0 275.625 L0 0 Z" copath="M0 0 L287.6 0 L287.6 275.625 L0 275.625 L0 0 Z" gXpos="114.2125" gYpos="2166.86446850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="114.2125" YPOS="2183.86446850394" OwnPage="2" ItemID="209801616" PTYPE="4" WIDTH="287.6" HEIGHT="275.625" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L287.6 0 L287.6 275.625 L0 275.625 L0 0 Z" copath="M0 0 L287.6 0 L287.6 275.625 L0 275.625 L0 0 Z" gXpos="114.2125" gYpos="2183.86446850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="9" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Mihir Deshpande"/>
@@ -843,14 +846,14 @@
                 <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="114.9125" YPOS="1698.90196850394" OwnPage="2" ItemID="209795952" PTYPE="4" WIDTH="286.4625" HEIGHT="90.4105314960598" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286.462 0 L286.462 90.4105 L0 90.4105 L0 0 Z" copath="M0 0 L286.463 0 L286.463 90.4107 L0 90.4107 L0 0 Z" gXpos="114.9125" gYpos="1698.90196850394" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="1043.9125" YPOS="1779.90196850394" OwnPage="-1" ItemID="209795952" PTYPE="4" WIDTH="286.4625" HEIGHT="90.4105314960598" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286.462 0 L286.462 90.4105 L0 90.4105 L0 0 Z" copath="M0 0 L286.463 0 L286.463 90.4107 L0 90.4107 L0 0 Z" gXpos="1043.9125" gYpos="1779.90196850394" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-5"/>
                 <ITEXT CH="Tartans Way Too Excited to go to Thailand"/>
                 <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="112.9125" YPOS="2099.90196850394" OwnPage="2" ItemID="209821440" PTYPE="4" WIDTH="289.025" HEIGHT="60.7855314960598" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L289.025 0 L289.025 60.7855 L0 60.7855 L0 0 Z" copath="M0 0 L289.026 0 L289.026 60.7856 L0 60.7856 L0 0 Z" gXpos="112.9125" gYpos="2099.90196850394" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="112.9125" YPOS="2127.90196850394" OwnPage="2" ItemID="209821440" PTYPE="4" WIDTH="289.025" HEIGHT="60.7855314960598" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L289.025 0 L289.025 60.7855 L0 60.7855 L0 0 Z" copath="M0 0 L289.026 0 L289.026 60.7856 L0 60.7856 L0 0 Z" gXpos="112.9125" gYpos="2127.90196850394" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-5"/>
                 <ITEXT KERN="-4" CH="SCS Students to join"/>
@@ -858,7 +861,7 @@
                 <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="114.2125" YPOS="1794.01297767825" OwnPage="2" ItemID="209824272" PTYPE="4" WIDTH="285.475" HEIGHT="288.601490825687" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L285.475 0 L285.475 288.601 L0 288.601 L0 0 Z" copath="M0 0 L285.475 0 L285.475 288.601 L0 288.601 L0 0 Z" gXpos="114.2125" gYpos="1794.01297767825" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="1043.2125" YPOS="1875.01297767825" OwnPage="-1" ItemID="209824272" PTYPE="4" WIDTH="285.475" HEIGHT="288.601490825687" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L285.475 0 L285.475 288.601 L0 288.601 L0 0 Z" copath="M0 0 L285.475 0 L285.475 288.601 L0 288.601 L0 0 Z" gXpos="1043.2125" gYpos="1875.01297767825" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="9" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Mihir Deshpande"/>
@@ -874,6 +877,27 @@
                 <ITEXT CH="    Study Abroad staff in the Office of International Education is dedicated to supporting Carnegie Mellon students through every step of the study abroad process. However, following federal guidance, they recommend that students do not learn to value the diverse communities they may find themselves in during the course of a study abroad program."/>
                 <para/>
                 <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="117.55" YPOS="1761.98946850394" OwnPage="2" ItemID="209852592" PTYPE="4" WIDTH="287.1" HEIGHT="78" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L287.1 0 L287.1 78 L0 78 L0 0 Z" copath="M0 0 L287.1 0 L287.1 78 L0 78 L0 0 Z" gXpos="117.55" gYpos="-1566.01053149607" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Bold" CH="Vinny Radford "/>
+                <para ALIGN="1"/>
+                <ITEXT FONT="Bell MT Italic" CH="Tepper Investigative Journalist"/>
+                <para ALIGN="1"/>
+                <para/>
+                <ITEXT CH="“We fought hard to ensure our students a prime location. It’s like a stu-cation! Which is what we’re calling it when one of our students goes to Hell.”"/>
+                <para/>
+                <ITEXT CH="— Dr. S. A. Tan, Office of Tepper Study Abroad Programs"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="117.6" YPOS="1696.11850393701" OwnPage="2" ItemID="209838432" PTYPE="4" WIDTH="287.0875" HEIGHT="66.0584645669269" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L287.087 0 L287.087 66.0585 L0 66.0585 L0 0 Z" copath="M0 0 L287.087 0 L287.087 66.0587 L0 66.0587 L0 0 Z" gXpos="117.6" gYpos="32.11850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-5"/>
+                <ITEXT CH="Tepper Unveils new Hell Campus"/>
+                <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
