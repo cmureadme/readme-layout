@@ -355,28 +355,7 @@
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="1278.9" YPOS="1992.90196850394" OwnPage="-1" ItemID="233471536" PTYPE="2" WIDTH="277.5" HEIGHT="379.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.210833333333333" LOCALSCY="0.210833333333333" LOCALX="52.3162055335975" LOCALY="-5.46388223211029" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../../Downloads/READMELanguageTartan.png" PRFILE="Embedded sRGB IEC61966-2.1" IRENDER="0" EPROF="Embedded sRGB IEC61966-2.1" path="M0 0 L277.5 0 L277.5 379.5 L0 379.5 L0 0 Z" copath="M0 0 L277.5 0 L277.5 379.5 L0 379.5 L0 0 Z" ImageRes="0" gXpos="1278.9" gYpos="1992.90196850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="780.44" YPOS="2673.02696850394" OwnPage="-1" ItemID="234131504" PTYPE="2" WIDTH="278.625" HEIGHT="202.125" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.189540816326531" LOCALSCY="0.189540816326531" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../../../partyAd2.png" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L278.625 0 L278.625 202.125 L0 202.125 L0 0 Z" copath="M0 0 L278.625 0 L278.625 202.125 L0 202.125 L0 0 Z" gXpos="780.44" gYpos="2673.02696850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="114.629286809816" YPOS="725.989468503937" OwnPage="0" ItemID="234138352" PTYPE="4" WIDTH="257.765651840491" HEIGHT="78" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L257.766 0 L257.766 78 L0 78 L0 0 Z" copath="M0 0 L257.766 0 L257.766 78 L0 78 L0 0 Z" gXpos="114.629286809816" gYpos="-938.010531496071" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
-                <ITEXT FONT="Bell MT Bold" CH="Vinny Radford "/>
-                <para ALIGN="1"/>
-                <ITEXT FONT="Bell MT Italic" CH="Tepper Investigative Journalist"/>
-                <para ALIGN="1"/>
-                <para/>
-                <ITEXT CH="“We fought hard to ensure our students a prime location. It’s like a stu-cation! Which is what we’re calling it when one of our students goes to Hell.”"/>
-                <para/>
-                <ITEXT CH="— Dr. S. A. Tan, Office of Tepper Study Abroad Programs"/>
-                <para/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="115.894938650307" YPOS="655.11850393701" OwnPage="0" ItemID="234141184" PTYPE="4" WIDTH="255.75" HEIGHT="66.0584645669269" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L255.75 0 L255.75 66.0585 L0 66.0585 L0 0 Z" copath="M0 0 L255.75 0 L255.75 66.0587 L0 66.0587 L0 0 Z" gXpos="115.894938650307" gYpos="655.11850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
-            <StoryText>
-                <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-5"/>
-                <ITEXT CH="Tepper Unveils new Hell Campus"/>
-                <trail ALIGN="1"/>
-            </StoryText>
-        </PAGEOBJECT>
-        <PAGEOBJECT XPOS="380.25" YPOS="527.375" OwnPage="0" ItemID="234144016" PTYPE="2" WIDTH="324" HEIGHT="275.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.296160877513711" LOCALSCY="0.296160877513711" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/DIY Greencard.png" PRFILE="GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" EMBEDDED="0" path="M0 0 L324 0 L324 275.5 L0 275.5 L0 0 Z" copath="M0 0 L324 0 L324 275.5 L0 275.5 L0 0 Z" gXpos="380.25" gYpos="527.375" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="378.25" YPOS="527.375" OwnPage="0" ItemID="234144016" PTYPE="2" WIDTH="324" HEIGHT="275.5" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.296160877513711" LOCALSCY="0.296160877513711" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/DIY Greencard.png" PRFILE="GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" EMBEDDED="0" path="M0 0 L324 0 L324 275.5 L0 275.5 L0 0 Z" copath="M0 0 L324 0 L324 275.5 L0 275.5 L0 0 Z" gXpos="378.25" gYpos="527.375" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="-626.558282208589" YPOS="378.361963190184" OwnPage="-1" ItemID="236700064" PTYPE="4" WIDTH="353.01226993865" HEIGHT="161.190005313753" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L353.012 0 L353.012 161.19 L0 161.19 L0 0 Z" copath="M0 0 L353.012 0 L353.012 161.19 L0 161.19 L0 0 Z" gXpos="-626.558282208589" gYpos="378.361963190184" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
@@ -634,6 +613,14 @@
                 <DefaultStyle ALIGN="1" LINESP="27" FONT="Special Elite Regular" FONTSIZE="29" SCALEH="85" KERN="-9"/>
                 <ITEXT FONTSIZE="29" SCALEH="85" KERN="-9" CH="Optimal Cruise Ship Packing Found"/>
                 <trail LINESP="27"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="112.25" YPOS="645.301968503937" OwnPage="0" ItemID="246699296" PTYPE="2" WIDTH="259.75" HEIGHT="139.198031496063" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="0.258252377543717" LOCALSCY="0.258252377543717" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/crowBar.jpg" PRFILE="GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" EMBEDDED="0" path="M0 0 L259.75 0 L259.75 139.198 L0 139.198 L0 0 Z" copath="M0 0 L259.75 0 L259.75 139.198 L0 139.198 L0 0 Z" gXpos="112.25" gYpos="645.301968503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="112.275" YPOS="790.67696850394" OwnPage="0" ItemID="246676640" PTYPE="4" WIDTH="258.1" HEIGHT="12.6249999999968" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L258.1 0 L258.1 12.625 L0 12.625 L0 0 Z" copath="M0 0 L258.1 0 L258.1 12.625 L0 12.625 L0 0 Z" gXpos="112.275" gYpos="2454.67696850394" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="10" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0" FONT="Bell MT Italic" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH="Crowbar"/>
+                <trail ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>

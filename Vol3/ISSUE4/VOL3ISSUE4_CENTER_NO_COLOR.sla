@@ -659,37 +659,39 @@
             <StoryText>
                 <DefaultStyle LINESP="14" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="• "/>
-                <ITEXT CH="Student who refuses to pronounce Chinese peoples' names insists it's pronounced 'Barthhhelona'"/>
+                <ITEXT CH="Student who refuses to pronounce Chinese peoples' names insists it's pronounced 'Barthhhelona'."/>
                 <para LINESP="14"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="•"/>
-                <ITEXT CH=" New StuCo 99-042 announced: &quot;What they DON'T Teach You in CMU StuCos&quot;"/>
+                <ITEXT CH=" New StuCo 99-042 announced: &quot;What they DON'T Teach You in CMU StuCos&quot;."/>
                 <para LINESP="14"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="•"/>
-                <ITEXT CH=" ScottyLabs to make Hinge clone for CMU students. Some differentiating features will include GPA, past Internships, and automatic left swipes on all ECE majors."/>
+                <ITEXT CH=" CMU student signs up for Qatar course by mistake, forced to commute 14,000 miles/day."/>
                 <para LINESP="14"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="•"/>
-                <ITEXT CH=" CMU to add more statues around Walking to the Sky to make it even harder to tell if there are people there or not."/>
+                <ITEXT CH=" Student amazed by foreign culture after study abroad in Philadelphia."/>
                 <para LINESP="14"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="•"/>
-                <ITEXT CH=" AI-powered Rubber Duck revealed, trained on millions of rubber duck responses"/>
+                <ITEXT CH=" Statue of Liberty deported."/>
                 <para LINESP="14"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="•"/>
-                <ITEXT CH=" Sphinx of Thebes asks, &quot;Why doesn't she like me back?&quot;"/>
+                <ITEXT CH=" White boy SHOCKS locals by speaking in fluent Chinese accent."/>
                 <para LINESP="14"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="•"/>
                 <ITEXT CH=" &quot;Hello foot fetish artist? Yes...I'd like to commission a meter.&quot;"/>
                 <para LINESP="14"/>
-                <ITEXT CH="• Lebron James failed to make my lesbian friends straight."/>
+                <ITEXT CH="• CMU Qatar Campus sees record low numbers of students celebrating July 4th."/>
                 <para LINESP="14"/>
-                <ITEXT CH="• Ethics Student a little "/>
-                <ITEXT FONT="Bell MT Italic" CH="too"/>
-                <ITEXT CH=" aroused by South African history."/>
+                <ITEXT CH="• My dad got both anthrax and smallpox shots, and they didn't even protect him from the IED."/>
                 <para LINESP="14"/>
-                <ITEXT CH="• Top ten cartoon characters to suavely pick up foreigners by loudly impersonating"/>
+                <ITEXT CH="• &quot;Exciting new internship abroad!&quot; says ROTC."/>
                 <para LINESP="14"/>
-                <ITEXT CH="• Cabbage, goat, and wolf rationally discuss how to safely transport man across river."/>
+                <ITEXT CH="• Complete works of Saphho discovered in a Home Depot."/>
                 <para LINESP="14"/>
-                <ITEXT CH="• Student uses AI to write suicide note, gets posthumous AIV"/>
+                <ITEXT CH="• American Study-Abroad Program expands school shootings worldwide."/>
+                <para LINESP="14"/>
+                <ITEXT CH="• Ethics Student a little too aroused by South African history."/>
+                <para LINESP="14"/>
+                <ITEXT CH="• Student uses AI to write suicide note, gets posthumous AIV."/>
                 <para LINESP="14"/>
                 <para LINESP="14"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="15" SCALEH="100" SCALEV="100" CH="All this and more, not in this issue!"/>
