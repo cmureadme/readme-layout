@@ -378,7 +378,7 @@
                 <trail ALIGN="1" LINESP="18"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="382.769938650307" YPOS="446.625" OwnPage="0" ItemID="1823703817" PTYPE="4" WIDTH="316.3125" HEIGHT="356.801968503937" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316.313 0 L316.313 356.802 L0 356.802 L0 0 Z" copath="M0 0 L316.313 0 L316.313 356.802 L0 356.802 L0 0 Z" gXpos="382.769938650307" gYpos="446.625" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="382.769938650307" YPOS="439.801968503937" OwnPage="0" ItemID="1823703817" PTYPE="4" WIDTH="316.3125" HEIGHT="363.625" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L316.313 0 L316.313 363.625 L0 363.625 L0 0 Z" copath="M0 0 L316.313 0 L316.313 363.625 L0 363.625 L0 0 Z" gXpos="382.769938650307" gYpos="439.801968503937" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" CH="Gilgamesh Ichthyomorphosis"/>
@@ -388,21 +388,23 @@
                 <para/>
                 <ITEXT CH="    Last week during rolls, SDC buggy unveiled their newest buggy: Greed. The new design features a shorter body and lower ceiling, as well as a front mounted laser cannon. Upon questioning by ReadmE on what the purpose of this laser was, SDC merely responded “that's classified”. However, after some careful investigative journalism (that did not include trespassing), our brave journalists were able to pinpoint the intended use of the laser."/>
                 <para/>
-                <ITEXT CH="    According to internal SDC documents, the laser is able to get targeted wheels hot enough to burn them off of opposing teams' buggies. Additionally, CMU students are like cats, and when presented with a laser pointer will go ballistic. This advancement comes on the heels of SDC buggy’s latest scandal, where                   "/>
+                <ITEXT CH="    According to internal SDC documents, the laser is able to get targeted wheels hot enough to burn them off of opposing teams' buggies. Additionally, CMU students are like cats, and when presented with a laser pointer will go ballistic. This advancement comes on the heels of SDC buggy’s latest scandal, where "/>
+                <ITEXT FEATURES="inherit shadowed" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" CH="████████"/>
+                <ITEXT CH="  "/>
                 <ITEXT FCOLOR="Black" FSHADE="100" CH="████"/>
                 <ITEXT CH=" with "/>
                 <ITEXT FCOLOR="Black" FSHADE="100" CH="███"/>
                 <ITEXT CH=" using █████."/>
                 <para/>
-                <ITEXT CH="    An anonymous SDC mech explained to READme that the new design was based on the revolutionary thinking of Marjorie Taylor Greene. “I remember her rant on Jewish Space Lasers causing the California wildfires and was inspired to put a laser on top of our buggy.” "/>
+                <ITEXT CH="    An anonymous SDC mech explained to READme that the new design was based on the revolutionary thinking of Marjorie Taylor Greene. When asked for further explanation, they stated “I remember her rant on Jewish Space Lasers causing the California wildfires and was inspired to put a laser on top of our buggy.” "/>
                 <para/>
-                <ITEXT CH="    The SDC public relations team would like to clarify that even though the idea was based off of a “Jewish space laser”, the buggy space laser is “non-denominational.“ Furthermore, SDC buggy would like to clarify that Greed “holds no ill will towards the Jews, and if they need to start another California wildfire anytime soon, Greed is more than happy to help out with a good cause.”"/>
+                <ITEXT CH="    The SDC public relations team would like to clarify that even though the idea was based off of a “Jewish space laser”, the buggy space laser is “non-denominational.“ Furthermore SDC buggy would like to clarify that Greed “holds no ill will towards the Jews, and if they need to start another California wildfire anytime soon, Greed is more than happy to help out with a good cause.”"/>
                 <para/>
                 <ITEXT CH="    Readme reached out to Sweepstakes to ask if this violated any rules. They responded that because the laser doesn’t generate any momentum for the buggy, it’s “perfectly legal.” When asking if firing lasers at other teams broke any safety regulations, Sweepstakes stated that there isn’t a policy explicitly banning buggy-mounted laser cannons."/>
                 <para/>
                 <ITEXT CH="Some drivers are voicing concerns with this safety ruling. A FRINGE driver told reaDme: “I was perfectly fine cramming myself in a carbon fiber tube and going 35 MPH headfirst down a hill, but I draw the line at a laser pointer.” However, not all drivers are concerned with this new advancement. An APEX driver told readME “there’s nothing to worry about, SDC is always disqualified before race day.”"/>
                 <para/>
-                <ITEXT CH="    Reportedly, CIA has already begun working on responses to this new buggy. Leaked messages show a machine gun mounted to the top of their buggy. A CIA spokesperson told readme that “this is a purely defensive countermeasure.”"/>
+                <ITEXT CH="    Reportedly, CIA buggy has already begun working on responses to this new buggy. Leaked messages show a machine gun mounted to the top of their buggy. A CIA spokesperson told readme “this is a purely defensive countermeasure.”"/>
                 <para/>
                 <para/>
             </StoryText>
