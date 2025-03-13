@@ -474,7 +474,7 @@
                 <DefaultStyle LINESP="9" FONT="Bell MT Regular" FONTSIZE="9" SCALEH="98"/>
                 <ITEXT FONT="Bell MT Bold" CH="Tali Kirschenbaum"/>
                 <para ALIGN="1" LINESP="10"/>
-                <ITEXT FONT="Bell MT Italic" SCALEH="98" CH="On the no-fly list"/>
+                <ITEXT FONT="Bell MT Italic" SCALEH="98" CH="Questioning"/>
                 <para ALIGN="1" LINESP="9"/>
                 <ITEXT CH="    "/>
                 <para LINESP="9"/>
@@ -664,7 +664,7 @@
                 <para ALIGN="0" LINESP="10"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="307.9125" YPOS="1213.70196850394" OwnPage="1" ItemID="188004304" PTYPE="4" WIDTH="165.95" HEIGHT="32.5480314960598" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L165.95 0 L165.95 32.548 L0 32.548 L0 0 Z" copath="M0 0 L165.95 0 L165.95 32.5481 L0 32.5481 L0 0 Z" gXpos="307.9125" gYpos="1213.70196850394" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="307.9125" YPOS="1221.70196850394" OwnPage="1" ItemID="188004304" PTYPE="4" WIDTH="165.95" HEIGHT="32.5480314960598" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L165.95 0 L165.95 32.548 L0 32.548 L0 0 Z" copath="M0 0 L165.95 0 L165.95 32.5481 L0 32.5481 L0 0 Z" gXpos="307.9125" gYpos="1221.70196850394" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-10"/>
                 <ITEXT KERN="-12" CH="Torah  Review"/>
@@ -709,7 +709,7 @@
                 <para ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="114.9875" YPOS="29.875" OwnPage="0" ItemID="187998640" PTYPE="2" WIDTH="591.185078909613" HEIGHT="776" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.278335724533716" LOCALSCY="0.278335724533716" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/JEWISHISSUE-BW-01.png" PRFILE="Embedded sRGB IEC61966-2.1" IRENDER="0" EPROF="Embedded sRGB IEC61966-2.1" path="M0 0 L591.185 0 L591.185 776 L0 776 L0 0 Z" copath="M0 0 L591.185 0 L591.185 776 L0 776 L0 0 Z" ImageRes="0" gXpos="114.9875" gYpos="861.875" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="114.9875" YPOS="28.875" OwnPage="0" ItemID="187998640" PTYPE="2" WIDTH="591.185078909613" HEIGHT="776" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="0.281159420289855" LOCALSCY="0.281159420289855" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/JEWISHISSUE-BW-02.png" PRFILE="Embedded sRGB IEC61966-2.1" IRENDER="0" EPROF="Embedded sRGB IEC61966-2.1" path="M0 0 L591.185 0 L591.185 776 L0 776 L0 0 Z" copath="M0 0 L591.185 0 L591.185 776 L0 776 L0 0 Z" ImageRes="0" gXpos="114.9875" gYpos="860.875" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="-103.2125" YPOS="1347.75" OwnPage="-1" ItemID="188015632" PTYPE="4" WIDTH="190.325" HEIGHT="243.75" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.325 0 L190.325 243.75 L0 243.75 L0 0 Z" copath="M0 0 L190.325 0 L190.325 243.75 L0 243.75 L0 0 Z" gXpos="-103.2125" gYpos="1347.75" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="9" FONT="Bell MT Regular" FONTSIZE="9"/>
@@ -732,7 +732,7 @@
                 <para LINESP="9"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="310.6125" YPOS="861.70196850394" OwnPage="1" ItemID="188026960" PTYPE="4" WIDTH="391.5" HEIGHT="62.7980314960599" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L391.5 0 L391.5 62.798 L0 62.798 L0 0 Z" copath="M0 0 L391.499 0 L391.499 62.7981 L0 62.7981 L0 0 Z" gXpos="310.6125" gYpos="861.70196850394" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="310.6125" YPOS="861.70196850394" OwnPage="1" ItemID="188026960" PTYPE="4" WIDTH="391.5" HEIGHT="60.7980314960599" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L391.5 0 L391.5 60.798 L0 60.798 L0 0 Z" copath="M0 0 L391.499 0 L391.499 60.7981 L0 60.7981 L0 0 Z" gXpos="310.6125" gYpos="861.70196850394" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-5"/>
                 <ITEXT KERN="-6" CH="All my Jewish Friends say the most antisemitic things"/>
@@ -844,7 +844,7 @@
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="310.6125" YPOS="927.15196850394" OwnPage="1" ItemID="211515600" PTYPE="4" WIDTH="389.75" HEIGHT="283.348031496059" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L389.75 0 L389.75 283.348 L0 283.348 L0 0 Z" copath="M0 0 L389.75 0 L389.75 283.348 L0 283.348 L0 0 Z" gXpos="310.6125" gYpos="927.15196850394" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="310.6125" YPOS="919.35" OwnPage="1" ItemID="211515600" PTYPE="4" WIDTH="389.75" HEIGHT="298.4625" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="3" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L389.75 0 L389.75 298.463 L0 298.463 L0 0 Z" copath="M0 0 L389.75 0 L389.75 298.463 L0 298.463 L0 0 Z" gXpos="310.6125" gYpos="919.35" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle LINESP="9" FONT="Bell MT Regular" FONTSIZE="9" SCALEH="98" KERN="0"/>
                 <ITEXT FONT="Bell MT Bold" SCALEH="98" KERN="0" CH="Benner Rogers"/>
@@ -853,26 +853,30 @@
                 <ITEXT FONT="Bell MT Italic" SCALEH="98" KERN="0" CH="Oh god why do I use my real name for this"/>
                 <para ALIGN="1" LINESP="9"/>
                 <para LINESP="9"/>
-                <ITEXT FONT="Bell MT Regular" SCALEH="98" KERN="0" CH="   "/>
-                <ITEXT KERN="0" CH="As someone who isn’t Jewish, I have not been involved in the production of the ReadMe Passover Issue. But even if it’s not my place, I would just like to say something. And I swear, it isn’t because it’s a Jewish issue. I have nothing against the Jewish people. In fact, a lot of my friends are Jewish! Well, not that having Jewish friends protects me from being antisemitic, but that — I mean, I’m not friends with them because they’re Jewish, they just happen to be both my friend and Jewish. So I’m definitely cool with the Jews. [Editor’s Note: Can Confirm]"/>
+                <ITEXT CH="    As someone who isn’t Jewish, I have not been involved in the production of the ReadMe Passover Issue. But even if it’s not my place, I would just like to say something. And I swear, it isn’t because it’s written by Jewish people. I have nothing against the Jewish people. In fact, a lot of my friends are Jewish! Well, not that having Jewish friends precludes me from being antisemitic, but that — I mean, I’m not friends with them because they’re Jewish, they just happen to be both Jewish and my friends. So I’m definitely cool with the Jews."/>
                 <para LINESP="9"/>
-                <ITEXT FONT="Bell MT Italic" KERN="0" CH="    Jesus "/>
-                <ITEXT FONT="Bell MT Regular" KERN="0" CH="[Editor’s Note: Really? Interesting choice of messiah there]"/>
-                <ITEXT FONT="Bell MT Italic" KERN="0" CH=", Benner, what are you doing? Get a grip. Just… just move on already."/>
+                <ITEXT CH="    "/>
+                <ITEXT FONT="Bell MT Italic" CH="Jesus "/>
+                <ITEXT FONT="Bell MT Regular" CH="[Editor’s Note: Really? Interesting choice of messiah]"/>
+                <ITEXT FONT="Bell MT Italic" CH=", Benner, what are you doing? Get a grip. Just… just move on already."/>
                 <para LINESP="9"/>
-                <ITEXT KERN="0" CH="    All I’m saying is that a lot of my Jewish friends have a rather dark sense of humor. And there’s nothing wrong with that! But sometimes, from an outside perspective, it can look a little… questionable. Especially when they’re speaking in a public forum. I mean, I understand that humor can be a way of coping with generational trauma. I’m not trying to say that isn’t okay! I totally understand the appeal for self-deprecating humor. But we are in a very sensitive political time right now and, well, sometimes these kinds of jokes can come off rather poorly."/>
+                <ITEXT CH="    All I’m saying is that some of my Jewish friends have a rather dark sense of humor. Particularly the ones who write for ReadMe. And there’s nothing wrong with that! Everyone enjoys a macabre joke every once in a while. But sometimes, from an outside perspective, it can look a little… questionable. Especially when they make these jokes in public. I mean, I understand that humor can be a way of coping with generational trauma. I’m not trying to say that isn’t okay! I totally understand the appeal for self-deprecating humor. But we are in a very sensitive political time right now and, well, sometimes these kinds of jokes can come off rather poorly."/>
                 <para LINESP="9"/>
-                <ITEXT KERN="0" CH="    Look. I don’t think I’m getting my point across very well. I just… wow. I don’t know how else to say this, but… All of the Jewish people I know say the most antisemitic things I have ever encountered. I’ve heard absolutely vile statements come from the mouths of my Jewish friends. Things that if repeated, would instantly ruin any possibility of a bright future. I’m talking about talking points ripped straight from medieval europe. It can be really, really bad."/>
+                <ITEXT CH="    There might not even be any problems! I trust my friends to make good decisions while writing, and they’re all very funny people. It’s probably fine. "/>
                 <para LINESP="9"/>
-                <ITEXT KERN="0" CH="    Again, this isn’t because they’re Jewish! I love the Jewish people! And I’m definitely not antisemitic! But they keep saying these horrifying things in public and if I laugh I'm a bad person, and meanwhile all I’m trying to do is explain that "/>
-                <ITEXT FONT="Bell MT Italic" KERN="0" CH="no, I swear I’m not a Nazi, my friends are just Jewish assholes. "/>
+                <ITEXT CH="    Look. I don’t think I’m getting my point across very well. I just… wow. I don’t know how else to say this, but… The Jewish people in ReadMe have said the most antisemitic things I have ever encountered. I’ve heard absolutely vile statements come from the mouths of my Jewish friends. If I repeated them, it would instantly make me unhireable. I’m talking about talking points ripped straight from medieval Europe. It can be really, really bad."/>
                 <para LINESP="9"/>
-                <ITEXT FONT="Bell MT Italic" KERN="0" CH="    Oh man… This is not how I wanted this to go. What am I even saying? You need to save this right now, Benner, or you can kiss any hope for an internship goodbye. "/>
+                <ITEXT CH="    Again, this isn’t because they’re Jewish! I love the Jewish people! And I’m definitely not antisemitic! I’m just trying to explain that no, I swear I’m not a Nazi, my friends are just assholes who also happen to be Jewish. "/>
                 <para LINESP="9"/>
-                <ITEXT KERN="0" CH="    Do I need to convert to Judaism? Because I’ll do it. I am fully prepared to devote my life to reading the Torah and cooking for Shabbat dinner. Just please, someone let me know what I can do to make this stop. This self-hating Jewish comedy is ruining my life. I’m a good person I swear. Christ"/>
-                <ITEXT FONT="Bell MT Italic" KERN="0" CH=" [Editor’s Note: Hmm.]"/>
-                <ITEXT KERN="0" CH=", why am I even trying? It’s hopeless! Why does it have to be me? I’m not an antisemite! You have to believe me! It’s not my fault! It’s their fault! No, I mean, I don’t want to blame the — goddammit, it’s not the Jews’ fault either! "/>
-                <ITEXT FONT="Bell MT Italic" KERN="0" CH="I’m so sorry!"/>
+                <ITEXT FONT="Bell MT Italic" CH="    Oh man… This is not how I wanted this to go. What am I even saying? You need to save this right now, Benner, or you can kiss any hope for an internship goodbye. "/>
+                <para LINESP="9"/>
+                <ITEXT CH="    Do I need to convert to Judaism? Because I’ll do it. I am fully prepared to devote my life to reading the Torah and cooking for Shabbat dinner. Just please, someone let me know what I can do to make this stop. I’m a good person I swear. Christ "/>
+                <ITEXT FONT="Bell MT Italic" CH="[Editor’s Note: Hmm.]"/>
+                <ITEXT CH=", why am I even trying? It’s hopeless! Why does it have to be me? I’m not an antisemite! You have to believe me! It’s not my fault! It’s their fault! No, I mean, I don’t want to blame the — goddammit, it’s not the Jews’ fault either! I’m so sorry!"/>
+                <para LINESP="9"/>
+                <ITEXT CH="    "/>
+                <ITEXT FONT="Bell MT Italic" CH="Oh god, why did I have to use my real name for this goddamn newspaper?"/>
+                <para LINESP="9"/>
                 <para LINESP="9"/>
                 <para LINESP="9"/>
                 <para LINESP="9"/>
@@ -986,7 +990,7 @@
                 <para/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="477.1125" YPOS="1308.25" OwnPage="1" ItemID="211524096" PTYPE="4" WIDTH="223.5" HEIGHT="325" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L223.5 0 L223.5 325 L0 325 L0 0 Z" copath="M0 0 L223.5 0 L223.5 325 L0 325 L0 0 Z" gXpos="477.1125" gYpos="-2019.75000000001" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="477.1125" YPOS="1310.25" OwnPage="1" ItemID="211524096" PTYPE="4" WIDTH="223.5" HEIGHT="325" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L223.5 0 L223.5 325 L0 325 L0 0 Z" copath="M0 0 L223.5 0 L223.5 325 L0 325 L0 0 Z" gXpos="477.1125" gYpos="-2017.75000000001" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" CH="Robin Notin "/>
@@ -1050,7 +1054,7 @@
                 <para ALIGN="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="475.6125" YPOS="1213.31850393701" OwnPage="1" ItemID="211498608" PTYPE="4" WIDTH="224" HEIGHT="90.1814960629897" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L224 0 L224 90.1815 L0 90.1815 L0 0 Z" copath="M0 0 L224 0 L224 90.1818 L0 90.1818 L0 0 Z" gXpos="475.6125" gYpos="-450.68149606299" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="475.6125" YPOS="1221.31850393701" OwnPage="1" ItemID="211498608" PTYPE="4" WIDTH="224" HEIGHT="90.1814960629897" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L224 0 L224 90.1815 L0 90.1815 L0 0 Z" copath="M0 0 L224 0 L224 90.1818 L0 90.1818 L0 0 Z" gXpos="475.6125" gYpos="-442.68149606299" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-6"/>
                 <ITEXT KERN="-6" CH="Update to “Ain’t gunna work on Saturday”"/>
@@ -1079,14 +1083,13 @@
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="116.4125" YPOS="1361" OwnPage="1" ItemID="211535424" PTYPE="2" WIDTH="183.3375" HEIGHT="274.3" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.182866666666667" LOCALSCY="0.182866666666667" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="images/njbad (1).png" PRFILE="Embedded GIMP built-in sRGB" IRENDER="0" EPROF="Embedded GIMP built-in sRGB" path="M0 0 L183.338 0 L183.338 274.3 L0 274.3 L0 0 Z" copath="M0 0 L183.338 0 L183.338 274.3 L0 274.3 L0 0 Z" ImageRes="0" gXpos="116.4125" gYpos="1361" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
-        <PAGEOBJECT XPOS="307.3875" YPOS="1245.25" OwnPage="1" ItemID="211555248" PTYPE="4" WIDTH="162.975" HEIGHT="391.85" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L162.975 0 L162.975 391.85 L0 391.85 L0 0 Z" copath="M0 0 L162.975 0 L162.975 391.85 L0 391.85 L0 0 Z" gXpos="307.3875" gYpos="1245.25" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="307.3875" YPOS="1252.45" OwnPage="1" ItemID="211555248" PTYPE="4" WIDTH="162.975" HEIGHT="383.1875" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L162.975 0 L162.975 383.188 L0 383.188 L0 0 Z" copath="M0 0 L162.975 0 L162.975 383.188 L0 383.188 L0 0 Z" gXpos="307.3875" gYpos="1252.45" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="1" LINESP="9" FONT="Bell MT Regular" FONTSIZE="9"/>
                 <ITEXT FONT="Bell MT Bold" CH="J.P. Crawfish"/>
                 <ITEXT FONT="Bell MT Regular" CH=" "/>
                 <para ALIGN="1" LINESP="9"/>
                 <ITEXT FONT="Bell MT Italic" CH="My bat-mitzvah portion was just about crops and also the unwavering wrath of G-d"/>
-                <para ALIGN="1" LINESP="9"/>
                 <para ALIGN="1" LINESP="9"/>
                 <para ALIGN="1" LINESP="9"/>
                 <ITEXT FONT="Bell MT Bold" CH="Noah’s Ark"/>
@@ -1152,7 +1155,7 @@
                 <para ALIGN="1" LINESP="28"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="304.5" YPOS="1211.10196850394" OwnPage="1" ItemID="211541088" PTYPE="2" WIDTH="169.25" HEIGHT="423.69803149606" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="148.75" LOCALY="-34.375" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" path="M0 0 L169.25 0 L169.25 423.698 L0 423.698 L0 0 Z" copath="M0 0 L169.25 0 L169.25 423.701 L0 423.701 L0 0 Z" ImageRes="2" gXpos="304.5" gYpos="1211.10196850394" gWidth="387.8125" gHeight="262.198981734712" GRExtM="3" GRTYPM="2" GRSTARTXM="0" GRSTARTYM="0" GRENDXM="187.561233250025" GRENDYM="0" GRFOCALXM="0" GRFOCALYM="0" GRSCALEM="1" GRSKEWM="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="88.5" YPOS="1211.10196850394" OwnPage="1" ItemID="211541088" PTYPE="2" WIDTH="169.25" HEIGHT="423.69803149606" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="148.75" LOCALY="-34.375" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" path="M0 0 L169.25 0 L169.25 423.698 L0 423.698 L0 0 Z" copath="M0 0 L169.25 0 L169.25 423.701 L0 423.701 L0 0 Z" ImageRes="2" gXpos="88.5" gYpos="1211.10196850394" gWidth="387.8125" gHeight="262.198981734712" GRExtM="3" GRTYPM="2" GRSTARTXM="0" GRSTARTYM="0" GRENDXM="187.561233250025" GRENDYM="0" GRFOCALXM="0" GRFOCALYM="0" GRSCALEM="1" GRSKEWM="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <M_CSTOP RAMP="0" NAME="Black" SHADE="100" TRANS="1"/>
             <M_CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="1"/>
         </PAGEOBJECT>
