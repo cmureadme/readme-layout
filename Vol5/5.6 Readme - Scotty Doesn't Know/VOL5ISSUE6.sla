@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.6.1">
+    <DOCUMENT ANZPAGES="4" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="13.0032" BORDERRIGHT="13.0032" BORDERTOP="13.0032" BORDERBOTTOM="13.0032" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="2" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" TextDistLeft="0" TextDistRight="0" TextDistBottom="0" TextDistTop="0" FirstLineOffset="1" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="ISO Coated v2 300% (basICColor)" DPIn="sRGB display profile (ICC v2.2)" DPInCMYK="ISO Coated v2 300% (basICColor)" DPIn2="sRGB display profile (ICC v2.2)" DPIn3="ISO Coated v2 300% (basICColor)" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="0" SnapToGrid="0" SnapToElement="0" MINGRID="20.0016" MAJGRID="100.0008" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20.0016" ScratchLeft="100.0008" ScratchRight="100.0008" ScratchTop="20.0016" GapHorizontal="0" GapVertical="40.0032" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10.0008" dispY="10.0008" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.6" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" SPACE="CMYK" C="0" M="0" Y="0" K="100"/>
+        <COLOR NAME="Blue" SPACE="RGB" R="0" G="0" B="255"/>
+        <COLOR NAME="Cool Black" SPACE="CMYK" C="60" M="0" Y="0" K="100"/>
+        <COLOR NAME="Cyan" SPACE="CMYK" C="100" M="0" Y="0" K="0"/>
+        <COLOR NAME="Green" SPACE="RGB" R="0" G="255" B="0"/>
+        <COLOR NAME="Magenta" SPACE="CMYK" C="0" M="100" Y="0" K="0"/>
+        <COLOR NAME="Red" SPACE="RGB" R="255" G="0" B="0"/>
+        <COLOR NAME="Registration" SPACE="CMYK" C="100" M="100" Y="100" K="100" Register="1"/>
+        <COLOR NAME="Rich Black" SPACE="CMYK" C="60" M="40" Y="40" K="100"/>
+        <COLOR NAME="Warm Black" SPACE="CMYK" C="0" M="60" Y="29.8039215686275" K="100"/>
+        <COLOR NAME="White" SPACE="CMYK" C="0" M="0" Y="0" K="0"/>
+        <COLOR NAME="Yellow" SPACE="CMYK" C="0" M="0" Y="100" K="0"/>
+        <HYPHEN/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="ReadmeParagraph" LINESP="10" FIRST="18" OpticalMargins="0" FONT="Bell MT Regular" FONTSIZE="9" FONTFEATURES="-liga,-clig" LANGUAGE="en_US"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="4" markLength="20.0016" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="CampusPrinting [CMU](Mobility)" filename="" separationName="All" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="2" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="1" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0016" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="1" PageLayout="0" openAction="">
+            <Subset Name="Arial Regular"/>
+            <Subset Name="Bell MT Bold"/>
+            <Subset Name="Bell MT Italic"/>
+            <Subset Name="Bell MT Regular"/>
+            <Subset Name="Special Elite Regular"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="Section 1" From="0" To="3" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="20.0016" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="13.0032" BORDERRIGHT="13.0032" BORDERTOP="13.0032" BORDERBOTTOM="13.0032" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="852.0048" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="13.0032" BORDERRIGHT="13.0032" BORDERTOP="13.0032" BORDERBOTTOM="13.0032" NUM="1" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="1684.008" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="13.0032" BORDERRIGHT="13.0032" BORDERTOP="13.0032" BORDERBOTTOM="13.0032" NUM="2" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100.0008" PAGEYPOS="2516.0112" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="13.0032" BORDERRIGHT="13.0032" BORDERTOP="13.0032" BORDERBOTTOM="13.0032" NUM="3" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <FRAMEOBJECT InID="28855" XPOS="0" YPOS="0" OwnPage="-1" ItemID="191905808" PTYPE="4" WIDTH="275.04" HEIGHT="181.251968503937" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L275.04 0 L275.04 181.252 L0 181.252 L0 0 Z" copath="M0 0 L275.04 0 L275.04 181.252 L0 181.252 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="275.04" gHeight="181.251968503937" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Bold" CH="Danya Kogan"/>
+                <para ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Bold" CH="Anti-Kar Aktion"/>
+                <para ALIGN="1" LINESP="10"/>
+                <para ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="    Margaret Morrison Street is a beloved dainty throughway within the confines of Carnegie Mellon University bordered by many residence halls, such as Boss, McGill, Scobell, Welch, Henderson, as well as the biological hazard known as “Donner House”. "/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="    A safety analysis run by CMU’s highly esteemed professor Dr. Et Al revealed that the curbs contiguous with the sidewalks that barely anyone uses serve as a potential hazard towards automobiles passing through, thus the sidewalks had to go, expanding the road’s shoulder in the process."/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="    After the university had finished this construction, Dr. Et Al ran a subsequent analysis, this time measuring the road’s level of service. The results were “atrocious”, as the professor said himself. It was obvious what had to happen following this. Carnegie Mellon unveiled its brand new “Margaret Morrison Memorial 30-Lane Highway.” However, more analyses run by the world’s greatest academic suggested that the university has to build more lanes, otherwise the throughway wouldn’t live up to its maximum potential."/>
+                <trail/>
+            </StoryText>
+        </FRAMEOBJECT>
+        <FRAMEOBJECT InID="11351" XPOS="0" YPOS="0" OwnPage="-1" ItemID="185753680" PTYPE="4" WIDTH="275.04" HEIGHT="181.251968503937" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L275.04 0 L275.04 181.252 L0 181.252 L0 0 Z" copath="M0 0 L275.04 0 L275.04 181.252 L0 181.252 L0 0 Z" isInline="1" gXpos="0" gYpos="0" gWidth="275.04" gHeight="181.251968503937" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Bold" CH="Danya Kogan"/>
+                <para ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Bold" CH="Anti-Kar Aktion"/>
+                <para ALIGN="1" LINESP="10"/>
+                <para ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="    Margaret Morrison Street is a beloved dainty throughway within the confines of Carnegie Mellon University bordered by many residence halls, such as Boss, McGill, Scobell, Welch, Henderson, as well as the biological hazard known as “Donner House”. "/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="    A safety analysis run by CMU’s highly esteemed professor Dr. Et Al revealed that the curbs contiguous with the sidewalks that barely anyone uses serve as a potential hazard towards automobiles passing through, thus the sidewalks had to go, expanding the road’s shoulder in the process."/>
+                <para/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="    After the university had finished this construction, Dr. Et Al ran a subsequent analysis, this time measuring the road’s level of service. The results were “atrocious”, as the professor said himself. It was obvious what had to happen following this. Carnegie Mellon unveiled its brand new “Margaret Morrison Memorial 30-Lane Highway.” However, more analyses run by the world’s greatest academic suggested that the university has to build more lanes, otherwise the throughway wouldn’t live up to its maximum potential."/>
+                <trail/>
+            </StoryText>
+        </FRAMEOBJECT>
+        <PAGEOBJECT XPOS="363.4992" YPOS="2890.8" OwnPage="3" ItemID="196229824" PTYPE="2" WIDTH="324.25" HEIGHT="294.012499999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.255314960629921" LOCALSCY="0.255314960629921" LOCALX="-3.91046414803371" LOCALY="338.277563608327" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="5.5 images/Jensen.PNG" PRFILE="Embedded Display P3" IRENDER="0" EPROF="Embedded Display P3" path="M0 0 L324.25 0 L324.25 294.012 L0 294.012 L0 0 Z" copath="M0 0 L324.25 0 L324.25 294.012 L0 294.012 L0 0 Z" gXpos="363.4992" gYpos="394.790400000001" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="347.4221" YPOS="3188.5479" OwnPage="3" ItemID="192512032" PTYPE="6" WIDTH="349.283699999999" HEIGHT="104.0317" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.7208" PCOLOR2="Black" PLINEART="1" path="M0 0 L349.284 0 L349.284 104.032 L0 104.032 L0 0 Z" copath="M0 0 L349.284 0 L349.284 104.032 L0 104.032 L0 0 Z" gXpos="347.4221" gYpos="3188.5479" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="351.0617" YPOS="3192.1875" OwnPage="3" ItemID="192533648" PTYPE="4" WIDTH="345.3525" HEIGHT="107.1405" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L345.353 0 L345.353 107.141 L0 107.141 L0 0 Z" copath="M0 0 L345.354 0 L345.354 107.141 L0 107.141 L0 0 Z" gXpos="693.5897" gYpos="677.2803" gWidth="269.403" gHeight="114.244495412844" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESP="9" FONT="Bell MT Regular" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="8" CH="This issue of readme is brought to you by: "/>
+                <para ALIGN="0" LINESP="9"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="8" CH="Editors:"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="8" CH=" "/>
+                <ITEXT FONTSIZE="8" CH="Eshaan Joshi, Gilgamesh Ichthyomorphosis, Tali Kirschenbaum, Jupiter, Bertie Wooster, Allyn, Daniel Yin, Violet R. Blu, Spiggy40"/>
+                <ITEXT CH=", Citron"/>
+                <para ALIGN="0" LINESP="9"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="8" CH="Cover Art:"/>
+                <ITEXT FONTSIZE="8" CH=" Allyn"/>
+                <para ALIGN="0" LINESP="9"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="8" CH="Problem Solvers:"/>
+                <ITEXT FONTSIZE="8" CH=" Daniel Yin, Rock Buddy, Tali Kirschenbaum"/>
+                <para ALIGN="0" LINESP="9"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="8" CH="Journalists:"/>
+                <ITEXT FONTSIZE="8" CH=" "/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="8" CH=" "/>
+                <ITEXT FONTSIZE="8" CH="Violet R. Blu, Jupiter, Allyn, Citron, Isabelle Florence, WP, Mar. K. O., Bertie Wooster"/>
+                <para ALIGN="0" LINESP="9"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="8" CH="Artists:"/>
+                <ITEXT FONTSIZE="8" KERN="0" CH=" "/>
+                <ITEXT FONTSIZE="8" CH="Alex Worth, Air Conditioner, Raytheon Blues, Allyn, Violet R. Blu, Jonathan, Benner Rodgers, Jupiter"/>
+                <para ALIGN="0" LINESP="9"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="8" CH="Tech Team:"/>
+                <ITEXT FONTSIZE="8" CH=" Gilgamesh Ichthyomorphosis, Allyn"/>
+                <para ALIGN="0" LINESP="9"/>
+                <para ALIGN="0" LINESP="9"/>
+                <ITEXT FONTSIZE="8" CH="As always: Brought to you by the CMU KGB. See ya next time!"/>
+                <trail ALIGN="0" LINESP="9"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="113.5008" YPOS="1367.375" OwnPage="1" ItemID="192806928" PTYPE="2" WIDTH="337.584" HEIGHT="261.989" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="-782.499999999999" LOCALY="-261.25" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" PRFILE="sRGB display profile (ICC v2.2)" IRENDER="0" path="M0 0 L337.584 0 L337.584 261.989 L0 261.989 L0 0 Z" copath="M0 0 L337.582 0 L337.582 261.991 L0 261.991 L0 0 Z" ImageRes="2" gXpos="113.5008" gYpos="1367.375" gWidth="285.744" gHeight="214.145" GRExtM="3" GRTYPM="2" GRSTARTXM="0" GRSTARTYM="0" GRENDXM="327.650925168442" GRENDYM="0" GRFOCALXM="0" GRFOCALYM="0" GRSCALEM="1" GRSKEWM="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <M_CSTOP RAMP="0" NAME="Black" SHADE="100" TRANS="1"/>
+            <M_CSTOP RAMP="1" NAME="Black" SHADE="100" TRANS="1"/>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="400.8062" YPOS="1005.3798" OwnPage="1" ItemID="192812192" PTYPE="4" WIDTH="292.3813" HEIGHT="321.8702" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L292.381 0 L292.381 321.87 L0 321.87 L0 0 Z" copath="M0 0 L292.381 0 L292.381 321.87 L0 321.87 L0 0 Z" gXpos="400.8062" gYpos="1005.3798" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Bold" CH="Citron"/>
+                <para ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Italic" CH="This is no laughing matter"/>
+                <para ALIGN="1" LINESP="10"/>
+                <para ALIGN="0" LINESP="10"/>
+                <ITEXT CH="    On March 23, 2026, Farnam Jahanian stood in front of an eager crowd of students, stakeholders, and passerby to give the State of the University Address. But what he actually had to say shocked the eager crowd, bystanders, upstanders, netizens, and several global leaders.   "/>
+                <para/>
+                <ITEXT CH="    “Ladies and gentlemen,” began CMU’s President, “I know you have all come here today to hear about CMU’s past, present, and future. I know you are here to hear about our finances, our policies, and our officials. But sometimes, there are things more important than the lifeblood of a diminutive private school with a laughably low US News ranking. Sometimes, a man’s pride must come first.”"/>
+                <para/>
+                <ITEXT CH="    He leaned into the mic. “Do you think that I am deaf? Blind? Do you think I somehow do not notice the jokes cracked about me behind my back, day in and day out on this campus? The jokes about my rotund, bald head, with a sheen like a used corolla? The jokes about the stool I’m standing on right now to make people think I’m of average height? The jokes about my fence sitting? My greed? The filthy, naughty things Gina Casalegno does to me every night… allegedly? Well, I am no joke, and I will put up with this no longer.”"/>
+                <para/>
+                <ITEXT CH="    He ripped off his shirt. "/>
+                <para/>
+                <ITEXT CH="    “This is a message to any of you wretched students who still want to put dishonor on my name: I challenge you to a duel. A clash with our lives on the line. We can do it ten paces, MMA, boxing, Brazilian Jiu-Jitsu, whatever. I’m more proficient than you could dream of being in all of them. They call Mike Tyson Iron Mike? Well, they call me Steel Farn’. Steel is stronger than iron because it’s an alloy, which is when you combine metals to make a stronger material, much like how CMU’s new guiding principle, “AInnovation”, combines AI and innovation to create our future[...]”"/>
+                <para/>
+                <ITEXT CH="    So far, no challengers have come forward, seemingly pissing their pants at the prospect of facing Steel Farn’. The entire university – indeed, the entire world is in a state of tension, waiting to see what unfolds next. Well, I can guarantee one thing: the era of Farnam jokes is over. "/>
+                <para/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="398.4375" YPOS="869.70676850394" OwnPage="1" ItemID="186691696" PTYPE="4" WIDTH="293.75" HEIGHT="132.66823149606" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L293.75 0 L293.75 132.668 L0 132.668 L0 0 Z" copath="M0 0 L293.749 0 L293.749 132.668 L0 132.668 L0 0 Z" gXpos="398.4375" gYpos="869.70676850394" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="32" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-6"/>
+                <ITEXT CH=" Farnam done with the jokes; Challenges any student brave enough to a duel"/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1308.5" YPOS="785.1125" OwnPage="-1" ItemID="186697072" PTYPE="4" WIDTH="111.5" HEIGHT="12.08946850394" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" TEXTFLOWMODE="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L111.5 0 L111.5 12.0895 L0 12.0895 L0 0 Z" copath="M0 0 L111.5 0 L111.5 12.0895 L0 12.0895 L0 0 Z" gXpos="1308.5" gYpos="-878.887500000009" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="10" FONT="Bell MT Bold" FONTSIZE="9" SCALEH="100" KERN="0"/>
+                <ITEXT FONT="Bell MT Bold" CH="See GET LAID, 2"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="-954.625" YPOS="1057.5" OwnPage="-1" ItemID="186702448" PTYPE="2" WIDTH="313.375" HEIGHT="405.375" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.485852713178295" LOCALSCY="0.485852713178295" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../OneDrive/Documents/GitHub/readme-layout/Vol5/5.3 Readme Sells Out/images/Cryptid Corner Vol 18.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L313.375 0 L313.375 405.375 L0 405.375 L0 0 Z" copath="M0 0 L313.375 0 L313.375 405.375 L0 405.375 L0 0 Z" gXpos="-954.625" gYpos="1057.5" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1311.75" YPOS="2751.65" OwnPage="-1" ItemID="194416672" PTYPE="4" WIDTH="327.225" HEIGHT="160.975" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L327.225 0 L327.225 160.975 L0 160.975 L0 0 Z" copath="M0 0 L327.225 0 L327.225 160.975 L0 160.975 L0 0 Z" gXpos="1311.75" gYpos="2751.65" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Bold" CH="&quot;Roan Tysh&quot;"/>
+                <para ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Italic" CH="Got 6 slugs in me. So slimy"/>
+                <para ALIGN="1" LINESP="10"/>
+                <para ALIGN="0" LINESP="10"/>
+                <ITEXT CH="    It's a late night. I'm a private eye, packing a revolver and a second revolver, 'cause that's what you need in the rough-and-tumble streets of North Oakland. I wear a wire and a long coat, but there's one thing you'll never catch me with, and that's a cigarette drooping from my lip."/>
+                <para/>
+                <ITEXT CH="    It may seem sexy, slinking around the city's underground with an orange-tipped cig and a mean look, but the health impacts are no joke. Throat cancer would put me out of more than one business, and I can't go hacking and coughing sitting behind a painting with eyes that seem to follow one man in particular. That's just not how I operate."/>
+                <para/>
+                <ITEXT CH="    I can admit to having an oral fixation or two. Nothin' a little bourbon doesn't sort out on the cold nights when I'm on the prowl for a case. But when that doesn't cut it, you'll never catch me scrounging for a light. I get my fix like a real man. I'm quick and proper about it, and I swallow."/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1585.375" YPOS="2716.30196850394" OwnPage="-1" ItemID="194961440" PTYPE="4" WIDTH="337" HEIGHT="90.0980314960598" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L337 0 L337 90.098 L0 90.098 L0 0 Z" copath="M0 0 L337 0 L337 90.098 L0 90.098 L0 0 Z" gXpos="1585.375" gYpos="2716.30196850394" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-6"/>
+                <ITEXT CH="Smoking cigarettes is the coward's way out of an oral fixation"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="115.7768" YPOS="1404" OwnPage="1" ItemID="194966816" PTYPE="4" WIDTH="332.928" HEIGHT="222.0048" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L332.928 0 L332.928 222.005 L0 222.005 L0 0 Z" copath="M0 0 L332.928 0 L332.928 222.006 L0 222.006 L0 0 Z" gXpos="115.7768" gYpos="1404" gWidth="269.717976444195" gHeight="141.32" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="14" FONT="Bell MT Regular" FONTSIZE="9" KERN="0"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="• "/>
+                <ITEXT CH="&quot;Fire!&quot; and other things to shout during a popular movie."/>
+                <para LINESP="14"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="•"/>
+                <ITEXT CH=" Summer returns to Pittsburgh after covert groundhog assassination succeeds."/>
+                <para LINESP="14"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="• "/>
+                <ITEXT CH="Huang was chosen to encapsulate the most important part of the CMU experience: Having AI shoved down your throat."/>
+                <para LINESP="14"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="• "/>
+                <ITEXT CH="Wind storm politely opens door, walks inside CMU building, and breaks every computer."/>
+                <para LINESP="14"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="• "/>
+                <ITEXT CH="Protein folding orgy finally gets the structure right."/>
+                <para LINESP="14"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="•"/>
+                <ITEXT CH=" &quot;Cowboys and Indians&quot; too politically incorrect? Try &quot;Bombers and Hospitals&quot;!"/>
+                <para LINESP="14"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="• "/>
+                <ITEXT CH="Today's Wordle: &quot;BBBBB&quot;."/>
+                <para LINESP="14"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="• "/>
+                <ITEXT CH="Freak temperature drop causes huge windfall for smalltalk enjoyers."/>
+                <para LINESP="14"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="• "/>
+                <ITEXT CH="College of Engineering to drop ethics requirements from core to better align with industry standard."/>
+                <para LINESP="14"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="• "/>
+                <ITEXT CH="CMU to finally address mental health crisis by installing slightly softer chairs in GHC."/>
+                <para LINESP="14"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="• "/>
+                <ITEXT CH="Ambitious professor covers 437 slides in a single lecture."/>
+                <para LINESP="14"/>
+                <para LINESP="14"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="15" SCALEH="100" SCALEV="100" KERN="0" CH="All this and more, not in this issue!"/>
+                <para ALIGN="2" LINESP="14"/>
+                <para LINESP="14"/>
+                <para LINESP="14"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="114.6248" YPOS="1370.47667703575" OwnPage="1" ItemID="195256352" PTYPE="4" WIDTH="334.08" HEIGHT="33.7361229642527" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L334.08 0 L334.08 33.7361 L0 33.7361 L0 0 Z" copath="M0 0 L334.078 0 L334.078 33.7361 L0 33.7361 L0 0 Z" gXpos="114.6248" gYpos="1370.47667703575" gWidth="269.878236679753" gHeight="62.9921229642525" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-2"/>
+                <ITEXT FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-3" CH="Rejected Headlines #34"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1279.1875" YPOS="1065.15" OwnPage="-1" ItemID="195261728" PTYPE="2" WIDTH="291.6125" HEIGHT="467.1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.30811345646438" LOCALSCY="0.30811345646438" LOCALX="4372.9833012203" LOCALY="916.058659815885" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../OneDrive/Documents/GitHub/readme-layout/Vol5/5.3 Readme Sells Out/images/Screenshot 2026-01-13 163652.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L291.613 0 L291.613 467.1 L0 467.1 L0 0 Z" copath="M0 0 L291.613 0 L291.613 467.1 L0 467.1 L0 0 Z" ImageRes="0" gXpos="1279.1875" gYpos="1065.15" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1266" YPOS="1607.75" OwnPage="-1" ItemID="186142960" PTYPE="4" WIDTH="289.875" HEIGHT="28.2999999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L289.875 0 L289.875 28.3 L0 28.3 L0 0 Z" copath="M0 0 L289.875 0 L289.875 28.3 L0 28.3 L0 0 Z" gXpos="1266" gYpos="775.74999999999" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="10" FONT="Bell MT Italic" FONTSIZE="9" SCALEH="100" KERN="0"/>
+                <ITEXT CH="Some wonder if this might be too much for one student. Others look for a class to fill in that pesky Friday lunch break//"/>
+                <ITEXT FONT="Bell MT Bold" CH="Gilgamesh Ichthyomorphosis"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="-25.3125" YPOS="1282.9375" OwnPage="-1" ItemID="195534864" PTYPE="5" WIDTH="100" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" SHADE="0" PCOLOR2="Black" PLINEART="1" path="" gXpos="-25.3125" gYpos="1282.9375" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="-560.4152" YPOS="2475.70066850394" OwnPage="-1" ItemID="195540128" PTYPE="4" WIDTH="247.832" HEIGHT="96.6945314960603" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L247.832 0 L247.832 96.6945 L0 96.6945 L0 0 Z" copath="M0 0 L247.832 0 L247.832 96.6949 L0 96.6949 L0 0 Z" gXpos="-560.4152" gYpos="1643.70066850394" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-11"/>
+                <ITEXT CH="---"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="354.6867" YPOS="2527.1872" OwnPage="3" ItemID="186148336" PTYPE="2" WIDTH="342.8821" HEIGHT="454.0628" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.530447196261682" LOCALSCY="0.530447196261682" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="5.5 images/Cryptid Corner Vol 29.png" IRENDER="0" EMBEDDED="0" path="M0 0 L342.882 0 L342.882 454.063 L0 454.063 L0 0 Z" copath="M0 0 L342.882 0 L342.882 454.063 L0 454.063 L0 0 Z" gXpos="354.6867" gYpos="2527.1872" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="460.9182" YPOS="1328.4" OwnPage="1" ItemID="186151056" PTYPE="2" WIDTH="234.3943" HEIGHT="302.256" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.183185454545455" LOCALSCY="0.183185454545455" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="5.5 images/KGB Invades Cathy.png" IRENDER="0" EMBEDDED="0" path="M0 0 L234.394 0 L234.394 302.256 L0 302.256 L0 0 Z" copath="M0 0 L234.394 0 L234.394 302.256 L0 302.256 L0 0 Z" ImageRes="0" gXpos="460.9182" gYpos="1328.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="114.5022" YPOS="1168.7612" OwnPage="1" ItemID="186153776" PTYPE="4" WIDTH="273.8103" HEIGHT="194.7388" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L273.81 0 L273.81 194.739 L0 194.739 L0 0 Z" copath="M0 0 L273.81 0 L273.81 194.739 L0 194.739 L0 0 Z" gXpos="114.5022" gYpos="1168.7612" gWidth="268.411518861382" gHeight="214.4468" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" KERN="0"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="WP"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH="Vegan"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" ALIGN="0" LINESP="10"/>
+                <ITEXT CH="    The average lifespan of marmota momax, the common groundhog, is 2 to 3 years. That is 2 to 3 years too long. I don’t remember what that fuckass rodent said or did back in February, but whether that little prick saw his shadow or not is really irrelevant to the fact that, twice in the last two weeks, the temperature dropped 40 degrees from one day to the next. If this had happened once, I would have forgiven him. It wasn’t bad the first time. I spent my entire day going “wow, will ya believe the weather?” to people, who appreciated my observations and wittiness. But twice? I am not a hateful person, but Punxsutawney Phil has got to go. "/>
+                <para/>
+                <ITEXT CH="     I have found that Punxsutawney, PA is just under 80 miles from Pittsburgh. "/>
+                <para/>
+                <ITEXT CH="    Conveniently, at the time of writing this, I am just under 8 feet away from my 0.22 rimfire rifle. Ultimately, I believe in treating all living things with respect. That is why I will skin him, and make a hat out of his pelt. Although it is a shame to kill an animal, this strategic act will send a message to all future iterations, hopefully preventing more bloodshed"/>
+                <para/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="132.8062" YPOS="864.576" OwnPage="1" ItemID="194117648" PTYPE="2" WIDTH="252.567999999999" HEIGHT="243.424" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.152609063444108" LOCALSCY="0.152609063444108" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="5.5 images/Doherty Life Form Comic.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L252.568 0 L252.568 243.424 L0 243.424 L0 0 Z" copath="M0 0 L252.568 0 L252.568 243.424 L0 243.424 L0 0 Z" gXpos="132.8062" gYpos="864.576" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="113.9262" YPOS="1105.736" OwnPage="1" ItemID="194120368" PTYPE="4" WIDTH="275.2863" HEIGHT="61.9139999999998" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L275.286 0 L275.286 61.914 L0 61.914 L0 0 Z" copath="M0 0 L275.285 0 L275.285 61.9139 L0 61.9139 L0 0 Z" gXpos="113.9262" gYpos="1105.736" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="32" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-6"/>
+                <ITEXT FONT="Special Elite Regular" FONTSIZE="60" CH="Kill Phill"/>
+                <trail LINESP="25"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1072.54397272727" YPOS="1775.008" OwnPage="-1" ItemID="194128752" PTYPE="2" WIDTH="222.021818181818" HEIGHT="554.100218181818" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.370036363636363" LOCALSCY="0.370036363636363" LOCALX="-12.3092816430814" LOCALY="-30.3852201257862" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Tartan poll.png" IRENDER="0" EMBEDDED="0" path="M0 0 L222.022 0 L222.022 554.1 L0 554.1 L0 0 Z" copath="M0 0 L222.022 0 L222.022 554.1 L0 554.1 L0 0 Z" gXpos="1072.54397272727" gYpos="111.0016" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1059.96942727273" YPOS="2262.19185454545" OwnPage="-1" ItemID="196227104" PTYPE="2" WIDTH="206.265454545455" HEIGHT="270.858181818182" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.161776827094474" LOCALSCY="0.161776827094474" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="KGB Ad.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" path="M0 0 L206.265 0 L206.265 270.858 L0 270.858 L0 0 Z" copath="M0 0 L206.265 0 L206.265 270.858 L0 270.858 L0 0 Z" gXpos="1059.96942727273" gYpos="598.18545454545" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="119.3272" YPOS="2529.4608" OwnPage="3" ItemID="196268432" PTYPE="4" WIDTH="223.6736" HEIGHT="123.7392" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L223.674 0 L223.674 123.739 L0 123.739 L0 0 Z" copath="M0 0 L223.675 0 L223.675 123.739 L0 123.739 L0 0 Z" gXpos="632.5128" gYpos="1422.0016" gWidth="282.55" gHeight="45.4146798798563" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="88" KERN="-9"/>
+                <ITEXT CH="Evil Careers for those in the Arts (Oh, and the Humanities)"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.0952" YPOS="2653.875" OwnPage="3" ItemID="196271264" PTYPE="4" WIDTH="223.404" HEIGHT="641.203690909091" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L223.404 0 L223.404 641.204 L0 641.204 L0 0 Z" copath="M0 0 L223.404 0 L223.404 641.204 L0 641.204 L0 0 Z" gXpos="631.2808" gYpos="1546.41579999999" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" KERN="0" LANGUAGE="en_US"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Violet R. Blu"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" KERN="0" CH="Geneva Unconventional "/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <para PARENT="Default Paragraph Style" LINESP="10"/>
+                <ITEXT CH="   . Every freshman comes to CMU with the same dream. They may have different passions, but when they stand up at convocation, each one has the same thought in their mind: my very own Faustian contract is just around the corner. Unfortunately, achieving this dream is easier for some than it is for others. While engineers lock eyes with Lockheed Martin and programmers become pals with Palantir, students of the liberal and fine arts often feel left out. As a humanist myself, I understand the pain of having an unmarketable soul. That’s why I’ve compiled a list of high-paying, dastardly jobs for people like me. If you want to feel the fires of Hell against your skin but don’t want to take Calculus 1, keep reading!"/>
+                <para/>
+                <ITEXT CH="    As AI art proliferates every corner of society, visual artists may despair at the prospect of being replaced. They can now rest assured that their talents haven’t become obsolete. Since discovering that AI-generated art has the potential to reflect biases, firms like OpenAI and Anthropic have started hiring CPOs (Chief Prejudice Officers). These CPOs are skilled artists with people-driven backgrounds. Through algorithmic analysis, they figure out what stereotypes an LLM is already reproducing. Then, they use their creative skills to teach it a new one. According to Gemini CPO Sagit Tarius, “It’s a really rewarding position, but it does get exhausting sometimes. Like, how many pictures of all-male boardrooms do I have to draw before Gem gets the hint? Even robot women are hopeless. Wait, that gives me an idea!” Tarius then started working on a sketch of a pink Tesla crashing itself into a curb. "/>
+                <para/>
+                <ITEXT CH="    But let’s say your skills lie more in the realm of music. This is where propaganda comes in. For decades, the art form has been used to manipulate the American populace. This practice continues today, especially as the US prepares to launch a war with Iran. Producer Midi East told ReadME how the conflict has affected his career: “It’s been fucking great, man. I started timing all my beats to the firing speed of a Black Hawk, and now the White House TikTok keeps putting them over their kill cams. Free publicity.” This story serves as an inspiration for performers everywhere. We may not have drummer boys anymore, but the war machine still needs people with a song in their heart and a beat in their feet."/>
+                <para/>
+                <ITEXT CH="    Now that the artists have their souls in the checkout tab, it’s time to focus on the humanists. I was a literature major in my day, so I’ll throw those nerds a bone. New editions of classic books come out every year. Many of these books contain problematic language and shocking examples of bigotry. Why not add more? Such is the philosophy of Jane Galveston, editor-in-chief at Puffin Press. Last year, Galveston published an updated edition of Gone with the Wind, which received intense backlash for historical inaccuracy. When reached for comment, Galveston stated, “They just don’t want you to know who really won.” Her impressive bibliography continues to expand. She recently published an abridged Of Mice and Men, where George “gets it over with right out of the gate”. Thanks to this new edition, students will never again have to read about difficult things like poverty or being friends with a disabled person. All it takes is one dedicated humanist to inspire the CEOs of tomorrow."/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="1149.7767" YPOS="2251.52" OwnPage="-1" ItemID="196232544" PTYPE="2" WIDTH="289.8775" HEIGHT="192.96" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.076283552631579" LOCALSCY="0.076283552631579" LOCALX="-2.28358530758886" LOCALY="-157.832187734479" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="boobies.png" PRFILE="Embedded Display P3" IRENDER="0" EPROF="Embedded Display P3" path="M0 0 L289.878 0 L289.878 192.96 L0 192.96 L0 0 Z" copath="M0 0 L289.878 0 L289.878 192.96 L0 192.96 L0 0 Z" gXpos="1149.7767" gYpos="587.5136" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="1116.97745714286" YPOS="1658.9084" OwnPage="-1" ItemID="196237984" PTYPE="6" WIDTH="211.3992" HEIGHT="484.916914285715" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.7208" PCOLOR2="Black" PLINEART="1" path="M0 0 L211.399 0 L211.399 484.917 L0 484.917 L0 0 Z" copath="M0 0 L211.399 0 L211.399 484.917 L0 484.917 L0 0 Z" gXpos="1116.97745714286" gYpos="1658.9084" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="111.4382" YPOS="24.344" OwnPage="0" ItemID="196240704" PTYPE="2" WIDTH="601.344" HEIGHT="782.208" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.311415846711548" LOCALSCY="0.311415846711548" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Cover, bg 3 (5.6 cover).png" IRENDER="0" EMBEDDED="0" path="M0 0 L601.344 0 L601.344 782.208 L0 782.208 L0 0 Z" copath="M0 0 L601.344 0 L601.344 782.208 L0 782.208 L0 0 Z" gXpos="111.4382" gYpos="24.344" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="114.45" YPOS="2150.11850393701" OwnPage="2" ItemID="222553824" PTYPE="4" WIDTH="352.7367" HEIGHT="127.381496062989" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L352.737 0 L352.737 127.381 L0 127.381 L0 0 Z" copath="M0 0 L352.737 0 L352.737 127.382 L0 127.382 L0 0 Z" gXpos="114.45" gYpos="2150.11850393701" gWidth="282.55" gHeight="45.4146798798563" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-7"/>
+                <ITEXT CH="Novel research indicates possible weakly positive correlation between alcohol and drunkenness"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="115.919557142857" YPOS="1738.0048" OwnPage="2" ItemID="222556656" PTYPE="4" WIDTH="353.760116406547" HEIGHT="146.1166" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="2" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L353.76 0 L353.76 146.117 L0 146.117 L0 0 Z" copath="M0 0 L353.76 0 L353.76 146.117 L0 146.117 L0 0 Z" gXpos="115.919557142857" gYpos="906.004799999987" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" KERN="0" LANGUAGE="en_US"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="WP"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" CH="Driven to Succeed"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <para/>
+                <ITEXT CH="    The City of Pittsburgh has released an official statement following questions about PRT’s bus route redesign, which includes retiring a bus line on Fifth Avenue and rerouting affected buses to Forbes Avenue."/>
+                <para/>
+                <ITEXT CH="    “Obviously, there are concerns about safety, given the increased congestion on Forbes Avenue,” said PRT spokesperson [Funny Name]. “That’s pretty much always our number one priority. Fortunately, we were able to draw from the immense talent pool of university students here and hire an intern to come up with a way to deal with this.”"/>
+                <para/>
+                <ITEXT CH="    The architect of the solution, a Carnegie Mellon graduate, was eager to explain the solution in detail when contacted for comment. “Basically, the idea is to have land mines placed randomly on the road. Every so often, a car will blow up, which will efficiently reduce the total traffic density. The total number of exploded vehicles can be modeled as a Poisson process, so we can model how many casualties to expect on a given day. It’s really neat!” "/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="476.6376" YPOS="2293.07142857143" OwnPage="2" ItemID="222559488" PTYPE="2" WIDTH="129.673385714286" HEIGHT="129.628571428571" RADRECT="64.0975999999998" FRTYPE="2" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="37" LOCALSCX="0.337574404761904" LOCALSCY="0.337574404761904" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="../../relevant_images/Readme_logo_attempt_-_base_layer_Original.png" PRFILE="Embedded sRGB built-in" IRENDER="0" EPROF="Embedded sRGB built-in" NUMDASH="2" DASHS="0.1 0.1 " DASHOFF="0" path="M0 64.0976 C0 28.6975 28.6975 0 64.0976 0 L65.5758 0 C100.976 0 129.673 28.6975 129.673 64.0976 L129.673 65.531 C129.673 100.931 100.976 129.629 65.5758 129.629 L64.0976 129.629 C28.6975 129.629 0 100.931 0 65.531 L0 64.0976 Z" copath="M0 64.0976 C0 28.6975 28.6975 0 64.0976 0 L65.5758 0 C100.976 0 129.673 28.6975 129.673 64.0976 L129.673 65.531 C129.673 100.931 100.976 129.629 65.5758 129.629 L64.0976 129.629 C28.6975 129.629 0 100.931 0 65.531 L0 64.0976 Z" ImageRes="2" gXpos="476.6376" gYpos="3125.07142857143" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="618.330985714286" YPOS="2286.39428571429" OwnPage="2" ItemID="222562320" PTYPE="4" WIDTH="80.2334065934062" HEIGHT="140.756483516483" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L80.2334 0 L80.2334 140.756 L0 140.756 L0 0 Z" copath="M0 0 L80.2334 0 L80.2334 140.756 L0 140.756 L0 0 Z" gXpos="618.330985714286" gYpos="3950.39428571429" gWidth="148.791424346969" gHeight="91.0679" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="10" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0" FONT="Bell MT Regular" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="Bored? Single? Looking for love at Carnegie Mellon? Forget that, come write satire for readme! No experience required or requested. We're always looking for clowns, funny guys, smart-alecks, layout artists, "/>
+                <ITEXT CH="and a way to get through this snow."/>
+                <para ALIGN="1" LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="490.5008" YPOS="2438.27856850394" OwnPage="2" ItemID="222550992" PTYPE="4" WIDTH="208.15" HEIGHT="23.58553149606" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L208.15 0 L208.15 23.5855 L0 23.5855 L0 0 Z" copath="M0 0 L208.15 0 L208.15 23.5856 L0 23.5856 L0 0 Z" gXpos="490.5008" gYpos="4102.27856850394" gWidth="83.0251962789551" gHeight="60.8179" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="0" LINESP="10" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0" FONT="Bell MT Regular" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" CH="We're looking for you and your skills, or lack thereof, Saturdays at 5 in DH"/>
+                <ITEXT CH="1211"/>
+                <para ALIGN="1" LINESP="10"/>
+                <para ALIGN="1" LINESP="10"/>
+                <para ALIGN="1" LINESP="10"/>
+                <para ALIGN="1" LINESP="10"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="483.7367" YPOS="1696.88615384615" OwnPage="2" ItemID="222576480" PTYPE="4" WIDTH="215.2241" HEIGHT="134.695384615385" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L215.224 0 L215.224 134.695 L0 134.695 L0 0 Z" copath="M0 0 L215.224 0 L215.224 134.695 L0 134.695 L0 0 Z" gXpos="483.7367" gYpos="2528.88615384615" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-10"/>
+                <ITEXT SCALEH="90" KERN="-10" CH="Tales from Beyond Frick Park IV: One Bottle after another"/>
+                <trail LINESP="31"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="485.724392307692" YPOS="1840.66461538461" OwnPage="2" ItemID="222570816" PTYPE="4" WIDTH="214.772407692308" HEIGHT="443.606784615385" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L214.772 0 L214.772 443.607 L0 443.607 L0 0 Z" copath="M0 0 L214.772 0 L214.772 443.607 L0 443.607 L0 0 Z" gXpos="485.724392307692" gYpos="1008.6646153846" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" KERN="0" LANGUAGE="en_US"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Surely Jacks Son"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" KERN="0" CH="Dead Serious "/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <para/>
+                <ITEXT CH="    No one noticed the first bottle."/>
+                <para/>
+                <ITEXT CH="    It appeared on Jenna’s desk in studio sometime between 2:14 AM, when she first sat down, and 5:37, when she finally looked away from her Rhino model to rest her eyes for a minute. A slightly crinkled 20 oz Dasani bottle, half full, faintly warm, light yellow, she assumed it was hers, though she didn’t remember drinking anything much: just three Rockstars, the same as every morning."/>
+                <para/>
+                <ITEXT CH="    By the time the sunrise brilliantly illuminated the CFA roof, setting flames dancing across the aluminum roof and ornate railing, there were three. They showed up quietly, tucked between rockite models and drafting paper. No one claimed them, but no one threw them away either. Every student was too busy slaving away at their final projects."/>
+                <para/>
+                <ITEXT CH="    As studio crit approached, it was just one bottle after another. Three became five. Five became twelve. Twelve became too many for anyone to have time to count. Their amber contents seemed to deepen in color and, though no one actually mustered the courage to check, it seemed as though the bottles remained perpetually warm."/>
+                <para/>
+                <ITEXT CH="    By doomsday, the day before final projects were to be critiqued, studio was impassable. The air seemed thick and humid, though the bottles remained sealed and, indeed, the room was no more moist than before. Review was harsh, as always. Eight students would not be returning the next year, including Jenna. Afterwards, desks were cleared for the summer, the bottles intentionally ignored. Facilities Management Services came through and cleared everything remaining. "/>
+                <para/>
+                <ITEXT CH="    When the remaining students returned in August, studio looked exactly as it always had. A new cohort of first-years occupied the section, unaware of the horrors that had occurred there all too recently, and the prior class was on the opposite side of the room. The events were collectively rationalized until, like the entirety of the architecture program, it almost made sense, almost seemed humane; it was perhaps not normal but certainly not that abnormal. And this is the only way they’re able to persevere."/>
+                <para/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="118.361315384615" YPOS="1697.53538461538" OwnPage="2" ItemID="222565152" PTYPE="4" WIDTH="348.753846153846" HEIGHT="36.2735153846158" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L348.754 0 L348.754 36.2735 L0 36.2735 L0 0 Z" copath="M0 0 L348.753 0 L348.753 36.2735 L0 36.2735 L0 0 Z" gXpos="-153.9367" gYpos="2849.30676850394" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-10"/>
+                <ITEXT SCALEH="90" KERN="-10" CH="Traffic Calming Solution"/>
+                <trail LINESP="31"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="671.5008" YPOS="2450.16711136108" OwnPage="2" ItemID="222573648" PTYPE="4" WIDTH="28.7213545454545" HEIGHT="12.0269977298291" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR2="Black" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L28.7214 0 L28.7214 12.027 L0 12.027 L0 0 Z" copath="M0 0 L28.7214 0 L28.7214 12.027 L0 12.027 L0 0 Z" gXpos="671.5008" gYpos="-45.836088638927" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="2" LINESP="10" FONT="Bell MT Italic" FONTSIZE="9"/>
+                <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" CH="Page 4"/>
+                <trail ALIGN="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="113.724392307692" YPOS="1937.26461538462" OwnPage="2" ItemID="222579312" PTYPE="4" WIDTH="351.962307692308" HEIGHT="207.731784615385" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L351.962 0 L351.962 207.732 L0 207.732 L0 0 Z" copath="M0 0 L351.962 0 L351.962 207.732 L0 207.732 L0 0 Z" gXpos="113.724392307692" gYpos="1105.2646153846" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" KERN="0" LANGUAGE="en_US"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Elliot Rice"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" KERN="0" CH="The alphabet has 26 letters "/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <para/>
+                <ITEXT CH="    I woke up last night, sweaty from a nightmare of a different world. A different world that made me more scared than I’ve ever been before."/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="Sine was called sime. Cosine was called cosime. Tangent was called tamgent. In fact, all of trigonometry was called trigomometry. I feared for my life, for the life of others. Mathematical operations were just not the same. Minus was called mimus. Math was called math. Integrals, even, were called imtegrals."/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="If reading this scares you, it should. Before you go to sleep tonight, think: what if it was different?"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="What if it was different, and sine was called sime?"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="What if it was different, and cosine was called cosime?"/>
+                <para ALIGN="1"/>
+                <para ALIGN="1"/>
+                <ITEXT CH="What if it was different, and tangent was called tamgent?"/>
+                <para ALIGN="1"/>
+                <para/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="125.7367" YPOS="1889.88615384615" OwnPage="2" ItemID="222567984" PTYPE="4" WIDTH="339.95" HEIGHT="44.1186461538462" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L339.95 0 L339.95 44.1186 L0 44.1186 L0 0 Z" copath="M0 0 L339.95 0 L339.95 44.1185 L0 44.1185 L0 0 Z" gXpos="125.7367" gYpos="2721.88615384615" gWidth="282.55" gHeight="45.4146798798563" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESP="28" FONT="Special Elite Regular" FONTSIZE="33" SCALEH="90" KERN="-10"/>
+                <ITEXT SCALEH="90" KERN="-10" CH="My Triamgular Mightmare"/>
+                <trail LINESP="31"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="116.724392307692" YPOS="2282.26461538461" OwnPage="2" ItemID="222593472" PTYPE="4" WIDTH="353.712307692308" HEIGHT="177.735384615385" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="7.2" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L353.712 0 L353.712 177.735 L0 177.735 L0 0 Z" copath="M0 0 L353.712 0 L353.712 177.735 L0 177.735 L0 0 Z" gXpos="116.724392307692" gYpos="1450.2646153846" gWidth="0" gHeight="0" PSTYLE="Default Paragraph Style" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Default Paragraph Style" LINESP="10" FONT="Bell MT Regular" FONTSIZE="9" KERN="0" LANGUAGE="en_US"/>
+                <ITEXT FONT="Bell MT Bold" FONTSIZE="9" CH="Dr. Et Al"/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <ITEXT FONT="Bell MT Italic" FONTSIZE="9" KERN="0" CH="Drunk now that I have tenure "/>
+                <para PARENT="Default Paragraph Style" ALIGN="1" LINESP="10"/>
+                <para/>
+                <ITEXT CH="    Prior work has extensively characterized the social, physiological, and psychological effects of alcohol consumption; however, the direct relationship between alcohol and drunkenness remains underexplored. A survey of prior research finds that all studies presume a positive correlation, despite no papers establishing this, revealing a significant flaw in the literature."/>
+                <para/>
+                <ITEXT CH="    In this study, a convenience sample of 84 undergraduate participants was observed across naturally occurring weekend conditions. Alcohol consumption was measured by self-reporting while intoxication was estimated by a proxy function of postural instability, vocal amplitude, confidence, and frequency of unsolicited emotional disclosure. Linear regression reveals a strong correlation between alcohol consumption and drunkenness (p&lt;0.000001), with higher levels of intake consistently predicting higher levels of drunkenness. Potential future work may investigate causality, whether this is replicable across cohorts, and what exactly a “jungle juice” consists of."/>
+                <para/>
+                <para/>
+                <para/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
