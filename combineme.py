@@ -32,6 +32,9 @@ def main():
     centerfold_arguments.add_argument(
         "--centerfold2", "-c2", action="store", help="Path to second centerfold pdf (absolute path)", required=False,
     )
+    centerfold_arguments.add_argument(
+        "--centerfold3", "-c3", action="store", help="Path to third centerfold pdf (absolute path)", required=False,
+    )
 
     args = parser.parse_args()
 
@@ -41,6 +44,8 @@ def main():
         centerfold1_reader = PdfReader(args.centerfold1)
     if args.centerfold2:
         centerfold2_reader = PdfReader(args.centerfold2)
+    if args.centerfold3:
+        centerfold3_reader = PdfReader(args.centerfold3)
 
     writer = PdfWriter()
 
@@ -57,6 +62,11 @@ def main():
     if args.centerfold2:
         writer.add_page(centerfold2_reader.pages[0])
         writer.add_page(centerfold2_reader.pages[1])
+
+    # Centerfold 3
+    if args.centerfold3:
+        writer.add_page(centerfold3_reader.pages[0])
+        writer.add_page(centerfold3_reader.pages[1])
 
     # Last two pages of the tabloid
     writer.add_page(tabloid_reader.pages[2])
