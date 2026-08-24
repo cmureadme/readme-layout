@@ -3,6 +3,7 @@
 # Silly pdf combine script
 # Written by Luke Erbsen
 
+import os
 import sys
 import argparse
 from pypdf import PdfWriter, PdfReader
@@ -20,23 +21,51 @@ def main():
     required_arguments.add_argument(
         "--destination", "-d", action="store", help="Folder destination for new pdf include leading slash such as foo/", required=True,
     )
-    required_arguments.add_argument(
-        "--tabloid", "-t", action="store", help="Path to tabloid pdf", required=True,
+
+    content_arguments = parser.add_argument_group("Paths to pdfs")
+
+    content_arguments.add_argument(
+            "--tabloid", "-t", action="store", help="Path to tabloid pdf", required=False,
     )
-
-    centerfold_arguments = parser.add_argument_group("Centerfold paths")
-
-    centerfold_arguments.add_argument(
+    content_arguments.add_argument(
         "--centerfold1", "-c1", action="store", help="First centerfold pdf (absolute path)", required=False,
     )
-    centerfold_arguments.add_argument(
+    content_arguments.add_argument(
         "--centerfold2", "-c2", action="store", help="Path to second centerfold pdf (absolute path)", required=False,
     )
-    centerfold_arguments.add_argument(
+    content_arguments.add_argument(
         "--centerfold3", "-c3", action="store", help="Path to third centerfold pdf (absolute path)", required=False,
     )
 
+    parser.add_argument(
+        "--automatic", "-a", action="store_true",
+        help="Automatically locate the tabloid and centerfold pdfs in the destination folder "
+             "using the naming pattern VOL<volume>ISSUE<issue>.pdf, "
+             "VOL<volume>ISSUE<issue>_CENTER.pdf, VOL<volume>ISSUE<issue>_CENTER_2.pdf, "
+             "and VOL<volume>ISSUE<issue>_CENTER_3.pdf",
+    )
+
     args = parser.parse_args()
+
+    if args.automatic:
+        base = f"VOL{args.volume}ISSUE{args.issue}"
+
+        tabloid_path = os.path.join(args.destination, f"{base}.pdf")
+        if not os.path.isfile(tabloid_path):
+            sys.exit(f"Automatic mode: could not find tabloid pdf at {tabloid_path}")
+        args.tabloid = tabloid_path
+
+        centerfold1_path = os.path.join(args.destination, f"{base}_CENTER.pdf")
+        args.centerfold1 = centerfold1_path if os.path.isfile(centerfold1_path) else None
+
+        centerfold2_path = os.path.join(args.destination, f"{base}_CENTER_2.pdf")
+        args.centerfold2 = centerfold2_path if os.path.isfile(centerfold2_path) else None
+
+        centerfold3_path = os.path.join(args.destination, f"{base}_CENTER_3.pdf")
+        args.centerfold3 = centerfold3_path if os.path.isfile(centerfold3_path) else None
+    else:
+        if not args.tabloid:
+            parser.error("--tabloid/-t is required unless --automatic/-a is used")
 
     # PDF readers
     tabloid_reader = PdfReader(args.tabloid)
@@ -79,4 +108,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
