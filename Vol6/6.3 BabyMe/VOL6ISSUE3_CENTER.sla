@@ -243,7 +243,7 @@
         <PAGEOBJECT XPOS="114.4008" YPOS="111.811442519685" OwnPage="0" ItemID="203050976" PTYPE="4" WIDTH="189.482086614173" HEIGHT="13.4137795275592" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L189.482 0 L189.482 13.4138 L0 13.4138 L0 0 Z" copath="M0 0 L189.482 0 L189.482 13.4138 L0 13.4138 L0 0 Z" gXpos="114.4008" gYpos="111.811442519685" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT FONT="Courier New Bold" FONTSIZE="7" CH="VOL VI, ISSUE III, 9/23/2026"/>
+                <ITEXT FONT="Courier New Bold" FONTSIZE="7" CH="VOL VI, ISSUE III, 9/24/2026"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
@@ -314,10 +314,10 @@
                 <ITEXT CH="CMU Qatar named honorary Ivy for exceptional use of slave labor."/>
                 <para ALIGN="0" LINESP="14"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="• "/>
-                <ITEXT CH="SCOTUS rules Americans still free to pursue happiness to wherever it went."/>
+                <ITEXT CH="Pittsburgh Steelers reported galvanized."/>
                 <para ALIGN="0" LINESP="14"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="• "/>
-                <ITEXT CH="Quant firms bet big on red."/>
+                <ITEXT CH="If you give a mouse a cookie: a powerful critique of the welfare state."/>
                 <para ALIGN="0" LINESP="14"/>
                 <ITEXT FONT="Bell MT Regular" FONTSIZE="9" SCALEH="100" SCALEV="100" KERN="0" CH="• "/>
                 <ITEXT CH="All work and no play makes Jack a competitive applicant."/>
