@@ -304,11 +304,11 @@
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Editors"/>
                 <ITEXT CH=" "/>
                 <para ALIGN="1" LINESP="12" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
-                <ITEXT CH="Violet Connor, Eshaan Joshi, Jupiter, Greeshma Adiga, Alex Soda, Cade Suko, Rock Buddy, Daniel Yin, Violet R. Blu"/>
+                <ITEXT CH="Violet Connor, Eshaan Joshi, Jupiter, Greeshma Adiga, Cade Suko"/>
                 <para ALIGN="1" LINESP="12" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Cover Art:"/>
                 <ITEXT FONTSIZE="10" CH=" "/>
-                <ITEXT CH="joehill's shoes"/>
+                <ITEXT CH="Gavin Radford"/>
                 <para ALIGN="1" LINESP="12" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Problem Solvers"/>
                 <para ALIGN="1" LINESP="12" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
@@ -316,11 +316,11 @@
                 <para ALIGN="1" LINESP="12" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Journalists"/>
                 <para ALIGN="1" LINESP="12" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
-                <ITEXT CH="Tali Kirschenbaum, Cade Suko, Alex Soda, Mar K.O., Surely Jacks Son, Isabelle Florence, Violet R. Blu, Citron, Camilia Creutzfeldt, Daniel Yin"/>
+                <ITEXT CH="Tali Kirschenbaum, Alex Soda, Mar K.O., Surely Jacks Son, Isabelle Florence, Citron, Camilia Creutzfeldt, Daniel Yin, Baili Jiang, Rock Buddy"/>
                 <para ALIGN="1" LINESP="12" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Artists"/>
                 <para ALIGN="1" LINESP="12" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
-                <ITEXT CH="Isabelle Florence, Jupiter, Daniel Yin, joehill's shoes, Benner Rogers"/>
+                <ITEXT CH="Isabelle Florence, joehill's shoes, Benner Rogers, Iggy the Scrawn, Violet Connor, Baili Jiang"/>
                 <para ALIGN="1" LINESP="12" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
                 <ITEXT FONT="Bell MT Bold" FONTSIZE="10" CH="Tech Team"/>
                 <para ALIGN="1" LINESP="12" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0" NumerationFormat="0" NumerationName="&lt;local block&gt;" NumerationLevel="0" NumerationPrefix="" NumerationSuffix="." NumerationStart="1" NumerationOther="1" NumerationHigher="1"/>
